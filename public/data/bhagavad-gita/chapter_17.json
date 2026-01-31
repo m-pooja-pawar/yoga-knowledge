@@ -1,0 +1,182 @@
+{
+  "id": 17,
+  "title_sanskrit": "श्रद्धात्रयविभागयोगः",
+  "title_hindi": "तीन प्रकार की श्रद्धा",
+  "title_english": "The Yoga of the Three Kinds of Faith",
+  "verses": [
+    {
+      "verse_number": "1",
+      "sanskrit": "अर्जुन उवाच ये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयान्विताः । तेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः ॥",
+      "hindi": "अर्जुन बोले — जो लोग शास्त्र को छोड़े बिना श्रद्धा से पूजा करते हैं, उनकी श्रद्धा कैसी होती है?",
+      "english": "Arjuna said — Those who worship with faith but without proper rules, what kind of faith do they have?"
+    },
+    {
+      "verse_number": "2",
+      "sanskrit": "श्रीभगवानुवाच त्रिविधा भवति श्रद्धा देहिनां सा स्वभावजा । सात्त्विकी राजसी चैव तामसी चेति तां शृणु ॥",
+      "hindi": "भगवान बोले — श्रद्धा तीन प्रकार की होती है — सात्त्विक, राजसी और तामसी।",
+      "english": "The Lord said — Faith is of three kinds: sattvic, rajasic, and tamasic."
+    },
+    {
+      "verse_number": "3",
+      "sanskrit": "सत्त्वानुरूपा सर्वस्य श्रद्धा भवति भारत । श्रद्धामयोऽयं पुरुषो यो यच्छ्रद्धः स एव सः ॥",
+      "hindi": "मनुष्य जैसी श्रद्धा रखता है, वैसा ही बन जाता है।",
+      "english": "A person becomes what his faith is."
+    },
+    {
+      "verse_number": "4",
+      "sanskrit": "यजन्ते सात्त्विका देवान्यक्षरक्षांसि राजसाः । प्रेतान्भूतगणांश्चान्ये यजन्ते तामसा जनाः ॥",
+      "hindi": "सात्त्विक लोग देवताओं की पूजा करते हैं।",
+      "english": "Sattvic people worship gods."
+    },
+    {
+      "verse_number": "5",
+      "sanskrit": "अशास्त्रविहितं घोरं तप्यन्ते ये तपो जनाः । दम्भाहंकारसंयुक्ताः कामरागबलान्विताः ॥",
+      "hindi": "जो लोग शास्त्र के विरुद्ध कठोर तप करते हैं।",
+      "english": "Those who perform severe penance without rules."
+    },
+    {
+      "verse_number": "6",
+      "sanskrit": "कर्षयन्तः शरीरस्थं भूतग्राममचेतसः । मां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान् ॥",
+      "hindi": "वे अपने शरीर और भीतर स्थित आत्मा को कष्ट देते हैं।",
+      "english": "They torture the body and the soul within."
+    },
+    {
+      "verse_number": "7",
+      "sanskrit": "आहारस्त्वपि सर्वस्य त्रिविधो भवति प्रियः । यज्ञस्तपस्तथा दानं तेषां भेदमिमं शृणु ॥",
+      "hindi": "भोजन, यज्ञ, तप और दान भी तीन प्रकार के होते हैं।",
+      "english": "Food, sacrifice, penance, and charity are also of three kinds."
+    },
+    {
+      "verse_number": "8",
+      "sanskrit": "आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः । रस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः ॥",
+      "hindi": "जो भोजन स्वास्थ्य और सुख बढ़ाता है, वह सात्त्विक है।",
+      "english": "Food that increases health and happiness is sattvic."
+    },
+    {
+      "verse_number": "9",
+      "sanskrit": "कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः । आहारा राजसस्येष्टा दुःखशोकामयप्रदाः ॥",
+      "hindi": "बहुत तीखा और खट्टा भोजन राजसी है।",
+      "english": "Very spicy and sour food is rajasic."
+    },
+    {
+      "verse_number": "10",
+      "sanskrit": "यातयामं गतरसं पूति पर्युषितं च यत् । उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम् ॥",
+      "hindi": "बासी और अशुद्ध भोजन तामसिक है।",
+      "english": "Stale and impure food is tamasic."
+    },
+    {
+      "verse_number": "11",
+      "sanskrit": "अफलाकाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते । यष्टव्यमेवेति मनः समाधाय स सात्त्विकः ॥",
+      "hindi": "फल की इच्छा बिना किया गया यज्ञ सात्त्विक है।",
+      "english": "Sacrifice done without desire for results is sattvic."
+    },
+    {
+      "verse_number": "12",
+      "sanskrit": "अभिसन्धाय तु फलं दम्भार्थमपि चैव यत् । इज्यते भरतश्रेष्ठ तं यज्ञं विद्धि राजसम् ॥",
+      "hindi": "फल और दिखावे के लिए किया यज्ञ राजसी है।",
+      "english": "Sacrifice done for show or reward is rajasic."
+    },
+    {
+      "verse_number": "13",
+      "sanskrit": "विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम् । श्रद्धाविरहितं यज्ञं तामसं परिचक्षते ॥",
+      "hindi": "श्रद्धा रहित यज्ञ तामसिक है।",
+      "english": "Sacrifice without faith is tamasic."
+    },
+    {
+      "verse_number": "14",
+      "sanskrit": "देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम् । ब्रह्मचर्यमहिंसा च शारीरं तप उच्यते ॥",
+      "hindi": "देव, गुरु और माता-पिता का सम्मान शारीरिक तप है।",
+      "english": "Respect to elders and purity is bodily penance."
+    },
+    {
+      "verse_number": "15",
+      "sanskrit": "अनुद्वेगकरं वाक्यं सत्यं प्रियहितं च यत् । स्वाध्यायाभ्यसनं चैव वाङ्मयं तप उच्यते ॥",
+      "hindi": "मधुर, सत्य वाणी वाचिक तप है।",
+      "english": "Gentle and truthful speech is verbal penance."
+    },
+    {
+      "verse_number": "16",
+      "sanskrit": "मनःप्रसादः सौम्यत्वं मौनमात्मविनिग्रहः । भावसंशुद्धिरित्येतत्तपो मानसमुच्यते ॥",
+      "hindi": "मन की शुद्धता मानसिक तप है।",
+      "english": "Purity of mind is mental penance."
+    },
+    {
+      "verse_number": "17",
+      "sanskrit": "श्रद्धया परया तप्तं तपस्तत्त्रिविधं नरैः । अफलाकाङ्क्षिभिर्युक्तैः सात्त्विकं परिचक्षते ॥",
+      "hindi": "फल की इच्छा बिना किया तप सात्त्विक है।",
+      "english": "Penance done without desire for results is sattvic."
+    },
+    {
+      "verse_number": "18",
+      "sanskrit": "सत्कारमानपूजार्थं तपो दम्भेन चैव यत् । क्रियते तदिह प्रोक्तं राजसं चलमध्रुवम् ॥",
+      "hindi": "मान-सम्मान के लिए किया तप राजसी है।",
+      "english": "Penance done for honor is rajasic."
+    },
+    {
+      "verse_number": "19",
+      "sanskrit": "मूढग्राहेणात्मनो यत्पीडया क्रियते तपः । परस्योत्सादनार्थं वा तत्तामसमुदाहृतम् ॥",
+      "hindi": "अपने या दूसरों को कष्ट देने वाला तप तामसिक है।",
+      "english": "Penance that causes pain is tamasic."
+    },
+    {
+      "verse_number": "20",
+      "sanskrit": "दातव्यमिति यद्दानं दीयतेऽनुपकारिणे । देशे काले च पात्रे च तद्दानं सात्त्विकं स्मृतम् ॥",
+      "hindi": "योग्य व्यक्ति को सही समय पर दिया दान सात्त्विक है।",
+      "english": "Charity given at the right time is sattvic."
+    },
+    {
+      "verse_number": "21",
+      "sanskrit": "यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः । दीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम् ॥",
+      "hindi": "फल की इच्छा से दिया दान राजसी है।",
+      "english": "Charity given expecting return is rajasic."
+    },
+    {
+      "verse_number": "22",
+      "sanskrit": "अदेशकाले यद्दानमपात्रेभ्यश्च दीयते । असत्कृतमवज्ञातं तत्तामसमुदाहृतम् ॥",
+      "hindi": "गलत समय और स्थान पर दिया दान तामसिक है।",
+      "english": "Charity given improperly is tamasic."
+    },
+    {
+      "verse_number": "23",
+      "sanskrit": "ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः । ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा ॥",
+      "hindi": "ॐ तत् सत् — यह ब्रह्म का संकेत है।",
+      "english": "Om Tat Sat refers to the Supreme Truth."
+    },
+    {
+      "verse_number": "24",
+      "sanskrit": "तस्मादोमित्युदाहृत्य यज्ञदानतपःक्रियाः । प्रवर्तन्ते विधानोक्ताः सततं ब्रह्मवादिनाम् ॥",
+      "hindi": "ॐ कहकर यज्ञ, दान और तप किए जाते हैं।",
+      "english": "Sacrifice and charity begin with Om."
+    },
+    {
+      "verse_number": "25",
+      "sanskrit": "तदित्यनभिसन्धाय फलं यज्ञतपःक्रियाः । दानक्रियाश्च विविधाः क्रियन्ते मोक्षकाङ्क्षिभिः ॥",
+      "hindi": "फल की इच्छा बिना 'तत्' कहकर कर्म किए जाते हैं।",
+      "english": "Using 'Tat', actions are done without desire for reward."
+    },
+    {
+      "verse_number": "26",
+      "sanskrit": "सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते । प्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते ॥",
+      "hindi": "'सत्' शब्द सत्य और शुभ कर्मों के लिए है।",
+      "english": "'Sat' means truth and goodness."
+    },
+    {
+      "verse_number": "27",
+      "sanskrit": "यज्ञे तपसि दाने च स्थितिः सदिति चोच्यते । कर्म चैव तदर्थीयं सदित्येवाभिधीयते ॥",
+      "hindi": "यज्ञ, तप और दान में स्थिरता 'सत्' कहलाती है।",
+      "english": "Steadiness in sacrifice and charity is 'Sat'."
+    },
+    {
+      "verse_number": "28",
+      "sanskrit": "अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत् । असदित्युच्यते पार्थ न च तत्प्रेत्य नो इह ॥",
+      "hindi": "श्रद्धा बिना किया कर्म निष्फल होता है।",
+      "english": "Actions done without faith are fruitless."
+    },
+    {
+      "verse_number": "closing",
+      "sanskrit": "॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे श्रद्धात्रयविभागयोगो नाम सप्तदशोऽध्यायः ॥",
+      "hindi": "इस प्रकार श्रीमद्भगवद्गीता में श्रद्धात्रयविभागयोग नामक सत्रहवाँ अध्याय समाप्त होता है।",
+      "english": "Thus ends the seventeenth chapter, Shraddhatraya Vibhaga Yoga, in the Bhagavad Gita."
+    }
+  ]
+}

@@ -1,0 +1,504 @@
+{
+  "id": 18,
+  "title_sanskrit": "मोक्षसंन्यासयोगः",
+  "title_hindi": "मोक्ष और संन्यास का योग",
+  "title_english": "The Yoga of Liberation through Renunciation",
+  "verses": [
+    {
+      "verse_number": "1",
+      "sanskrit": "अर्जुन उवाच संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् । त्यागस्य च हृषीकेश पृथक्केशिनिषूदन ॥",
+      "hindi": "अर्जुन बोले — हे महाबाहु! मैं संन्यास और त्याग का तत्त्व जानना चाहता हूँ।",
+      "english": "Arjuna said — O mighty-armed, I wish to know the truth of renunciation and surrender."
+    },
+    {
+      "verse_number": "2",
+      "sanskrit": "श्रीभगवानुवाच काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः । सर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः ॥",
+      "hindi": "भगवान बोले — इच्छायुक्त कर्मों का त्याग संन्यास है और कर्मफल का त्याग त्याग कहलाता है।",
+      "english": "The Lord said — Giving up desire-driven actions is renunciation; giving up results is called surrender."
+    },
+    {
+      "verse_number": "3",
+      "sanskrit": "त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः । यज्ञदानतपःकर्म न त्याज्यमिति चापरे ॥",
+      "hindi": "कुछ लोग कर्म को दोषपूर्ण मानकर त्याग योग्य कहते हैं, अन्य ऐसा नहीं मानते।",
+      "english": "Some say action should be abandoned, others say it should not."
+    },
+    {
+      "verse_number": "4",
+      "sanskrit": "निश्चयं शृणु मे तत्र त्यागे भरतसत्तम । त्यागो हि पुरुषव्याघ्र त्रिविधः सम्प्रकीर्तितः ॥",
+      "hindi": "हे भारतश्रेष्ठ! त्याग के तीन प्रकार हैं, यह सुनो।",
+      "english": "O best of Bharatas, hear about the three kinds of surrender."
+    },
+    {
+      "verse_number": "5",
+      "sanskrit": "यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत् । यज्ञो दानं तपश्चैव पावनानि मनीषिणाम् ॥",
+      "hindi": "यज्ञ, दान और तप त्यागने योग्य नहीं हैं।",
+      "english": "Sacrifice, charity, and penance should not be abandoned."
+    },
+    {
+      "verse_number": "6",
+      "sanskrit": "एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च । कर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम् ॥",
+      "hindi": "इन कर्मों को आसक्ति और फल त्यागकर करना चाहिए।",
+      "english": "These actions should be done without attachment or desire for results."
+    },
+
+    {
+      "verse_number": "7",
+      "sanskrit": "नियतस्य तु संन्यासः कर्मणो नोपपद्यते । मोहात्तस्य परित्यागस्तामसः परिकीर्तितः ॥",
+      "hindi": "कर्तव्य कर्म का त्याग अज्ञान से किया जाए तो वह तामसिक है।",
+      "english": "Giving up duty out of ignorance is tamasic."
+    },
+    {
+      "verse_number": "8",
+      "sanskrit": "दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत् । स कृत्वा राजसं त्यागं नैव त्यागफलं लभेत् ॥",
+      "hindi": "दुःख के डर से कर्म त्यागना राजसिक है।",
+      "english": "Abandoning action due to fear of pain is rajasic."
+    },
+    {
+      "verse_number": "9",
+      "sanskrit": "कार्यं इत्येव यत्कर्म नियतं क्रियतेऽर्जुन । सङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः ॥",
+      "hindi": "कर्तव्य समझकर कर्म करना सात्त्विक त्याग है।",
+      "english": "Doing duty without attachment is sattvic surrender."
+    },
+    {
+      "verse_number": "10",
+      "sanskrit": "न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते । त्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः ॥",
+      "hindi": "सात्त्विक त्यागी न बुरे से द्वेष करता है, न अच्छे से चिपकता है।",
+      "english": "The sattvic renouncer neither hates bad action nor clings to good."
+    },
+
+    {
+      "verse_number": "11",
+      "sanskrit": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः । यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ॥",
+      "hindi": "शरीरधारी कर्म पूरी तरह नहीं छोड़ सकता, फल त्यागी ही त्यागी है।",
+      "english": "One with a body cannot abandon all action; one who gives up results is the renouncer."
+    },
+    {
+      "verse_number": "12",
+      "sanskrit": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् । भवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित् ॥",
+      "hindi": "फल त्याग न करने वालों को अच्छे-बुरे फल मिलते हैं।",
+      "english": "Those who do not renounce results receive mixed fruits."
+    },
+
+    {
+      "verse_number": "13",
+      "sanskrit": "पञ्चैतानि महाबाहो कारणानि निबोध मे । साङ्ख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम् ॥",
+      "hindi": "कर्म के पाँच कारण हैं, यह सुनो।",
+      "english": "There are five causes of action."
+    },
+    {
+      "verse_number": "14",
+      "sanskrit": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम् । विविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम् ॥",
+      "hindi": "शरीर, कर्ता, इन्द्रियाँ, प्रयास और ईश्वर — ये पाँच हैं।",
+      "english": "Body, doer, senses, effort, and divine will."
+    },
+    {
+      "verse_number": "15",
+      "sanskrit": "शरीरवाङ्मनोभिर्यत्कर्म प्रारभते नरः । न्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः ॥",
+      "hindi": "हर कर्म इन पाँच कारणों से होता है।",
+      "english": "Every action arises from these five."
+    },
+    {
+      "verse_number": "16",
+      "sanskrit": "तत्रैवं सति कर्तारमात्मानं केवलं तु यः । पश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः ॥",
+      "hindi": "जो केवल स्वयं को कर्ता मानता है, वह सही नहीं देखता।",
+      "english": "One who sees only himself as the doer does not truly see."
+    },
+    {
+      "verse_number": "17",
+      "sanskrit": "यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते । हत्वाऽपि स इमाँल्लोकान्न हन्ति न निबध्यते ॥",
+      "hindi": "जिसमें अहंकार नहीं, वह कर्म से बँधता नहीं।",
+      "english": "One free from ego is not bound by action."
+    },
+
+    {
+      "verse_number": "18",
+      "sanskrit": "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना । करणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः ॥",
+      "hindi": "ज्ञान, ज्ञेय और ज्ञाता — कर्म के तीन कारण हैं।",
+      "english": "Knowledge, object, and knower are threefold."
+    },
+
+    {
+      "verse_number": "19",
+      "sanskrit": "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः । प्रोच्यते गुणसङ्ख्याने यथावच्छृणु तान्यपि ॥",
+      "hindi": "ज्ञान, कर्म और कर्ता तीनों गुणों के अनुसार होते हैं।",
+      "english": "Knowledge, action, and doer are divided by qualities."
+    },
+
+    {
+      "verse_number": "20",
+      "sanskrit": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते । अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम् ॥",
+      "hindi": "जो सबमें एक आत्मा देखता है, वह सात्त्विक ज्ञान है।",
+      "english": "Seeing one Self in all is sattvic knowledge."
+    },
+    {
+      "verse_number": "21",
+      "sanskrit": "पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् । वेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम् ॥",
+      "hindi": "जो भेद देखता है, वह राजसिक ज्ञान है।",
+      "english": "Seeing diversity is rajasic knowledge."
+    },
+    {
+      "verse_number": "22",
+      "sanskrit": "यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् । अतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम् ॥",
+      "hindi": "जो तुच्छ में ही सब कुछ देखे, वह तामसिक ज्ञान है।",
+      "english": "Clinging to one small thing is tamasic knowledge."
+    },
+
+    {
+      "verse_number": "23",
+      "sanskrit": "नियतं सङ्गरहितमरागद्वेषतः कृतम् । अफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते ॥",
+      "hindi": "आसक्ति बिना किया कर्म सात्त्विक है।",
+      "english": "Action without attachment is sattvic."
+    },
+    {
+      "verse_number": "24",
+      "sanskrit": "यत्तु कामेप्सुना कर्म साहंकारेण वा पुनः । क्रियते बहुलायासं तद्राजसमुदाहृतम् ॥",
+      "hindi": "फल की इच्छा से किया कर्म राजसिक है।",
+      "english": "Action driven by desire is rajasic."
+    },
+    {
+      "verse_number": "25",
+      "sanskrit": "अनुबन्धं क्षयं हिंसामनवेक्ष्य च पौरुषम् । मोहादारभ्यते कर्म यत्तत्तामसमुच्यते ॥",
+      "hindi": "मोह से किया कर्म तामसिक है।",
+      "english": "Action done in delusion is tamasic."
+    },
+
+    {
+      "verse_number": "26",
+      "sanskrit": "मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः । सिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते ॥",
+      "hindi": "जो आसक्ति रहित है, वह सात्त्विक कर्ता है।",
+      "english": "A detached doer is sattvic."
+    },
+    {
+      "verse_number": "27",
+      "sanskrit": "रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः । हर्षशोकान्वितः कर्ता राजसः परिकीर्तितः ॥",
+      "hindi": "फल की इच्छा वाला कर्ता राजसिक है।",
+      "english": "A result-seeking doer is rajasic."
+    },
+    {
+      "verse_number": "28",
+      "sanskrit": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः । विषादी दीर्घसूत्री च कर्ता तामस उच्यते ॥",
+      "hindi": "आलसी और प्रमादी कर्ता तामसिक है।",
+      "english": "A lazy doer is tamasic."
+    },
+
+    {
+      "verse_number": "29",
+      "sanskrit": "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु । प्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय ॥",
+      "hindi": "अब बुद्धि और धृति के भेद सुनो।",
+      "english": "Hear about the divisions of intellect and determination."
+    },
+    {
+      "verse_number": "30",
+      "sanskrit": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये । बन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी ॥",
+      "hindi": "जो सही-गलत जानती है, वह सात्त्विक बुद्धि है।",
+      "english": "Right understanding is sattvic intellect."
+    },
+    {
+      "verse_number": "31",
+      "sanskrit": "यया धर्ममधर्मं च कार्यं चाकार्यमेव च । अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी ॥",
+      "hindi": "गलत समझने वाली बुद्धि राजसिक है।",
+      "english": "Confused intellect is rajasic."
+    },
+    {
+      "verse_number": "32",
+      "sanskrit": "अधर्मं धर्ममिति या मन्यते तमसावृता । सर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी ॥",
+      "hindi": "अधर्म को धर्म मानने वाली बुद्धि तामसिक है।",
+      "english": "Darkened intellect is tamasic."
+    },
+
+    {
+      "verse_number": "33",
+      "sanskrit": "धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः । योगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी ॥",
+      "hindi": "जो संयम रखे, वह सात्त्विक धृति है।",
+      "english": "Steady discipline is sattvic determination."
+    },
+    {
+      "verse_number": "34",
+      "sanskrit": "यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन । प्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी ॥",
+      "hindi": "फल की चाह से बनी धृति राजसिक है।",
+      "english": "Determination with desire is rajasic."
+    },
+    {
+      "verse_number": "35",
+      "sanskrit": "यया स्वप्नं भयं शोकं विषादं मदमेव च । न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी ॥",
+      "hindi": "जो आलस्य न छोड़े, वह तामसिक धृति है।",
+      "english": "Lazy determination is tamasic."
+    },
+
+    {
+      "verse_number": "36",
+      "sanskrit": "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ । अभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति ॥",
+      "hindi": "अब तीन प्रकार के सुख सुनो।",
+      "english": "Hear now of three kinds of happiness."
+    },
+    {
+      "verse_number": "37",
+      "sanskrit": "यत्तदग्रे विषमिव परिणामेऽमृतोपमम् । तत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम् ॥",
+      "hindi": "जो अंत में सुख दे, वह सात्त्विक सुख है।",
+      "english": "Happiness that ends in peace is sattvic."
+    },
+    {
+      "verse_number": "38",
+      "sanskrit": "विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् । परिणामे विषमिव तत्सुखं राजसं स्मृतम् ॥",
+      "hindi": "इन्द्रिय सुख राजसिक है।",
+      "english": "Sense pleasure is rajasic happiness."
+    },
+    {
+      "verse_number": "39",
+      "sanskrit": "यदग्रे चानुबन्धे च सुखं मोहनमात्मनः । निद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम् ॥",
+      "hindi": "आलस्य से उत्पन्न सुख तामसिक है।",
+      "english": "Happiness from laziness is tamasic."
+    },
+
+    {
+      "verse_number": "40",
+      "sanskrit": "न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः । सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः ॥",
+      "hindi": "तीनों गुणों से रहित कोई नहीं है।",
+      "english": "No being is free from the three qualities."
+    },
+
+    {
+      "verse_number": "41",
+      "sanskrit": "ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप । कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः ॥",
+      "hindi": "चार वर्णों के कर्म गुणों से तय होते हैं।",
+      "english": "Duties are divided by qualities."
+    },
+    {
+      "verse_number": "42",
+      "sanskrit": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च । ज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम् ॥",
+      "hindi": "शांति और ज्ञान ब्राह्मण के गुण हैं।",
+      "english": "Peace and knowledge are Brahmin qualities."
+    },
+    {
+      "verse_number": "43",
+      "sanskrit": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् । दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् ॥",
+      "hindi": "वीरता क्षत्रिय का कर्म है।",
+      "english": "Valor is the duty of a Kshatriya."
+    },
+    {
+      "verse_number": "44",
+      "sanskrit": "कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् । परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम् ॥",
+      "hindi": "सेवा शूद्र का कर्म है।",
+      "english": "Service is the duty of a Shudra."
+    },
+
+    {
+      "verse_number": "45",
+      "sanskrit": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः । स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ॥",
+      "hindi": "अपने कर्म से सिद्धि मिलती है।",
+      "english": "One attains perfection by one’s own duty."
+    },
+    {
+      "verse_number": "46",
+      "sanskrit": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् । स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ॥",
+      "hindi": "अपने कर्म से भगवान की पूजा कर सिद्धि मिलती है।",
+      "english": "By worship through duty, one attains perfection."
+    },
+    {
+      "verse_number": "47",
+      "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् । स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम् ॥",
+      "hindi": "अपना धर्म श्रेष्ठ है।",
+      "english": "One’s own duty is better."
+    },
+    {
+      "verse_number": "48",
+      "sanskrit": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् । सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः ॥",
+      "hindi": "स्वाभाविक कर्म त्यागना नहीं चाहिए।",
+      "english": "Natural duty should not be abandoned."
+    },
+
+    {
+      "verse_number": "49",
+      "sanskrit": "असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः । नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति ॥",
+      "hindi": "आसक्ति रहित व्यक्ति मोक्ष पाता है।",
+      "english": "One free from attachment attains liberation."
+    },
+    {
+      "verse_number": "50",
+      "sanskrit": "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे । समासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा ॥",
+      "hindi": "ब्रह्म प्राप्ति का मार्ग संक्षेप में सुनो।",
+      "english": "Hear briefly how one attains Brahman."
+    },
+    {
+      "verse_number": "51",
+      "sanskrit": "बुद्ध्या विशुद्धया युक्तो धृत्याऽऽत्मानं नियम्य च । शब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च ॥",
+      "hindi": "शुद्ध बुद्धि और संयम से आत्मसंयम होता है।",
+      "english": "With pure intellect and self-control."
+    },
+    {
+      "verse_number": "52",
+      "sanskrit": "विविक्तसेवी लघ्वाशी यतवाक्कायमानसः । ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः ॥",
+      "hindi": "संयमी और ध्यानयुक्त व्यक्ति।",
+      "english": "One devoted to meditation and detachment."
+    },
+    {
+      "verse_number": "53",
+      "sanskrit": "अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् । विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते ॥",
+      "hindi": "अहंकार त्यागकर ब्रह्म को प्राप्त करता है।",
+      "english": "Free from ego, one attains Brahman."
+    },
+
+    {
+      "verse_number": "54",
+      "sanskrit": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति । समः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ॥",
+      "hindi": "ब्रह्म को पाकर भक्त बनता है।",
+      "english": "Established in Brahman, one gains devotion."
+    },
+    {
+      "verse_number": "55",
+      "sanskrit": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः । ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ॥",
+      "hindi": "भक्ति से ही भगवान को जाना जा सकता है।",
+      "english": "By devotion one truly knows Me."
+    },
+
+    {
+      "verse_number": "56",
+      "sanskrit": "सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः । मत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम् ॥",
+      "hindi": "मेरी शरण में रहकर कर्म करने वाला मोक्ष पाता है।",
+      "english": "Taking refuge in Me, one reaches the eternal state."
+    },
+    {
+      "verse_number": "57",
+      "sanskrit": "चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः । बुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव ॥",
+      "hindi": "सब कर्म मुझे अर्पित करो।",
+      "english": "Offer all actions to Me."
+    },
+    {
+      "verse_number": "58",
+      "sanskrit": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि । अथ चेत्त्वमहंकारान्न श्रोष्यसि विनङ्क्ष्यसि ॥",
+      "hindi": "अहंकार से न सुनने पर विनाश होता है।",
+      "english": "Ignoring this out of ego leads to ruin."
+    },
+    {
+      "verse_number": "59",
+      "sanskrit": "यदहंकारमाश्रित्य न योत्स्य इति मन्यसे । मिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति ॥",
+      "hindi": "अहंकार से भाग नहीं सकते।",
+      "english": "Nature will compel you."
+    },
+    {
+      "verse_number": "60",
+      "sanskrit": "स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा । कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत् ॥",
+      "hindi": "स्वभाव के कारण कर्म करना ही पड़ेगा।",
+      "english": "Bound by nature, you will act."
+    },
+
+    {
+      "verse_number": "61",
+      "sanskrit": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति । भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ॥",
+      "hindi": "भगवान सबके हृदय में स्थित हैं।",
+      "english": "The Lord dwells in all hearts."
+    },
+    {
+      "verse_number": "62",
+      "sanskrit": "तमेव शरणं गच्छ सर्वभावेन भारत । तत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् ॥",
+      "hindi": "भगवान की शरण जाओ।",
+      "english": "Take refuge in Him."
+    },
+    {
+      "verse_number": "63",
+      "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया । विमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥",
+      "hindi": "अब सोचकर जो चाहो करो।",
+      "english": "Reflect and do as you choose."
+    },
+    {
+      "verse_number": "64",
+      "sanskrit": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः । इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् ॥",
+      "hindi": "अब मेरा परम वचन सुनो।",
+      "english": "Hear My final supreme instruction."
+    },
+    {
+      "verse_number": "65",
+      "sanskrit": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु । मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे ॥",
+      "hindi": "मन, भक्ति और नमस्कार मुझे अर्पित करो।",
+      "english": "Think of Me, worship Me, bow to Me."
+    },
+    {
+      "verse_number": "66",
+      "sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज । अहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ॥",
+      "hindi": "सब धर्म छोड़कर मेरी शरण आओ, मैं मुक्त करूँगा।",
+      "english": "Abandon all duties and surrender to Me."
+    },
+
+    {
+      "verse_number": "67",
+      "sanskrit": "इदं ते नातपस्काय नाभक्ताय कदाचन । न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति ॥",
+      "hindi": "यह ज्ञान अभक्त को नहीं कहना चाहिए।",
+      "english": "This teaching should not be shared with the faithless."
+    },
+    {
+      "verse_number": "68",
+      "sanskrit": "य इदं परमं गुह्यं मद्भक्तेष्वभिधास्यति । भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः ॥",
+      "hindi": "जो इसे भक्तों को बताए, वह मुझे प्राप्त करेगा।",
+      "english": "One who shares this with devotees comes to Me."
+    },
+    {
+      "verse_number": "69",
+      "sanskrit": "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः । भविता न च मे तस्मादन्यः प्रियतरो भुवि ॥",
+      "hindi": "ऐसा व्यक्ति मुझे अत्यंत प्रिय है।",
+      "english": "Such a person is very dear to Me."
+    },
+
+    {
+      "verse_number": "70",
+      "sanskrit": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः । ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः ॥",
+      "hindi": "जो इस संवाद का अध्ययन करेगा, वह मेरी पूजा करेगा।",
+      "english": "Studying this dialogue worships Me."
+    },
+    {
+      "verse_number": "71",
+      "sanskrit": "श्रद्धावाननसूयश्च शृणुयादपि यो नरः । सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ॥",
+      "hindi": "श्रद्धा से सुनने वाला भी पुण्य पाता है।",
+      "english": "One who hears with faith is freed."
+    },
+
+    {
+      "verse_number": "72",
+      "sanskrit": "कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा । कच्चिदज्ञानसंमोहः प्रनष्टस्ते धनञ्जय ॥",
+      "hindi": "क्या तुमने ध्यान से सुना? क्या मोह दूर हुआ?",
+      "english": "Have you listened carefully, has confusion gone?"
+    },
+    {
+      "verse_number": "73",
+      "sanskrit": "अर्जुन उवाच नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत । स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव ॥",
+      "hindi": "अर्जुन बोले — मेरा मोह नष्ट हो गया है। मैं आपकी आज्ञा मानूँगा।",
+      "english": "Arjuna said — My confusion is gone; I will do as You say."
+    },
+
+    {
+      "verse_number": "74",
+      "sanskrit": "सञ्जय उवाच इत्यहं वासुदेवस्य पार्थस्य च महात्मनः । संवादमिममश्रौषमद्भुतं रोमहर्षणम् ॥",
+      "hindi": "संजय बोले — मैंने यह अद्भुत संवाद सुना।",
+      "english": "Sanjaya said — I heard this wonderful dialogue."
+    },
+    {
+      "verse_number": "75",
+      "sanskrit": "व्यासप्रसादाच्छुतवानएतद्गुह्यमहं परम् । योगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम् ॥",
+      "hindi": "व्यास की कृपा से मैंने यह सुना।",
+      "english": "By Vyasa’s grace, I heard this."
+    },
+    {
+      "verse_number": "76",
+      "sanskrit": "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् । केशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः ॥",
+      "hindi": "इसे याद कर मैं आनंदित होता हूँ।",
+      "english": "Remembering it, I rejoice again and again."
+    },
+    {
+      "verse_number": "77",
+      "sanskrit": "तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः । विस्मयो मे महान् राजन्हृष्यामि च पुनः पुनः ॥",
+      "hindi": "भगवान का रूप स्मरण कर मैं विस्मित होता हूँ।",
+      "english": "Remembering the divine form, I am amazed."
+    },
+    {
+      "verse_number": "78",
+      "sanskrit": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः । तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥",
+      "hindi": "जहाँ कृष्ण और अर्जुन हैं, वहाँ विजय है।",
+      "english": "Where Krishna and Arjuna stand, there is victory."
+    },
+    {
+      "verse_number": "closing",
+      "sanskrit": "॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे मोक्षसंन्यासयोगो नाम अष्टादशोऽध्यायः ॥",
+      "hindi": "इस प्रकार श्रीमद्भगवद्गीता में मोक्षसंन्यासयोग नामक अठारहवाँ अध्याय समाप्त होता है।",
+      "english": "Thus ends the eighteenth chapter, Moksha Sannyasa Yoga, in the Bhagavad Gita."
+    }
+  ]
+}
