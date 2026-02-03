@@ -1,0 +1,178 @@
+import { ChapterData } from '@/lib/bhagavadGitaTypes';
+
+export const chapter14: ChapterData = {
+  id: 'chapter-14',
+  title_sanskrit: 'गुणत्रयविभागयोगः',
+  title_hindi: 'तीन गुणों का विवेचन',
+  title_english: 'The Yoga of the Three Qualities',
+  verses: [
+    {
+      verse_number: '1',
+      sanskrit: 'श्रीभगवानुवाच परं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम् । यज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः ॥',
+      hindi: 'भगवान बोले — अब मैं फिर से सर्वोत्तम ज्ञान बताऊँगा, जिसे जानकर ऋषि परम सिद्धि को प्राप्त हुए।',
+      english: 'The Lord said — I will again explain the highest knowledge, knowing which sages attained perfection.'
+    },
+    {
+      verse_number: '2',
+      sanskrit: 'इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः । सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च ॥',
+      hindi: 'इस ज्ञान को जानकर लोग मेरे समान हो जाते हैं और सृष्टि या प्रलय में दुखी नहीं होते।',
+      english: 'By taking refuge in this knowledge, they become like Me and are not troubled at creation or destruction.'
+    },
+    {
+      verse_number: '3',
+      sanskrit: 'मम योनिर्महद्ब्रह्म तस्मिन्गर्भं दधाम्यहम् । सम्भवः सर्वभूतानां ततो भवति भारत ॥',
+      hindi: 'मेरी महान प्रकृति ही सब प्राणियों की उत्पत्ति का कारण है।',
+      english: 'My great nature is the source of all beings.'
+    },
+    {
+      verse_number: '4',
+      sanskrit: 'सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्ति याः । तासां ब्रह्म महद्योनिरहं बीजप्रदः पिता ॥',
+      hindi: 'सभी प्राणियों का बीज देने वाला पिता मैं हूँ।',
+      english: 'I am the seed-giving father of all beings.'
+    },
+    {
+      verse_number: '5',
+      sanskrit: 'सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः । निबध्नन्ति महाबाहो देहे देहिनमव्ययम् ॥',
+      hindi: 'सत्त्व, रज और तम — ये तीन गुण जीव को शरीर से बाँधते हैं।',
+      english: 'Sattva, rajas, and tamas bind the soul to the body.'
+    },
+    {
+      verse_number: '6',
+      sanskrit: 'तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम् । सुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ ॥',
+      hindi: 'सत्त्व गुण सुख और ज्ञान से बाँधता है।',
+      english: 'Sattva binds by attachment to happiness and knowledge.'
+    },
+    {
+      verse_number: '7',
+      sanskrit: 'रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् । तन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम् ॥',
+      hindi: 'रजोगुण इच्छा और कर्म से बाँधता है।',
+      english: 'Rajas binds by attachment to action and desire.'
+    },
+    {
+      verse_number: '8',
+      sanskrit: 'तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् । प्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत ॥',
+      hindi: 'तमोगुण अज्ञान, आलस्य और नींद से बाँधता है।',
+      english: 'Tamas binds by ignorance, laziness, and sleep.'
+    },
+    {
+      verse_number: '9',
+      sanskrit: 'सत्त्वं सुखे सञ्जयति रजः कर्मणि भारत । ज्ञानमावृत्य तु तमः प्रमादे सञ्जयत्युत ॥',
+      hindi: 'सत्त्व सुख में, रज कर्म में और तम प्रमाद में लगाता है।',
+      english: 'Sattva leads to happiness, rajas to action, tamas to confusion.'
+    },
+    {
+      verse_number: '10',
+      sanskrit: 'रजस्तमश्चाभिभूय सत्त्वं भवति भारत । रजः सत्त्वं तमश्चैव तमः सत्त्वं रजस्तथा ॥',
+      hindi: 'तीनों गुण एक-दूसरे पर प्रभाव डालते रहते हैं।',
+      english: 'The three qualities rise and fall over one another.'
+    },
+    {
+      verse_number: '11',
+      sanskrit: 'सर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते । ज्ञानं यदा तदा विद्याद्विवृद्धं सत्त्वमित्युत ॥',
+      hindi: 'जब ज्ञान और प्रकाश बढ़ता है, तब सत्त्व बढ़ा हुआ होता है।',
+      english: 'When light and knowledge arise, sattva has increased.'
+    },
+    {
+      verse_number: '12',
+      sanskrit: 'लोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा । रजस्येतानि जायन्ते विवृद्धे भरतर्षभ ॥',
+      hindi: 'लोभ और कर्म में अत्यधिक प्रवृत्ति रजोगुण से होती है।',
+      english: 'Greed and restless activity arise from rajas.'
+    },
+    {
+      verse_number: '13',
+      sanskrit: 'अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च । तमस्येतानि जायन्ते विवृद्धे कुरुनन्दन ॥',
+      hindi: 'अज्ञान और आलस्य तमोगुण से होते हैं।',
+      english: 'Darkness and laziness arise from tamas.'
+    },
+    {
+      verse_number: '14',
+      sanskrit: 'यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् । तदोत्तमविदां लोकानमलान्प्रतिपद्यते ॥',
+      hindi: 'सत्त्व में मृत्यु होने पर उच्च लोक मिलते हैं।',
+      english: 'Dying in sattva leads to higher worlds.'
+    },
+    {
+      verse_number: '15',
+      sanskrit: 'रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते । तथा प्रलीनस्तमसि मूढयोनिषु जायते ॥',
+      hindi: 'रज में मृत्यु होने पर कर्मी जन्म मिलता है, तम में मूढ़ योनि।',
+      english: 'Dying in rajas leads to action-bound birth; in tamas to ignorant birth.'
+    },
+    {
+      verse_number: '16',
+      sanskrit: 'कर्मणः सुकृतस्याहुः सात्त्विकं निर्मलं फलम् । रजसस्तु फलं दुःखमज्ञानं तमसः फलम् ॥',
+      hindi: 'सत्त्व का फल सुख, रज का दुःख और तम का अज्ञान है।',
+      english: 'Sattva brings happiness, rajas sorrow, tamas ignorance.'
+    },
+    {
+      verse_number: '17',
+      sanskrit: 'सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च । प्रमादमोहौ तमसो भवतोऽज्ञानमेव च ॥',
+      hindi: 'सत्त्व से ज्ञान, रज से लोभ और तम से मोह होता है।',
+      english: 'Knowledge comes from sattva, greed from rajas, delusion from tamas.'
+    },
+    {
+      verse_number: '18',
+      sanskrit: 'ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसाः । जघन्यगुणवृत्तिस्था अधो गच्छन्ति तामसाः ॥',
+      hindi: 'सत्त्व वाले ऊपर, रज वाले बीच और तम वाले नीचे जाते हैं।',
+      english: 'Those in sattva rise, in rajas stay in the middle, in tamas fall.'
+    },
+    {
+      verse_number: '19',
+      sanskrit: 'नान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति । गुणेभ्यश्च परं वेत्ति मद्भावं सोऽधिगच्छति ॥',
+      hindi: 'जो गुणों से परे कर्ता को जानता है, वह मुझे प्राप्त करता है।',
+      english: 'One who sees beyond the qualities attains Me.'
+    },
+    {
+      verse_number: '20',
+      sanskrit: 'गुणानेतानतीत्य त्रीन्देही देहसमुद्भवान् । जन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते ॥',
+      hindi: 'तीनों गुणों से ऊपर उठकर जीव अमरत्व पाता है।',
+      english: 'Rising above the three qualities, one attains immortality.'
+    },
+    {
+      verse_number: '21',
+      sanskrit: 'अर्जुन उवाच कैर्लिङ्गैस्त्रीन्गुणानेतानतीतो भवति प्रभो । किमाचारः कथं चैतांस्त्रीन्गुणानतिवर्तते ॥',
+      hindi: 'अर्जुन बोले — गुणातीत व्यक्ति के लक्षण क्या हैं?',
+      english: 'Arjuna asked — What are the signs of one beyond the qualities?'
+    },
+    {
+      verse_number: '22',
+      sanskrit: 'श्रीभगवानुवाच प्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव । न द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ्क्षति ॥',
+      hindi: 'भगवान बोले — वह न प्रकाश, न कर्म और न मोह से द्वेष करता है।',
+      english: 'The Lord said — He neither hates nor desires when qualities appear.'
+    },
+    {
+      verse_number: '23',
+      sanskrit: 'उदासीनवदासीनो गुणैर्यो न विचाल्यते । गुणा वर्तन्त इत्येव योऽवतिष्ठति नेङ्गते ॥',
+      hindi: 'वह साक्षी भाव में स्थिर रहता है।',
+      english: 'He remains steady, knowing the qualities act.'
+    },
+    {
+      verse_number: '24',
+      sanskrit: 'समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः । तुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः ॥',
+      hindi: 'वह सुख-दुःख और निंदा-स्तुति में समान रहता है।',
+      english: 'He is equal in joy and sorrow, praise and blame.'
+    },
+    {
+      verse_number: '25',
+      sanskrit: 'मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः । सर्वारम्भपरित्यागी गुणातीतः स उच्यते ॥',
+      hindi: 'मान-अपमान में समान व्यक्ति गुणातीत कहलाता है।',
+      english: 'Equal in honor and dishonor, he is beyond qualities.'
+    },
+    {
+      verse_number: '26',
+      sanskrit: 'मां च योऽव्यभिचारेण भक्तियोगेन सेवते । स गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते ॥',
+      hindi: 'जो अनन्य भक्ति करता है, वह गुणों से ऊपर उठता है।',
+      english: 'One who serves Me with devotion rises above the qualities.'
+    },
+    {
+      verse_number: '27',
+      sanskrit: 'ब्रह्मणो हि प्रतिष्ठाहममृतस्याव्ययस्य च । शाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च ॥',
+      hindi: 'मैं ही ब्रह्म और शाश्वत सुख का आधार हूँ।',
+      english: 'I am the foundation of Brahman and eternal bliss.'
+    },
+    {
+      verse_number: 'closing',
+      sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे गुणत्रयविभागयोगो नाम चतुर्दशोऽध्यायः ॥',
+      hindi: 'इस प्रकार श्रीमद्भगवद्गीता में गुणत्रयविभागयोग नामक चौदहवाँ अध्याय समाप्त होता है।',
+      english: 'Thus ends the fourteenth chapter, Gunatraya Vibhaga Yoga, in the Bhagavad Gita.'
+    }
+  ]
+};

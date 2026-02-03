@@ -1,0 +1,196 @@
+import { ChapterData } from '@/lib/bhagavadGitaTypes';
+
+export const chapter7: ChapterData = {
+  id: 'chapter-7',
+  title_sanskrit: 'ज्ञानविज्ञानयोगः',
+  title_hindi: 'ज्ञान और विज्ञान का योग',
+  title_english: 'The Yoga of Knowledge and Realization',
+  verses: [
+    {
+      verse_number: '1',
+      sanskrit: 'श्रीभगवानुवाच मय्यासक्तमनाः पार्थ योगं युञ्जन्मदाश्रयः । असंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु ॥',
+      hindi: 'भगवान बोले — हे पार्थ! मुझमें मन लगाकर और मेरी शरण में रहकर योग का अभ्यास करो। तब तुम मुझे पूर्ण रूप से जानोगे।',
+      english: 'The Lord said — O Partha, with your mind attached to Me and taking refuge in Me, practice yoga. Then you will know Me completely.'
+    },
+    {
+      verse_number: '2',
+      sanskrit: 'ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः । यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते ॥',
+      hindi: 'मैं तुम्हें पूरा ज्ञान और अनुभव सहित बताऊँगा, जिसे जानकर और कुछ जानना शेष नहीं रहेगा।',
+      english: 'I will explain knowledge and realization fully. Knowing this, nothing else remains to be known.'
+    },
+    {
+      verse_number: '3',
+      sanskrit: 'मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये । यततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वतः ॥',
+      hindi: 'हजारों मनुष्यों में कोई एक सिद्धि के लिए प्रयास करता है। और प्रयास करने वालों में से भी कोई एक मुझे वास्तव में जानता है।',
+      english: 'Among thousands of people, one strives for perfection. Among those, one truly knows Me.'
+    },
+    {
+      verse_number: '4',
+      sanskrit: 'भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च । अहंकार इतीयं मे भिन्ना प्रकृतिरष्टधा ॥',
+      hindi: 'भूमि, जल, अग्नि, वायु, आकाश, मन, बुद्धि और अहंकार — ये मेरी आठ प्रकार की प्रकृति हैं।',
+      english: 'Earth, water, fire, air, space, mind, intellect, and ego are My eightfold nature.'
+    },
+    {
+      verse_number: '5',
+      sanskrit: 'अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् । जीवभूतां महाबाहो ययेदं धार्यते जगत् ॥',
+      hindi: 'इसके अलावा मेरी एक उच्च प्रकृति भी है, जो जीव रूप है और जिससे यह संसार चल रहा है।',
+      english: 'Besides this, there is My higher nature — the living beings by which the world is sustained.'
+    },
+    {
+      verse_number: '6',
+      sanskrit: 'एतद्योनीनि भूतानि सर्वाणीत्युपधारय । अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा ॥',
+      hindi: 'सब प्राणी इन्हीं से उत्पन्न होते हैं। मैं ही इस पूरे जगत का कारण और अंत हूँ।',
+      english: 'All beings arise from this. I am the source and dissolution of the whole universe.'
+    },
+    {
+      verse_number: '7',
+      sanskrit: 'मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय । मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ॥',
+      hindi: 'हे धनंजय! मुझसे बढ़कर कुछ नहीं है। यह सब मुझमें जुड़ा है जैसे धागे में मोती।',
+      english: 'O Dhananjaya, there is nothing higher than Me. All rests in Me like pearls on a string.'
+    },
+    {
+      verse_number: '8',
+      sanskrit: 'रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः । प्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु ॥',
+      hindi: 'मैं जल में रस हूँ, सूर्य और चंद्रमा में प्रकाश हूँ, वेदों में ओंकार हूँ और मनुष्यों में बल हूँ।',
+      english: 'I am the taste in water, the light in the sun and moon, Om in the Vedas, and strength in humans.'
+    },
+    {
+      verse_number: '9',
+      sanskrit: 'पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ । जीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु ॥',
+      hindi: 'मैं पृथ्वी में पवित्र गंध हूँ, अग्नि में तेज हूँ और सभी प्राणियों में जीवन हूँ।',
+      english: 'I am the pure fragrance of earth, the brilliance of fire, and life in all beings.'
+    },
+    {
+      verse_number: '10',
+      sanskrit: 'बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् । बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम् ॥',
+      hindi: 'हे पार्थ! मुझे सभी प्राणियों का सनातन बीज जानो। मैं बुद्धिमानों की बुद्धि और तेजस्वियों का तेज हूँ।',
+      english: 'O Partha, know Me as the eternal seed of all beings. I am the intellect of the intelligent and the power of the powerful.'
+    },
+    {
+      verse_number: '11',
+      sanskrit: 'बलं बलवतां चाहं कामरागविवर्जितम् । धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ ॥',
+      hindi: 'मैं बलवानों का वह बल हूँ जो काम और राग से रहित है। मैं प्राणियों में धर्म के अनुसार इच्छा हूँ।',
+      english: 'I am the strength free from desire and attachment. I am desire that follows dharma.'
+    },
+    {
+      verse_number: '12',
+      sanskrit: 'ये चैव सात्त्विका भावा राजसास्तामसाश्च ये । मत्त एवेति तान्विद्धि न त्वहं तेषु ते मयि ॥',
+      hindi: 'सत्त्व, रज और तम के भाव मुझसे ही उत्पन्न होते हैं। पर मैं उनमें नहीं बँधा हूँ।',
+      english: 'All states of goodness, passion, and ignorance arise from Me, but I am not bound by them.'
+    },
+    {
+      verse_number: '13',
+      sanskrit: 'त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत् । मोहितं नाभिजानाति मामेभ्यः परमव्ययम् ॥',
+      hindi: 'तीनों गुणों से मोहित होकर संसार मुझे नहीं पहचानता, जो इनसे परे हूँ।',
+      english: 'Deluded by the three qualities, the world does not recognize Me beyond them.'
+    },
+    {
+      verse_number: '14',
+      sanskrit: 'दैवी ह्येषा गुणमयी मम माया दुरत्यया । मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ॥',
+      hindi: 'मेरी यह माया पार करना कठिन है। जो मेरी शरण लेते हैं, वे इसे पार कर जाते हैं।',
+      english: 'My divine illusion is hard to cross. Those who take refuge in Me cross it.'
+    },
+    {
+      verse_number: '15',
+      sanskrit: 'न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः । माययापहृतज्ञाना आसुरं भावमाश्रिताः ॥',
+      hindi: 'दुष्कर्म करने वाले, मूर्ख और अहंकारी लोग मेरी शरण नहीं लेते।',
+      english: 'Evil-doers, foolish and arrogant people do not take refuge in Me.'
+    },
+    {
+      verse_number: '16',
+      sanskrit: 'चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन । आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ॥',
+      hindi: 'चार प्रकार के अच्छे लोग मेरी भक्ति करते हैं — दुखी, जिज्ञासु, धन चाहने वाले और ज्ञानी।',
+      english: 'Four kinds of good people worship Me — the distressed, the curious, the seeker of wealth, and the wise.'
+    },
+    {
+      verse_number: '17',
+      sanskrit: 'तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते । प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः ॥',
+      hindi: 'इनमें ज्ञानी सबसे श्रेष्ठ है। वह मुझे प्रिय है और मैं उसे प्रिय हूँ।',
+      english: 'Among them, the wise one is the best. He is dear to Me, and I am dear to him.'
+    },
+    {
+      verse_number: '18',
+      sanskrit: 'उदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम् । आस्थितः स हि युक्तात्मा मामेवानुत्तमां गतिम् ॥',
+      hindi: 'ये सभी उदार हैं, पर ज्ञानी मुझे अपने समान जानता है। वह सर्वोच्च मार्ग को प्राप्त करता है।',
+      english: 'All are noble, but the wise sees Me as his very Self and reaches the highest goal.'
+    },
+    {
+      verse_number: '19',
+      sanskrit: 'बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते । वासुदेवः सर्वमिति स महात्मा सुदुर्लभः ॥',
+      hindi: 'अनेक जन्मों के बाद ज्ञानी मुझे जानता है कि वासुदेव ही सब कुछ है। ऐसा महात्मा दुर्लभ है।',
+      english: 'After many births, the wise surrender to Me, knowing Vasudeva is all. Such a soul is rare.'
+    },
+    {
+      verse_number: '20',
+      sanskrit: 'कामैस्तैस्तैर्हृतज्ञानाः प्रपद्यन्तेऽन्यदेवताः । तं तं नियममास्थाय प्रकृत्या नियताः स्वया ॥',
+      hindi: 'इच्छाओं से भ्रमित लोग अन्य देवताओं की शरण लेते हैं।',
+      english: 'Those driven by desires worship other gods.'
+    },
+    {
+      verse_number: '21',
+      sanskrit: 'यो यो यां यां तनुं भक्तः श्रद्धयार्चितुमिच्छति । तस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम् ॥',
+      hindi: 'जो जिस देवता की श्रद्धा से पूजा करता है, मैं उसकी श्रद्धा को स्थिर करता हूँ।',
+      english: 'Whichever form one worships with faith, I make that faith steady.'
+    },
+    {
+      verse_number: '22',
+      sanskrit: 'स तया श्रद्धया युक्तस्तस्याराधनमीहते । लभते च ततः कामान्मयैव विहितान्हि तान् ॥',
+      hindi: 'वह उस श्रद्धा से पूजा करता है और इच्छित फल प्राप्त करता है, जो वास्तव में मेरे द्वारा दिए जाते हैं।',
+      english: 'He gains desired results, which are actually given by Me.'
+    },
+    {
+      verse_number: '23',
+      sanskrit: 'अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम् । देवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि ॥',
+      hindi: 'उनका फल सीमित होता है। देवताओं के भक्त देवताओं को जाते हैं, मेरे भक्त मुझे प्राप्त करते हैं।',
+      english: 'Their results are limited. Worshippers of gods go to gods; My devotees come to Me.'
+    },
+    {
+      verse_number: '24',
+      sanskrit: 'अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धयः । परं भावमजानन्तो ममाव्ययमनुत्तमम् ॥',
+      hindi: 'अज्ञानी लोग मुझे साधारण मनुष्य समझते हैं और मेरे दिव्य स्वरूप को नहीं जानते।',
+      english: 'The foolish think I am ordinary and do not know My higher nature.'
+    },
+    {
+      verse_number: '25',
+      sanskrit: 'नाहं प्रकाशः सर्वस्य योगमायासमावृतः । मूढोऽयं नाभिजानाति लोको मामजमव्ययम् ॥',
+      hindi: 'मैं अपनी योगमाया से ढका हूँ, इसलिए सब मुझे नहीं जानते।',
+      english: 'Covered by My yoga-maya, I am not known by all.'
+    },
+    {
+      verse_number: '26',
+      sanskrit: 'वेदाहं समतीतानि वर्तमानानि चार्जुन । भविष्याणि च भूतानि मां तु वेद न कश्चन ॥',
+      hindi: 'मैं भूत, वर्तमान और भविष्य को जानता हूँ, पर मुझे कोई पूरी तरह नहीं जानता।',
+      english: 'I know past, present, and future beings, but no one fully knows Me.'
+    },
+    {
+      verse_number: '27',
+      sanskrit: 'इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत । सर्वभूतानि सम्मोहं सर्गे यान्ति परन्तप ॥',
+      hindi: 'इच्छा और द्वेष से उत्पन्न भ्रम के कारण सब प्राणी मोहित हो जाते हैं।',
+      english: 'Deluded by desire and hatred, beings fall into confusion.'
+    },
+    {
+      verse_number: '28',
+      sanskrit: 'येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम् । ते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः ॥',
+      hindi: 'जिनके पाप नष्ट हो चुके हैं, वे दृढ़ भक्ति से मेरी उपासना करते हैं।',
+      english: 'Those freed from sin worship Me with firm devotion.'
+    },
+    {
+      verse_number: '29',
+      sanskrit: 'जरामरणमोक्षाय मामाश्रित्य यतन्ति ये । ते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम् ॥',
+      hindi: 'जो बुढ़ापे और मृत्यु से मुक्ति के लिए मेरी शरण लेते हैं, वे ब्रह्म और कर्म को जानते हैं।',
+      english: 'Those who seek freedom from old age and death by taking refuge in Me know Brahman and action.'
+    },
+    {
+      verse_number: '30',
+      sanskrit: 'साधिभूताधिदैवं मां साधियज्ञं च ये विदुः । प्रयाणकालेऽपि च मां ते विदुर्युक्तचेतसः ॥',
+      hindi: 'जो मुझे अधिभूत, अधिदैव और अधियज्ञ के रूप में जानते हैं, वे मृत्यु के समय भी मुझे जानते हैं।',
+      english: 'Those who know Me as the governing principle remember Me even at death.'
+    },
+    {
+      verse_number: 'closing',
+      sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे ज्ञानविज्ञानयोगो नाम सप्तमोऽध्यायः ॥',
+      hindi: 'इस प्रकार श्रीमद्भगवद्गीता में ज्ञानविज्ञानयोग नामक सातवाँ अध्याय समाप्त होता है।',
+      english: 'Thus ends the seventh chapter, Jnana Vijnana Yoga, in the Bhagavad Gita.'
+    }
+  ]
+};

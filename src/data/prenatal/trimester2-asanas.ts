@@ -1,4 +1,4 @@
-import { TopicContent } from '@/lib/prenatal-types';
+import { TopicContent } from '@/lib/prenatalTypes';
 
 export const trimester2Asanas: TopicContent = {
   id: 'trimester2-asanas',

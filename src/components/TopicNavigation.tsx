@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getAdjacentTopics } from '@/lib/prenatal-topics';
+import { getAdjacentTopics } from '@/lib/prenatalTopics';
 
 interface TopicNavigationProps {
   currentTopicId: string;

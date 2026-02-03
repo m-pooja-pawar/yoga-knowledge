@@ -1,4 +1,4 @@
-import { Verse } from '@/lib/types';
+import { Verse } from '@/lib/bhagavadGitaTypes';
 
 interface VerseCardProps {
   verse: Verse;

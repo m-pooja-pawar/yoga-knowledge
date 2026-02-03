@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { chapters } from '@/lib/chapters';
+import { chapters } from '@/lib/bhagavadGitaChapters';
 
 export const metadata = {
   title: 'Srimad Bhagavad Gita - Yoga Knowledge Base',
@@ -49,34 +49,37 @@ export default function BhagavadGitaPage() {
           All 18 Chapters
         </h2>
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {chapters.map((chapter) => (
-            <Link
-              key={chapter.id}
-              href={`/bhagavad-gita/chapter/${chapter.id}`}
-              className="card block hover:shadow-md transition-all duration-200"
-            >
-              <div className="flex items-start gap-3">
-                <span className="flex-shrink-0 w-8 h-8 rounded-full bg-sage-100 text-sage-600 text-sm flex items-center justify-center font-medium">
-                  {chapter.id}
-                </span>
-                <div className="min-w-0">
-                  <p className="font-devanagari text-gray-800 leading-tight">
-                    {chapter.title_sanskrit}
-                  </p>
-                  <p className="text-gray-500 text-sm mt-1">
-                    {chapter.title_english}
-                  </p>
+          {chapters.map((chapter) => {
+            const chapterNum = chapter.id.split('-')[1];
+            return (
+              <Link
+                key={chapter.id}
+                href={`/bhagavad-gita/${chapter.id}`}
+                className="card block hover:shadow-md transition-all duration-200"
+              >
+                <div className="flex items-start gap-3">
+                  <span className="flex-shrink-0 w-8 h-8 rounded-full bg-sage-100 text-sage-600 text-sm flex items-center justify-center font-medium">
+                    {chapterNum}
+                  </span>
+                  <div className="min-w-0">
+                    <p className="font-devanagari text-gray-800 leading-tight">
+                      {chapter.title_sanskrit}
+                    </p>
+                    <p className="text-gray-500 text-sm mt-1">
+                      {chapter.title_english}
+                    </p>
+                  </div>
                 </div>
-              </div>
-            </Link>
-          ))}
+              </Link>
+            );
+          })}
         </div>
       </section>
 
       {/* Start Reading CTA */}
       <section className="mt-12 text-center">
         <Link
-          href="/bhagavad-gita/chapter/1"
+          href="/bhagavad-gita/chapter-1"
           className="btn-primary inline-flex items-center gap-2"
         >
           Start Reading from Chapter 1

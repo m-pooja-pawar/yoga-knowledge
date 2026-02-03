@@ -6,7 +6,7 @@ export interface Verse {
 }
 
 export interface ChapterData {
-  id: number;
+  id: string;
   title_sanskrit: string;
   title_hindi: string;
   title_english: string;
@@ -14,7 +14,7 @@ export interface ChapterData {
 }
 
 export interface ChapterInfo {
-  id: number;
+  id: string;
   title_sanskrit: string;
   title_english: string;
 }

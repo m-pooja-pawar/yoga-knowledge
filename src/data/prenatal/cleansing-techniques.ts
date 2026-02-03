@@ -1,4 +1,4 @@
-import { TopicContent } from '@/lib/prenatal-types';
+import { TopicContent } from '@/lib/prenatalTypes';
 
 export const cleansingTechniques: TopicContent = {
   id: 'cleansing-techniques',

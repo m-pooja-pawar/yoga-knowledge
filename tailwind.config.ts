@@ -21,18 +21,6 @@ const config: Config = {
           800: '#363d36',
           900: '#2f342f',
         },
-        sand: {
-          50: '#faf8f5',
-          100: '#f3efe8',
-          200: '#e6ddd0',
-          300: '#d5c7b3',
-          400: '#c2ac93',
-          500: '#b3967a',
-          600: '#a6856c',
-          700: '#8a6d5a',
-          800: '#715a4d',
-          900: '#5d4a40',
-        },
       },
       fontFamily: {
         serif: ['Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif'],

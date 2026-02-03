@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
-import { getTopicById, prenatalTopics } from '@/lib/prenatal-topics';
+import { getTopicById, prenatalTopics } from '@/lib/prenatalTopics';
 import { getTopicContent } from '@/data/prenatal';
 import TopicNavigation from '@/components/TopicNavigation';
 import ContentRenderer from '@/components/ContentRenderer';

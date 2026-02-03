@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState } from 'react';
-import { prenatalTopics } from '@/lib/prenatal-topics';
+import { prenatalTopics } from '@/lib/prenatalTopics';
 
 export default function PrenatalSidebar() {
   const pathname = usePathname();

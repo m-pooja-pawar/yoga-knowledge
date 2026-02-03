@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { prenatalTopics } from '@/lib/prenatal-topics';
+import { prenatalTopics } from '@/lib/prenatalTopics';
 
 export const metadata = {
   title: 'Prenatal Yoga - Complete Guide',

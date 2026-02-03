@@ -1,19 +1,18 @@
 import Link from 'next/link';
-import { getPreviousChapter, getNextChapter } from '@/lib/chapters';
+import { getAdjacentChapters } from '@/lib/bhagavadGitaChapters';
 
-interface ChapterNavigationProps {
-  currentChapterId: number;
+interface BhagavadGitaChapterNavigationProps {
+  currentChapterId: string;
 }
 
-export default function ChapterNavigation({ currentChapterId }: ChapterNavigationProps) {
-  const prevChapter = getPreviousChapter(currentChapterId);
-  const nextChapter = getNextChapter(currentChapterId);
+export default function BhagavadGitaChapterNavigation({ currentChapterId }: BhagavadGitaChapterNavigationProps) {
+  const { prev, next } = getAdjacentChapters(currentChapterId);
 
   return (
     <nav className="flex justify-between items-center py-8 border-t border-sage-200 mt-12" aria-label="Chapter navigation">
-      {prevChapter ? (
+      {prev ? (
         <Link
-          href={`/bhagavad-gita/chapter/${prevChapter.id}`}
+          href={`/bhagavad-gita/${prev.id}`}
           className="group flex items-center gap-3 text-gray-600 hover:text-sage-600 transition-colors"
         >
           <span className="flex items-center justify-center w-10 h-10 rounded-full bg-sage-100 group-hover:bg-sage-200 transition-colors">
@@ -23,21 +22,21 @@ export default function ChapterNavigation({ currentChapterId }: ChapterNavigatio
           </span>
           <div className="hidden sm:block text-left">
             <p className="text-xs text-gray-400">Previous</p>
-            <p className="text-sm font-medium">{prevChapter.title_english}</p>
+            <p className="text-sm font-medium">{prev.title_english}</p>
           </div>
         </Link>
       ) : (
         <div />
       )}
 
-      {nextChapter ? (
+      {next ? (
         <Link
-          href={`/bhagavad-gita/chapter/${nextChapter.id}`}
+          href={`/bhagavad-gita/${next.id}`}
           className="group flex items-center gap-3 text-gray-600 hover:text-sage-600 transition-colors"
         >
           <div className="hidden sm:block text-right">
             <p className="text-xs text-gray-400">Next</p>
-            <p className="text-sm font-medium">{nextChapter.title_english}</p>
+            <p className="text-sm font-medium">{next.title_english}</p>
           </div>
           <span className="flex items-center justify-center w-10 h-10 rounded-full bg-sage-100 group-hover:bg-sage-200 transition-colors">
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

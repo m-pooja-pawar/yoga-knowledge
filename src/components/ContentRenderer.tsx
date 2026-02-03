@@ -1,6 +1,6 @@
 'use client';
 
-import { ContentSection } from '@/lib/prenatal-types';
+import { ContentSection } from '@/lib/prenatalTypes';
 import ImageLightbox from './ImageLightbox';
 
 interface ContentRendererProps {

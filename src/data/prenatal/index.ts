@@ -1,4 +1,4 @@
-import { TopicContent } from '@/lib/prenatal-types';
+import { TopicContent } from '@/lib/prenatalTypes';
 import { yogaAndBenefits } from './yoga-and-benefits';
 import { sankalpa } from './sankalpa';
 import { anatomyChanges } from './anatomy-changes';

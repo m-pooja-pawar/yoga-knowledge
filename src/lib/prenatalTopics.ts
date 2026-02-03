@@ -1,4 +1,4 @@
-import { PrenatalTopic } from './prenatal-types';
+import { PrenatalTopic } from './prenatalTypes';
 
 export const prenatalTopics: PrenatalTopic[] = [
   { id: 'yoga-and-benefits', title: 'Yoga and its Benefits', order: 1 },

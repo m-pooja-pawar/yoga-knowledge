@@ -3,13 +3,13 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState } from 'react';
-import { chapters } from '@/lib/chapters';
+import { chapters } from '@/lib/bhagavadGitaChapters';
 
-export default function Sidebar() {
+export default function BhagavadGitaSidebar() {
   const pathname = usePathname();
   const [isOpen, setIsOpen] = useState(false);
 
-  const currentChapterId = pathname.match(/chapter\/(\d+)/)?.[1];
+  const currentChapterId = pathname.match(/\/bhagavad-gita\/(chapter-\d+)/)?.[1];
 
   return (
     <>
@@ -84,18 +84,19 @@ export default function Sidebar() {
           </p>
           <ul className="space-y-1">
             {chapters.map((chapter) => {
-              const isActive = currentChapterId === String(chapter.id);
+              const chapterNum = chapter.id.split('-')[1];
+              const isActive = currentChapterId === chapter.id;
               return (
                 <li key={chapter.id}>
                   <Link
-                    href={`/bhagavad-gita/chapter/${chapter.id}`}
+                    href={`/bhagavad-gita/${chapter.id}`}
                     onClick={() => setIsOpen(false)}
                     className={`block px-4 py-3 rounded-lg transition-all duration-200 hover:bg-sage-50 flex items-start gap-3 ${
                       isActive ? 'bg-sage-100 text-gray-900 font-medium' : ''
                     }`}
                   >
                     <span className="flex-shrink-0 w-6 h-6 rounded-full bg-sage-100 text-sage-600 text-xs flex items-center justify-center font-medium">
-                      {chapter.id}
+                      {chapterNum}
                     </span>
                     <div className="min-w-0">
                       <p className="font-devanagari text-gray-700 text-sm leading-tight truncate">
