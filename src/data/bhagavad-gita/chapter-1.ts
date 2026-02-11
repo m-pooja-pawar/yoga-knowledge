@@ -40,7 +40,7 @@ export const chapter1: ChapterData = {
       verse_number: '6',
       sanskrit: 'युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥',
       hindi: 'युधामन्यु, वीर्यवान उत्तमौजा, अभिमन्यु और द्रौपदी के पुत्र — सभी महारथी हैं।',
-      english: 'Yudhamanyu, the valiant Uttamauja, Abhimanyu, and the sons of Draupadi — all are great warriors.'
+      english: 'Yudhamanyu, the valiant (brave, courageous, and determined) Uttamauja, Abhimanyu, and the sons of Draupadi — all are great warriors.'
     },
     {
       verse_number: '7',
@@ -64,7 +64,7 @@ export const chapter1: ChapterData = {
       verse_number: '10',
       sanskrit: 'अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् । पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥',
       hindi: 'हमारी शक्ति असीमित है — भीष्म पितामह के संरक्षण में, और उनकी (पाण्डवों की) सेना की शक्ति सीमित है — भीम के संरक्षण में।',
-      english: 'Our strength is boundless, protected by Bhishma; while the strength of their army, protected by Bhima, is limited.'
+      english: 'Our strength is boundless (immeasurable), protected by Bhishma; while the strength of their army, protected by Bhima, is limited.'
     },
     {
       verse_number: '11',
@@ -82,7 +82,7 @@ export const chapter1: ChapterData = {
       verse_number: '13',
       sanskrit: 'ततः शंखाश्च भेर्यश्च पणवानकगोमुखाः । सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ॥',
       hindi: 'फिर शंख, भेरी, नगाड़े, तुरही और सींग एक साथ बजने लगे और भयावह ध्वनि हुई।',
-      english: 'Then conches, drums, trumpets, and horns were blown together, creating a tumultuous sound.'
+      english: 'Then conches, drums, trumpets, and horns were blown together, creating a tumultuous (loud, wild, or emotionally intense) sound.'
     },
     {
       verse_number: '14',
@@ -220,7 +220,7 @@ export const chapter1: ChapterData = {
       verse_number: '37-38',
       sanskrit: 'पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः । तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् । स्वजनं हि कथं हत्वा सुखिनः स्याम माधव ॥',
       hindi: 'इन आक्रमणकारियों को मारकर भी हम पापी हो जाएँगे। इसलिए धृतराष्ट्र के इन संबंधियों को हम नहीं मार सकते। अपने स्वजन को मारकर सुखी कैसे होंगे?',
-      english: 'By killing these aggressors, we would incur sin. Therefore, we should not kill the sons of Dhritarashtra. How can we be happy by killing our own people?'
+      english: 'By killing these aggressors (the first ones to act violently or provoke war), we would incur sin. Therefore, we should not kill the sons of Dhritarashtra. How can we be happy by killing our own people?'
     },
     {
       verse_number: '39',
@@ -286,7 +286,7 @@ export const chapter1: ChapterData = {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे अर्जुनविषादयोगो नाम प्रथमोध्यायः ॥',
       hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के "अर्जुन विषाद योग" नामक प्रथम अध्याय का समापन होता है।',
-      english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the first chapter entitled "Arjuna Vishada Yoga" (The Yoga of Arjuna\'s Grief).'
+      english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the first chapter entitled "The Yoga of Arjuna\'s Sorrow".'
     }
   ]
 };

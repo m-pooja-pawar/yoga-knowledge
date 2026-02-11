@@ -8,13 +8,13 @@ export const chapter2: ChapterData = {
   verses: [
     {
       verse_number: '1',
-      sanskrit: 'सञ्जय उवाच तं तथा कृपयाविष्टम् अश्रुपूर्णाकुलेक्षणम् । विषीदन्तम् इदं वाक्यम् उवाच मधुसूदनः ॥',
+      sanskrit: 'सञ्जय उवाच । तं तथा कृपयाविष्टम् अश्रुपूर्णाकुलेक्षणम् । विषीदन्तम् इदं वाक्यम् उवाच मधुसूदनः ॥',
       hindi: 'संजय बोले — अर्जुन दया से भरा था और उसकी आँखें आँसू से भरी थीं। उसे दुखी देखकर मधुसूदन (कृष्ण) ने कहा।',
       english: 'Sanjaya said — Arjuna was filled with compassion, and his eyes were full of tears. Seeing him sad, Madhusudana (Krishna) spoke.'
     },
     {
       verse_number: '2',
-      sanskrit: 'श्रीभगवानुवाच कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् । अनार्यजुष्टम् अस्वर्ग्यम् अकीर्तिकरम् अर्जुन ॥',
+      sanskrit: 'श्रीभगवानुवाच । कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् । अनार्यजुष्टम् अस्वर्ग्यम् अकीर्तिकरम् अर्जुन ॥',
       hindi: 'भगवान बोले — हे अर्जुन! यह कमजोरी तुम्हें इस कठिन समय में कैसे आई? यह न तो सज्जनों को शोभा देती है, न स्वर्ग दिलाती है, न ही कीर्ति।',
       english: 'The Lord said — O Arjuna! How has this weakness come to you at such a crucial moment? It is unworthy of a noble person, leads neither to heaven nor to honor.'
     },
@@ -26,7 +26,7 @@ export const chapter2: ChapterData = {
     },
     {
       verse_number: '4',
-      sanskrit: 'अर्जुन उवाच कथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन । इषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन ॥',
+      sanskrit: 'अर्जुन उवाच । कथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन । इषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन ॥',
       hindi: 'अर्जुन बोले — हे मधुसूदन! युद्ध में मैं भीष्म और द्रोण पर बाण कैसे चलाऊँ? ये पूजनीय हैं।',
       english: 'Arjuna said — O Madhusudana! How shall I fight Bhishma and Drona with arrows in battle? They deserve worship.'
     },
@@ -68,7 +68,7 @@ export const chapter2: ChapterData = {
     },
     {
       verse_number: '11',
-      sanskrit: 'श्रीभगवानुवाच अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे । गतासूनगतासूंश्च नानुशोचन्ति पण्डिताः ॥',
+      sanskrit: 'श्रीभगवानुवाच । अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे । गतासूनगतासूंश्च नानुशोचन्ति पण्डिताः ॥',
       hindi: 'भगवान बोले — तुम उन लोगों के लिए शोक कर रहे हो जिनके लिए शोक नहीं करना चाहिए, और फिर भी बुद्धिमान की भाषा बोलते हो। पंडित मृत या जीवित किसी के लिए शोक नहीं करते।',
       english: 'The Lord said — You grieve for those who should not be grieved for and speak like the wise. The wise do not lament for the living or the dead.'
     },
@@ -88,13 +88,13 @@ export const chapter2: ChapterData = {
       verse_number: '14',
       sanskrit: 'मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः । आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ॥',
       hindi: 'हे कौन्तेय! इंद्रियों के विषय से होने वाले शीत-उष्ण, सुख-दुःख आते-जाते रहते हैं, नित्य नहीं हैं। धैर्य से सहो।',
-      english: 'O son of Kunti! Contact with sense objects gives cold and heat, pleasure and pain — they come and go. Endure them calmly.'
+      english: 'O son of Kunti! Contact with sense objects gives cold and heat, pleasure and pain — they come and go. Endure (to continue despite difficulties) them calmly.'
     },
     {
       verse_number: '15',
       sanskrit: 'यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ । समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ॥',
       hindi: 'हे श्रेष्ठ पुरुष! जो सुख-दुःख में समान रहता है और विचलित नहीं होता, वही अमरत्व (मोक्ष) के योग्य होता है।',
-      english: 'O noble one! The steady person who pleasure and pain do not disturb is fit for immortality (liberation).'
+      english: 'O noble one! The steady person to whom pleasure and pain do not disturb is fit for immortality (liberation).'
     },
     {
       verse_number: '16',
@@ -106,7 +106,7 @@ export const chapter2: ChapterData = {
       verse_number: '17',
       sanskrit: 'अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् । विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ॥',
       hindi: 'जिस आत्मा से यह शरीर व्याप्त है, उसे अविनाशी जानो। उस अविनाशी का कोई नाश नहीं कर सकता।',
-      english: 'Know that the soul which pervades the body is indestructible. No one can destroy the imperishable.'
+      english: 'Know that the soul which pervades (to spread through every part of something) the body is indestructible. No one can destroy the imperishable (cannot be destroyed, cannot decay, or cannot be forgotten).'
     },
     {
       verse_number: '18',
@@ -166,7 +166,7 @@ export const chapter2: ChapterData = {
       verse_number: '27',
       sanskrit: 'जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च । तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ॥',
       hindi: 'जिसका जन्म हुआ है उसकी मृत्यु निश्चित है, और मृत का जन्म निश्चित है। इसलिए जो टल नहीं सकता, उस पर शोक न करो।',
-      english: 'Death is certain for the born, and birth is certain for the dead. So do not grieve for the inevitable.'
+      english: 'Death is certain for the born, and birth is certain for the dead. So do not grieve for the inevitable (certain to happen and impossible to avoid).'
     },
     {
       verse_number: '28',
@@ -184,13 +184,13 @@ export const chapter2: ChapterData = {
       verse_number: '30',
       sanskrit: 'देही नित्यमवध्योऽयं देहे सर्वस्य भारत । तस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि ॥',
       hindi: 'हर एक शरीर में रहने वाला आत्मा नित्य अवध्य है। इसलिए सभी प्राणियों के लिए तुम्हें शोक नहीं करना चाहिए।',
-      english: 'The soul in every body is always inviolable. Therefore, you should not grieve for any living being.'
+      english: 'The soul in every body is always inviolable (something that must not be broken, harmed, or violated). Therefore, you should not grieve for any living being.'
     },
     {
       verse_number: '31',
       sanskrit: 'स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि । धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते ॥',
       hindi: 'अपने क्षत्रिय धर्म को देखकर भी तुम्हें विचलित नहीं होना चाहिए। क्योंकि धर्मयुक्त युद्ध से बढ़कर क्षत्रिय के लिए कोई और कल्याणकारी कार्य नहीं है।',
-      english: 'Considering your own duty as a warrior, you should not waver. For a Kshatriya, there is no greater good than a righteous battle.'
+      english: 'Considering your own duty as a warrior, you should not waver (to be unsure, to hesitate, or to become weaker or unsteady). For a Kshatriya, there is no greater good than a righteous battle.'
     },
     {
       verse_number: '32',
@@ -250,7 +250,7 @@ export const chapter2: ChapterData = {
       verse_number: '41',
       sanskrit: 'व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन । बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ॥',
       hindi: 'हे कुरुनंदन! इस मार्ग में बुद्धि एकाग्र होती है। पर अनिश्चित बुद्धि वाले लोगों की बुद्धि कई शाखाओं में बंट जाती है।',
-      english: 'In this path, the intelligence is resolute and single-pointed. But the minds of the unsteady are many-branched.'
+      english: 'In this path, the intelligence is resolute (firmly determined and not changing your mind) and single-pointed. But the minds of the unsteady are many-branched.'
     },
     {
       verse_number: '42-43',
@@ -292,7 +292,7 @@ export const chapter2: ChapterData = {
       verse_number: '49',
       sanskrit: 'दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय । बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ॥',
       hindi: 'बुद्धियोग (सही समझ) वाले कर्म, फल-लोलुप कर्मों से श्रेष्ठ हैं। फल के हेतु वाले लोग दीन-मन वाले हैं।',
-      english: 'Action guided by wisdom is far superior to action driven by desire for results. Those seeking rewards are miserly in spirit.'
+      english: 'Action guided by wisdom is far superior to action driven by desire for results. Those seeking rewards are miserly (cheap) in spirit.'
     },
     {
       verse_number: '50',
@@ -310,7 +310,7 @@ export const chapter2: ChapterData = {
       verse_number: '52',
       sanskrit: 'यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति । तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ॥',
       hindi: 'जब तुम्हारी बुद्धि मोह के जंगल से निकल जाएगी, तब जो सुनना चाहिए और जो सुना है — उस सब से तुम निर्लिप्त हो जाओगे।',
-      english: 'When your mind rises beyond delusion, you will become indifferent to all that is heard or yet to be heard.'
+      english: 'When your mind rises beyond delusion (a false belief), you will become indifferent to all that is heard or yet to be heard.'
     },
     {
       verse_number: '53',
@@ -320,13 +320,13 @@ export const chapter2: ChapterData = {
     },
     {
       verse_number: '54',
-      sanskrit: 'अर्जुन उवाच स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव । स्थितधीः किं प्रभाषेत किमासीत व्रजेत किम् ॥',
+      sanskrit: 'अर्जुन उवाच । स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव । स्थितधीः किं प्रभाषेत किमासीत व्रजेत किम् ॥',
       hindi: 'अर्जुन बोले — हे केशव! स्थितप्रज्ञ (स्थिर बुद्धि वाले) व्यक्ति की पहचान क्या है? वह कैसे बोलता है, कैसे बैठता है और कैसे चलता है?',
       english: 'Arjuna said — O Keshava! What is the description of one whose wisdom is steady? How does such a person speak, sit, and walk?'
     },
     {
       verse_number: '55',
-      sanskrit: 'श्रीभगवानुवाच प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् । आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥',
+      sanskrit: 'श्रीभगवानुवाच । प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् । आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते ॥',
       hindi: 'भगवान बोले — जब मन में उत्पन्न सभी कामनाओं को छोड़कर, आत्मा में ही संतुष्ट रहता है — वही स्थितप्रज्ञ कहलाता है।',
       english: 'The Lord said — When one gives up all desires of the mind and is satisfied in the Self alone, that person is called steady in wisdom.'
     },
@@ -435,8 +435,8 @@ export const chapter2: ChapterData = {
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे साङ्ख्ययोगो नाम द्वितीयोऽध्यायः ॥',
-      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के "सांख्य योग" नामक द्वितीय अध्याय का समापन होता है।',
-      english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the second chapter entitled "Sankhya Yoga" (The Yoga of Knowledge).'
+      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के "ज्ञान और विवेक का योग" नामक द्वितीय अध्याय का समापन होता है।',
+      english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the second chapter entitled "The Yoga of Knowledge and Understanding".'
     }
   ]
 };

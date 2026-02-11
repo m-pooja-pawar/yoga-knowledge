@@ -1,7 +1,7 @@
 import { ChapterInfo } from './bhagavadGitaTypes';
 
 export const chapters: ChapterInfo[] = [
-  { id: 'chapter-1', title_sanskrit: 'अर्जुनविषादयोगः', title_english: 'The Yoga of Arjuna\'s Sorrow' },
+  { id: 'chapter-1', title_sanskrit: 'अर्जुनविषादयोगः', title_english: 'Arjuna Vishada Yoga' },
   { id: 'chapter-2', title_sanskrit: 'सांख्ययोगः', title_english: 'Sankhya Yoga' },
   { id: 'chapter-3', title_sanskrit: 'कर्मयोगः', title_english: 'Karma Yoga' },
   { id: 'chapter-4', title_sanskrit: 'ज्ञानकर्मसंन्यासयोगः', title_english: 'Jnana Karma Sanyasa Yoga' },

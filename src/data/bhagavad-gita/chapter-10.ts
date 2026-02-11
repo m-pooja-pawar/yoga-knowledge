@@ -3,266 +3,266 @@ import { ChapterData } from '@/lib/bhagavadGitaTypes';
 export const chapter10: ChapterData = {
   id: 'chapter-10',
   title_sanskrit: 'विभूतियोगः',
-  title_hindi: 'भगवान की विभूतियों का योग',
-  title_english: 'The Yoga of Divine Manifestations',
+  title_hindi: 'विभूतियों का योग',
+  title_english: 'The Yoga of Divine Glories',
   verses: [
     {
       verse_number: '1',
-      sanskrit: 'श्रीभगवानुवाच भूय एव महाबाहो शृणु मे परमं वचः । यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ॥',
-      hindi: 'भगवान बोले — हे महाबाहु! फिर से मेरा यह श्रेष्ठ वचन सुनो, जिसे मैं तुम्हारे हित के लिए कह रहा हूँ।',
-      english: 'The Lord said — O mighty-armed, hear again My supreme words, spoken for your good.'
+      sanskrit: 'श्रीभगवानुवाच । भूय एव महाबाहो शृणु मे परमं वचः । यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ॥',
+      hindi: 'भगवान बोले – हे महाबाहु, फिर से मेरे परम वचन को सुनो। मैं तुम्हारे हित की इच्छा से और तुमसे प्रेम करते हुए यह कह रहा हूँ।',
+      english: 'The Lord said – O mighty-armed, once again hear My supreme word, which I shall speak for your welfare, as you are dear to Me.'
     },
     {
       verse_number: '2',
-      sanskrit: 'न मे विदुः सुरगणाः प्रभवं न महर्षयः । अहम् आदिर्हि देवानां महर्षीणां च सर्वशः ॥',
-      hindi: 'देवता और महर्षि भी मेरी उत्पत्ति को नहीं जानते, क्योंकि मैं ही सबका आदि हूँ।',
-      english: 'Neither gods nor sages know My origin, for I am the source of all.'
+      sanskrit: 'न मे विदुः सुरगणाः प्रभवं न महर्षयः । अहमादिर्हि देवानां महर्षीणां च सर्वशः ॥',
+      hindi: 'देवगण और महर्षि मेरे उद्गम को नहीं जानते, क्योंकि मैं ही देवताओं और महर्षियों का आदि कारण हूँ।',
+      english: 'Neither the hosts of gods nor the great sages know My origin, for I am the source of all gods and sages.'
     },
     {
       verse_number: '3',
-      sanskrit: 'यो मामजमनादिं च वेत्ति लोकमहेश्वरम् । असंमूढः स मर्त्येषु सर्वपापैः प्रमुच्यते ॥',
-      hindi: 'जो मुझे अजन्मा, आदि रहित और सब लोकों का स्वामी जानता है, वह पापों से मुक्त हो जाता है।',
-      english: 'One who knows Me as unborn and the Lord of all worlds is freed from sins.'
+      sanskrit: 'यो मामजमनादिं च वेत्ति लोकमहेश्वरम् । असम्मूढः स मर्त्येषु सर्वपापैः प्रमुच्यते ॥',
+      hindi: 'जो मुझे अजन्मा, अनादि और समस्त लोकों का महान ईश्वर जानता है, वह मनुष्यों में अज्ञान से रहित होकर सभी पापों से मुक्त हो जाता है।',
+      english: 'One who knows Me as unborn, without beginning, and the supreme Lord of all worlds becomes undeluded among mortals and is freed from all sins.'
     },
     {
       verse_number: '4',
       sanskrit: 'बुद्धिर्ज्ञानमसंमोहः क्षमा सत्यं दमः शमः । सुखं दुःखं भवोऽभावो भयं चाभयमेव च ॥',
-      hindi: 'बुद्धि, ज्ञान, क्षमा, सत्य, सुख, दुःख, भय और अभय — ये सब मुझसे उत्पन्न होते हैं।',
-      english: 'Intellect, knowledge, truth, joy, sorrow, fear, and fearlessness come from Me.'
+      hindi: 'बुद्धि, ज्ञान, भ्रम का अभाव, क्षमा, सत्य, इन्द्रियनिग्रह, मन की शांति, सुख, दुःख, जन्म, मृत्यु, भय और निर्भयता —',
+      english: 'Intelligence, knowledge, freedom from delusion, forgiveness, truthfulness, control of the senses, tranquility of mind, happiness, sorrow, birth, death, fear and fearlessness —'
     },
     {
       verse_number: '5',
       sanskrit: 'अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः । भवन्ति भावा भूतानां मत्त एव पृथग्विधाः ॥',
-      hindi: 'अहिंसा, संतोष, तप, दान, यश और अपयश — ये सब प्राणियों के भाव मुझसे ही होते हैं।',
-      english: 'Non-violence, contentment, charity, fame and disgrace arise from Me.'
+      hindi: 'अहिंसा, समभाव, संतोष, तप, दान, यश और अपयश — ये सब विभिन्न भाव प्राणियों में मुझसे ही उत्पन्न होते हैं।',
+      english: 'Nonviolence, equanimity, contentment, austerity, charity, fame and infamy — all these diverse qualities in beings arise from Me alone.'
     },
     {
       verse_number: '6',
       sanskrit: 'महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा । मद्भावा मानसा जाता येषां लोक इमाः प्रजाः ॥',
-      hindi: 'सप्त महर्षि और मनु मुझसे उत्पन्न हुए, जिनसे संसार की प्रजा फैली।',
-      english: 'The seven great sages and Manus came from Me, from whom beings arose.'
+      hindi: 'प्राचीन सात महर्षि, चार मनु और अन्य प्राणी मेरे मन से उत्पन्न हुए हैं; इन्हीं से यह सम्पूर्ण सृष्टि विकसित हुई है।',
+      english: 'The seven great sages, the four ancient Manus, and others were born from My mind; from them all the beings of this world have descended.'
     },
     {
       verse_number: '7',
       sanskrit: 'एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः । सोऽविकम्पेन योगेन युज्यते नात्र संशयः ॥',
-      hindi: 'जो मेरी विभूति और योग को जानता है, वह दृढ़ भक्ति से जुड़ जाता है।',
-      english: 'One who knows My divine powers is firmly united with Me.'
+      hindi: 'जो मेरी इन विभूतियों और योगशक्ति को तत्वतः जानता है, वह अडिग योग में स्थित हो जाता है — इसमें कोई संदेह नहीं है।',
+      english: 'One who truly understands My divine glories and yogic power becomes united with unshakable Yoga — there is no doubt about it.'
     },
     {
       verse_number: '8',
       sanskrit: 'अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते । इति मत्वा भजन्ते मां बुधा भावसमन्विताः ॥',
-      hindi: 'मैं ही सबका कारण हूँ। यह जानकर ज्ञानी मेरी भक्ति करते हैं।',
-      english: 'I am the source of all; knowing this, the wise worship Me.'
+      hindi: 'मैं ही सबका उद्गम हूँ और मुझसे ही सब कुछ प्रवाहित होता है। यह जानकर ज्ञानी लोग भावपूर्वक मेरी भक्ति करते हैं।',
+      english: 'I am the source of all; from Me everything proceeds. Knowing this, the wise worship Me with deep devotion.'
     },
     {
       verse_number: '9',
       sanskrit: 'मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम् । कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ॥',
-      hindi: 'मेरे भक्त सदा मुझे स्मरण करते हैं और आनंद पाते हैं।',
-      english: 'My devotees think of Me and rejoice in Me.'
+      hindi: 'उनका मन मुझमें स्थित रहता है, उनके प्राण मुझमें अर्पित होते हैं; वे परस्पर मेरे विषय में चर्चा करते हुए सदा संतुष्ट और आनंदित रहते हैं।',
+      english: 'Their minds fixed on Me and their lives devoted to Me, they enlighten one another and constantly speak of Me, rejoicing and delighting in Me.'
     },
     {
       verse_number: '10',
       sanskrit: 'तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् । ददामि बुद्धियोगं तं येन मामुपयान्ति ते ॥',
-      hindi: 'जो प्रेम से मेरी भक्ति करते हैं, उन्हें मैं बुद्धियोग देता हूँ।',
-      english: 'To those who worship Me with love, I give the understanding to reach Me.'
+      hindi: 'जो भक्त प्रेमपूर्वक निरंतर मेरी भक्ति करते हैं, उन्हें मैं वह बुद्धियोग देता हूँ जिसके द्वारा वे मुझे प्राप्त होते हैं।',
+      english: 'To those who are constantly devoted and worship Me with love, I grant the Yoga of understanding by which they come to Me.'
     },
     {
       verse_number: '11',
-      sanskrit: 'तेषामेवानुकम्पार्थमहमज्ञानजं तमः । नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता ॥',
-      hindi: 'उन पर कृपा करके मैं अज्ञान का अंधकार नष्ट करता हूँ।',
-      english: 'Out of compassion, I destroy the darkness of ignorance.'
+      sanskrit: 'तेषामेवानुकम्पार्थमहं अज्ञानजं तमः । नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता ॥',
+      hindi: 'उन पर विशेष कृपा करने के लिए मैं उनके हृदय में स्थित होकर अज्ञान से उत्पन्न अंधकार को प्रकाशित ज्ञानदीप द्वारा नष्ट कर देता हूँ।',
+      english: 'Out of compassion for them, I dwell within their hearts and destroy the darkness born of ignorance with the shining lamp of knowledge.'
     },
     {
       verse_number: '12',
-      sanskrit: 'अर्जुन उवाच परं ब्रह्म परं धाम पवित्रं परमं भवान् । पुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् ॥',
-      hindi: 'अर्जुन बोले — आप परम ब्रह्म, परम धाम और शुद्ध हैं।',
-      english: 'Arjuna said — You are the Supreme Brahman and the highest abode.'
+      sanskrit: 'अर्जुन उवाच । परं ब्रह्म परं धाम पवित्रं परमं भवान् । पुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् ॥',
+      hindi: 'अर्जुन बोले – आप परम ब्रह्म हैं, परम धाम हैं, परम पवित्र हैं; आप शाश्वत, दिव्य, आदि देव, अजन्मा और सर्वव्यापक पुरुष हैं।',
+      english: 'Arjuna said – You are the Supreme Brahman, the supreme abode, the supreme purifier; You are the eternal, divine Person, the primal God, unborn and all-pervading.'
     },
     {
       verse_number: '13',
       sanskrit: 'आहुस्त्वामृषयः सर्वे देवर्षिर्नारदस्तथा । असितो देवलो व्यासः स्वयं चैव ब्रवीषि मे ॥',
-      hindi: 'ऋषि, नारद, व्यास सभी आपको यही कहते हैं।',
-      english: 'All sages declare You as Supreme, and You say so Yourself.'
+      hindi: 'सभी ऋषि आपको ऐसा ही कहते हैं; देवर्षि नारद, असित, देवल और व्यास भी ऐसा ही कहते हैं, और आप स्वयं भी मुझे ऐसा ही बता रहे हैं।',
+      english: 'All the sages proclaim You thus — so do the divine sage Narada, Asita, Devala, and Vyasa; and You Yourself declare this to me.'
     },
     {
       verse_number: '14',
       sanskrit: 'सर्वमेतदृतं मन्ये यन्मां वदसि केशव । न हि ते भगवन्व्यक्तिं विदुर्देवा न दानवाः ॥',
-      hindi: 'हे केशव! मैं आपकी बात को सत्य मानता हूँ।',
-      english: 'O Keshava, I believe all that You say.'
+      hindi: 'हे केशव, जो कुछ आप मुझसे कहते हैं, मैं उसे सत्य मानता हूँ; क्योंकि हे भगवान, आपके दिव्य स्वरूप को न देवता जानते हैं और न दानव।',
+      english: 'O Keshava, I accept all that You have told me as truth; for neither the gods nor the demons fully know Your manifestation.'
     },
     {
       verse_number: '15',
       sanskrit: 'स्वयमेवात्मनाऽऽत्मानं वेत्थ त्वं पुरुषोत्तम । भूतभावन भूतेश देवदेव जगत्पते ॥',
-      hindi: 'हे पुरुषोत्तम! आप स्वयं ही अपने को जानते हैं।',
-      english: 'O Supreme Person, You alone truly know Yourself.'
+      hindi: 'हे पुरुषोत्तम, आप स्वयं ही अपने को जानते हैं; हे समस्त प्राणियों के उत्पन्न करने वाले, हे भूतों के स्वामी, देवों के देव और जगत के स्वामी।',
+      english: 'O Supreme Person, You alone know Yourself by Yourself — O origin of beings, Lord of beings, God of gods, and Lord of the universe.'
     },
     {
       verse_number: '16',
       sanskrit: 'वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः । याभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि ॥',
-      hindi: 'कृपया अपनी दिव्य विभूतियाँ विस्तार से बताइए।',
-      english: 'Please explain Your divine manifestations.'
+      hindi: 'आप कृपया अपनी उन दिव्य विभूतियों को पूर्ण रूप से बताइए, जिनसे आप इन समस्त लोकों में व्याप्त होकर स्थित हैं।',
+      english: 'Please describe fully Your divine manifestations by which You pervade and sustain all these worlds.'
     },
     {
       verse_number: '17',
       sanskrit: 'कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन् । केषु केषु च भावेषु चिन्त्योऽसि भगवन्मया ॥',
-      hindi: 'मैं आपको किस-किस रूप में स्मरण करूँ?',
-      english: 'In what ways should I think of You?'
+      hindi: 'हे योगेश्वर, मैं आपको सदा चिंतन करते हुए किस प्रकार जानूँ? और किन-किन रूपों में आपका ध्यान करूँ?',
+      english: 'O Lord of Yoga, how shall I know You while constantly meditating upon You? In what various forms should I contemplate You, O Lord?'
     },
     {
       verse_number: '18',
       sanskrit: 'विस्तरेणात्मनो योगं विभूतिं च जनार्दन । भूयः कथय तृप्तिर्हि शृण्वतो नास्ति मेऽमृतम् ॥',
-      hindi: 'कृपया फिर से विस्तार से बताइए।',
-      english: 'Please explain again in detail.'
+      hindi: 'हे जनार्दन, कृपया अपनी योगशक्ति और विभूतियों को विस्तार से फिर बताइए; क्योंकि आपके अमृतमय वचनों को सुनकर मुझे तृप्ति नहीं होती।',
+      english: 'O Janardana, again describe in detail Your yogic power and divine glories, for I can never tire of hearing Your nectar-like words.'
     },
     {
       verse_number: '19',
-      sanskrit: 'श्रीभगवानुवाच हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः । प्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ॥',
-      hindi: 'भगवान बोले — मैं अपनी मुख्य विभूतियाँ बताऊँगा।',
-      english: 'The Lord said — I will tell you My main divine glories.'
+      sanskrit: 'श्रीभगवानुवाच । हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः । प्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ॥',
+      hindi: 'भगवान बोले – हे कुरुश्रेष्ठ, अब मैं तुम्हें अपनी दिव्य विभूतियाँ मुख्य रूप से बताऊँगा; क्योंकि मेरे विस्तार का अंत नहीं है।',
+      english: 'The Lord said – O best of the Kurus, I shall now declare to you My divine glories, but only the principal ones, for there is no end to My vastness.'
     },
     {
       verse_number: '20',
       sanskrit: 'अहमात्मा गुडाकेश सर्वभूताशयस्थितः । अहमादिश्च मध्यं च भूतानामन्त एव च ॥',
-      hindi: 'मैं सब प्राणियों के हृदय में स्थित आत्मा हूँ।',
-      english: 'I am the Self dwelling in all beings.'
+      hindi: 'हे गुडाकेश, मैं सभी प्राणियों के हृदय में स्थित आत्मा हूँ; मैं ही उनका आदि, मध्य और अंत हूँ।',
+      english: 'O Gudakesha, I am the Self seated in the hearts of all beings; I am the beginning, the middle, and also the end of all beings.'
     },
     {
       verse_number: '21',
       sanskrit: 'आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् । मरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ॥',
-      hindi: 'आदित्यों में विष्णु और नक्षत्रों में चंद्रमा मैं हूँ।',
-      english: 'Among lights I am the sun; among stars, the moon.'
+      hindi: 'आदित्यों में मैं विष्णु हूँ; प्रकाशों में तेजस्वी सूर्य हूँ; मरुतों में मरीचि हूँ और नक्षत्रों में मैं चंद्रमा हूँ।',
+      english: 'Among the Adityas I am Vishnu; among lights I am the radiant sun; among the Maruts I am Marichi; and among the stars I am the moon.'
     },
     {
       verse_number: '22',
       sanskrit: 'वेदानां सामवेदोऽस्मि देवानामस्मि वासवः । इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ॥',
-      hindi: 'वेदों में सामवेद और इन्द्रियों में मन मैं हूँ।',
-      english: 'Among the Vedas I am Sama Veda; among senses, the mind.'
+      hindi: 'वेदों में मैं सामवेद हूँ; देवताओं में इन्द्र हूँ; इन्द्रियों में मन हूँ और प्राणियों में चेतना हूँ।',
+      english: 'Among the Vedas I am the Sama Veda; among the gods I am Indra; among the senses I am the mind; and in all beings I am consciousness.'
     },
     {
       verse_number: '23',
       sanskrit: 'रुद्राणां शंकरश्चास्मि वित्तेशो यक्षरक्षसाम् । वसूनां पावकश्चास्मि मेरुः शिखरिणामहम् ॥',
-      hindi: 'रुद्रों में शंकर और पर्वतों में मेरु मैं हूँ।',
-      english: 'Among mountains I am Meru.'
+      hindi: 'रुद्रों में मैं शंकर हूँ; यक्ष और राक्षसों में कुबेर हूँ; वसुओं में अग्नि हूँ और पर्वतों में सुमेरु हूँ।',
+      english: 'Among the Rudras I am Shankara; among the Yakshas and Rakshasas I am Kubera; among the Vasus I am fire; and among mountains I am Meru.'
     },
     {
       verse_number: '24',
       sanskrit: 'पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् । सेनानीनामहं स्कन्दः सरसामस्मि सागरः ॥',
-      hindi: 'सेनानायकों में स्कंद और जलाशयों में समुद्र मैं हूँ।',
-      english: 'Among generals I am Skanda; among waters, the ocean.'
+      hindi: 'हे पार्थ, पुरोहितों में मुझे बृहस्पति जानो; सेनापतियों में मैं स्कन्द हूँ और जलाशयों में मैं सागर हूँ।',
+      english: 'O Partha, among priests know Me as Brihaspati; among generals I am Skanda; and among bodies of water I am the ocean.'
     },
     {
       verse_number: '25',
       sanskrit: 'महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम् । यज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः ॥',
-      hindi: 'ऋषियों में भृगु और पर्वतों में हिमालय मैं हूँ।',
-      english: 'Among sages I am Bhrigu; among mountains, the Himalayas.'
+      hindi: 'महर्षियों में मैं भृगु हूँ; वाणियों में एकाक्षर ‘ॐ’ हूँ; यज्ञों में जपयज्ञ हूँ और स्थिर वस्तुओं में हिमालय हूँ।',
+      english: 'Among the great sages I am Bhrigu; among words I am the single syllable Om; among sacrifices I am the silent repetition of the holy name; and among immovable things I am the Himalayas.'
     },
     {
       verse_number: '26',
       sanskrit: 'अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः । गन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः ॥',
-      hindi: 'वृक्षों में पीपल और ऋषियों में नारद मैं हूँ।',
-      english: 'Among trees I am the Ashvattha.'
+      hindi: 'वृक्षों में मैं पीपल हूँ; देवर्षियों में नारद हूँ; गंधर्वों में चित्ररथ हूँ और सिद्धों में कपिल मुनि हूँ।',
+      english: 'Among trees I am the sacred Ashvattha; among divine sages I am Narada; among Gandharvas I am Chitraratha; and among perfected beings I am Kapila Muni.'
     },
     {
       verse_number: '27',
       sanskrit: 'उच्चैःश्रवसमश्वानां विद्धि माममृतोद्भवम् । ऐरावतं गजेन्द्राणां नराणां च नराधिपम् ॥',
-      hindi: 'घोड़ों में उच्चैःश्रवा और हाथियों में ऐरावत मैं हूँ।',
-      english: 'Among horses I am Uchchaihshravas.'
+      hindi: 'घोड़ों में अमृत से उत्पन्न उच्चैःश्रवा मुझे जानो; हाथियों में ऐरावत और मनुष्यों में राजा मुझे जानो।',
+      english: 'Among horses know Me as Uchchaihshrava, born of nectar; among elephants I am Airavata; and among men I am the king.'
     },
     {
       verse_number: '28',
       sanskrit: 'आयुधानामहं वज्रं धेनूनामस्मि कामधुक् । प्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः ॥',
-      hindi: 'हथियारों में वज्र और सर्पों में वासुकि मैं हूँ।',
-      english: 'Among weapons I am the thunderbolt.'
+      hindi: 'शस्त्रों में मैं वज्र हूँ; गायों में कामधेनु हूँ; सन्तानोत्पत्ति में कामदेव हूँ और सर्पों में वासुकि हूँ।',
+      english: 'Among weapons I am the thunderbolt; among cows I am Kamadhenu; among causes of procreation I am Cupid; and among serpents I am Vasuki.'
     },
     {
       verse_number: '29',
       sanskrit: 'अनन्तश्चास्मि नागानां वरुणो यादसामहम् । पितॄणामर्यमा चास्मि यमः संयमतामहम् ॥',
-      hindi: 'नागों में अनंत और संयम रखने वालों में यम मैं हूँ।',
-      english: 'Among controllers I am Yama.'
+      hindi: 'नागों में मैं अनंत हूँ; जलचरों में वरुण हूँ; पितरों में अर्यमा हूँ और संयम करने वालों में यम हूँ।',
+      english: 'Among serpents I am Ananta; among aquatic beings I am Varuna; among ancestors I am Aryama; and among those who discipline I am Yama.'
     },
     {
       verse_number: '30',
       sanskrit: 'प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम् । मृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् ॥',
-      hindi: 'दानवों में प्रह्लाद और पशुओं में सिंह मैं हूँ।',
-      english: 'Among animals I am the lion.'
+      hindi: 'दैत्यों में मैं प्रह्लाद हूँ; गणना करने वालों में समय हूँ; पशुओं में सिंह हूँ और पक्षियों में गरुड़ हूँ।',
+      english: 'Among the Daityas I am Prahlada; among reckoners I am time; among beasts I am the lion; and among birds I am Garuda.'
     },
     {
       verse_number: '31',
       sanskrit: 'पवनः पवतामस्मि रामः शस्त्रभृतामहम् । झषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी ॥',
-      hindi: 'नदियों में गंगा और शस्त्रधारियों में राम मैं हूँ।',
-      english: 'Among rivers I am the Ganga.'
+      hindi: 'शुद्ध करने वालों में मैं वायु हूँ; शस्त्रधारियों में मैं राम हूँ; मछलियों में मैं मगर हूँ और नदियों में मैं गंगा हूँ।',
+      english: 'Among purifiers I am the wind; among warriors I am Rama; among fishes I am the shark; and among rivers I am the Ganga.'
     },
     {
       verse_number: '32',
       sanskrit: 'सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन । अध्यात्मविद्या विद्यानां वादः प्रवदतामहम् ॥',
-      hindi: 'सृष्टि का आदि, मध्य और अंत मैं हूँ।',
-      english: 'I am the beginning, middle, and end of creation.'
+      hindi: 'हे अर्जुन, सृष्टियों का मैं आदि, मध्य और अंत हूँ; विद्याओं में अध्यात्मविद्या हूँ और वाद करने वालों में सत्ययुक्त तर्क हूँ।',
+      english: 'O Arjuna, of creations I am the beginning, middle, and end; among sciences I am the science of the Self; and among debaters I am sound reasoning.'
     },
     {
       verse_number: '33',
       sanskrit: 'अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च । अहमेवाक्षयः कालो धाताऽहं विश्वतोमुखः ॥',
-      hindi: 'अक्षरों में \'अ\' और काल रूप में मैं हूँ।',
-      english: 'Among letters I am \'A\'; I am eternal time.'
+      hindi: 'अक्षरों में मैं ‘अ’ हूँ; समासों में द्वन्द्व समास हूँ; मैं ही अक्षय काल हूँ और सब ओर मुख वाला धारणकर्ता हूँ।',
+      english: 'Among letters I am the letter “A”; among compound words I am the dual compound; I am the inexhaustible time and the all-facing sustainer.'
     },
     {
       verse_number: '34',
       sanskrit: 'मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम् । कीर्तिः श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृतिः क्षमा ॥',
-      hindi: 'मैं मृत्यु भी हूँ और भविष्य की उत्पत्ति भी।',
-      english: 'I am death and the source of the future.'
+      hindi: 'मैं सबको हर लेने वाला मृत्यु हूँ और भविष्य में उत्पन्न होने वालों का जन्म भी हूँ; स्त्रियों में मैं कीर्ति, श्री, वाणी, स्मृति, मेधा, धैर्य और क्षमा हूँ।',
+      english: 'I am death that takes away all, and the origin of future beings; among feminine qualities I am fame, prosperity, speech, memory, intelligence, firmness, and forgiveness.'
     },
     {
       verse_number: '35',
       sanskrit: 'बृहत्साम तथा साम्नां गायत्री छन्दसामहम् । मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः ॥',
-      hindi: 'महीनों में मार्गशीर्ष और ऋतुओं में वसंत मैं हूँ।',
-      english: 'Among months I am Margashirsha; among seasons, spring.'
+      hindi: 'सामगानों में मैं बृहत्साम हूँ; छंदों में गायत्री हूँ; महीनों में मार्गशीर्ष हूँ और ऋतुओं में पुष्पित वसंत हूँ।',
+      english: 'Among the Sama hymns I am the Brihat Sama; among meters I am Gayatri; among months I am Margashirsha; and among seasons I am the flowering spring.'
     },
     {
       verse_number: '36',
       sanskrit: 'द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम् । जयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम् ॥',
-      hindi: 'तेजस्वियों का तेज और विजय मैं हूँ।',
-      english: 'I am victory and determination.'
+      hindi: 'छल करने वालों में मैं जुआ हूँ; तेजस्वियों में तेज हूँ; मैं विजय हूँ, दृढ़ निश्चय हूँ और सात्त्विकों का सत्त्व हूँ।',
+      english: 'Among those who deceive I am gambling; among the brilliant I am brilliance; I am victory, determination, and the goodness of the good.'
     },
     {
       verse_number: '37',
-      sanskrit: 'वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः । मुनीनामप्यहं व्यासः कवीनामुशना कविः ॥',
-      hindi: 'पाण्डवों में अर्जुन और ऋषियों में व्यास मैं हूँ।',
-      english: 'Among the Pandavas I am Arjuna.'
+      sanskrit: 'वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः । मुनीनामप्यहं व्यासः कवीनामुशनाः कविः ॥',
+      hindi: 'वृष्णियों में मैं वासुदेव हूँ; पाण्डवों में धनंजय हूँ; मुनियों में व्यास हूँ और कवियों में शुक्राचार्य हूँ।',
+      english: 'Among the Vrishnis I am Vasudeva; among the Pandavas I am Dhananjaya; among sages I am Vyasa; and among poets I am Ushana.'
     },
     {
       verse_number: '38',
       sanskrit: 'दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् । मौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम् ॥',
-      hindi: 'गोपनीय विषयों में मौन और ज्ञानियों में ज्ञान मैं हूँ।',
-      english: 'I am silence among secrets and wisdom among the wise.'
+      hindi: 'दमन करने वालों में मैं दण्ड हूँ; विजय की इच्छा रखने वालों में नीति हूँ; रहस्यों में मौन हूँ और ज्ञानियों का ज्ञान हूँ।',
+      english: 'Among disciplinarians I am the rod of punishment; among those who seek victory I am policy; among secrets I am silence; and among the wise I am knowledge.'
     },
     {
       verse_number: '39',
       sanskrit: 'यच्चापि सर्वभूतानां बीजं तदहमर्जुन । न तदस्ति विना यत्स्यान्मया भूतं चराचरम् ॥',
-      hindi: 'सब प्राणियों का बीज मैं हूँ।',
-      english: 'I am the seed of all beings.'
+      hindi: 'हे अर्जुन, सभी प्राणियों का जो बीज है, वह मैं हूँ; ऐसा कोई भी चर या अचर तत्व नहीं जो मुझसे रहित हो।',
+      english: 'O Arjuna, whatever is the seed of all beings, that am I; there is no being, moving or unmoving, that can exist without Me.'
     },
     {
       verse_number: '40',
       sanskrit: 'नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप । एष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया ॥',
-      hindi: 'मेरी विभूतियों का अंत नहीं है।',
-      english: 'There is no end to My divine glories.'
+      hindi: 'हे परंतप, मेरी दिव्य विभूतियों का अंत नहीं है; मैंने केवल संक्षेप में उनका वर्णन किया है।',
+      english: 'O scorcher of foes, there is no end to My divine glories; what I have declared is only a brief indication of My vast manifestations.'
     },
     {
       verse_number: '41',
       sanskrit: 'यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा । तत्तदेवावगच्छ त्वं मम तेजोंऽशसम्भवम् ॥',
-      hindi: 'जो भी महान और शक्तिशाली है, वह मेरी ही शक्ति से है।',
-      english: 'Whatever is powerful or glorious comes from My energy.'
+      hindi: 'जो भी विभूतियुक्त, शोभायुक्त या शक्तिशाली वस्तु है, उसे तुम मेरे तेज के अंश से उत्पन्न जानो।',
+      english: 'Whatever being is glorious, prosperous, or powerful, know that it arises from a fragment of My splendor.'
     },
     {
       verse_number: '42',
       sanskrit: 'अथवा बहुनैतेन किं ज्ञातेन तवार्जुन । विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ॥',
-      hindi: 'मैं अपने एक अंश से ही पूरे संसार को धारण करता हूँ।',
-      english: 'By a single part of Myself, I sustain the entire universe.'
+      hindi: 'हे अर्जुन, इन सब बातों को विस्तार से जानने से क्या लाभ? मैं अपने एक ही अंश से इस सम्पूर्ण जगत को धारण करके स्थित हूँ।',
+      english: 'But what need is there, O Arjuna, for all this detailed knowledge? I sustain this entire universe with a single fragment of Myself.'
     },
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे विभूतियोगो नाम दशमोऽध्यायः ॥',
-      hindi: 'इस प्रकार श्रीमद्भगवद्गीता में विभूतियोग नामक दसवाँ अध्याय समाप्त होता है।',
-      english: 'Thus ends the tenth chapter, Vibhuti Yoga, in the Bhagavad Gita.'
+      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण और अर्जुन के संवाद का “विभूति योग” नामक दसवाँ अध्याय समाप्त होता है।',
+      english: 'Thus, in the Upanishad-like Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the tenth chapter entitled “The Yoga of Divine Glories”.'
     }
   ]
 };
