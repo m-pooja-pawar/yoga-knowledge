@@ -117,8 +117,8 @@ export const chapter15: ChapterData = {
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे पुरुषोत्तमयोगो नाम पञ्चदशोऽध्यायः ॥',
-      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण और अर्जुन के संवाद का “पुरुषोत्तम योग” नामक पंद्रहवाँ अध्याय समाप्त होता है।',
-      english: 'Thus, in the Upanishad-like Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the fifteenth chapter entitled “The Yoga of the Supreme Person”.'
+      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “पुरुषोत्तम योग” नामक पंद्रहवाँ अध्याय समाप्त होता है।',
+      english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the fifteenth chapter entitled “The Yoga of the Supreme Person”.'
     },
   ]
 };

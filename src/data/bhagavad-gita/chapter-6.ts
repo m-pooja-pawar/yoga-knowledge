@@ -10,13 +10,13 @@ export const chapter6: ChapterData = {
       verse_number: '1',
       sanskrit: 'श्रीभगवानुवाच । अनाश्रितः कर्मफलं कार्यं कर्म करोति यः । स संन्यासी च योगी च न निरग्निर्न चाक्रियः ॥',
       hindi: 'भगवान बोले – जो व्यक्ति कर्मफल पर आश्रित हुए बिना अपना कर्तव्य कर्म करता है, वही सच्चा संन्यासी और योगी है। केवल अग्नि त्याग देना या कर्म छोड़ देना संन्यास नहीं है।',
-      english: 'The Lord said – One who performs his duty without depending on the fruits of action is the true renunciate and yogi. Merely giving up sacred fire or abandoning action is not renunciation.'
+      english: 'The Lord said: The person who performs their duty without depending on the fruits of action is the true renunciate and yogi. Merely giving up the sacred fire or abandoning actions does not mean renunciation.'
     },
     {
       verse_number: '2',
       sanskrit: 'यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव । न ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन ॥',
       hindi: 'हे पाण्डव! जिसे संन्यास कहा जाता है, वही वास्तव में योग है। जो व्यक्ति इच्छाओं और स्वार्थपूर्ण संकल्पों का त्याग नहीं करता, वह कभी योगी नहीं बन सकता।',
-      english: 'O Arjuna, what is called renunciation is indeed Yoga. One who has not given up selfish desires can never become a yogi.'
+      english: 'O son of Pandu, what is called renunciation is truly the same as Yoga. A person who has not given up desires and selfish intentions can never become a yogi.'
     },
     {
       verse_number: '3',
@@ -46,19 +46,19 @@ export const chapter6: ChapterData = {
       verse_number: '7',
       sanskrit: 'जितात्मनः प्रशान्तस्य परमात्मा समाहितः । शीतोष्णसुखदुःखेषु तथा मानापमानयोः ॥',
       hindi: 'जिसने मन को जीत लिया है और जो शांत है, वह परमात्मा में स्थित रहता है और सुख-दुःख, मान-अपमान में समान रहता है।',
-      english: 'One who has controlled the mind and is peaceful remains established in the Supreme and stays equal in joy and sorrow, honor and dishonor.'
+      english: 'One who has controlled the mind and is peaceful, remains established in the Supreme and stays equal in joy and sorrow, honor and dishonor.'
     },
     {
       verse_number: '8',
       sanskrit: 'ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः । युक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः ॥',
       hindi: 'जो ज्ञान और अनुभव से संतुष्ट है, जिसकी इन्द्रियाँ वश में हैं, और जो मिट्टी, पत्थर और सोने को समान देखता है — ऐसा योगी स्थिर माना जाता है।',
-      english: 'A yogi who is satisfied with knowledge and realization, who has controlled the senses, and who sees earth, stone, and gold as equal is said to be firmly established.'
+      english: 'A yogi who is satisfied with knowledge and realization, whose senses are under control, and who sees clay, stone, and gold as the same — such a yogi is considered steady.'
     },
     {
       verse_number: '9',
       sanskrit: 'सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु । साधुष्वपि च पापेषु समबुद्धिर्विशिष्यते ॥',
       hindi: 'जो मित्र, शत्रु, तटस्थ, द्वेषी, संबंधी, साधु और पापी — सभी में समान दृष्टि रखता है, वही श्रेष्ठ है।',
-      english: 'One who maintains equal vision toward friend, enemy, neutral, saint, and sinner is superior.'
+      english: 'One who has equal vision toward a friend, an enemy, a neutral person, a hater, a relative, a righteous person, and a sinner — such a person is truly superior.'
     },
     {
       verse_number: '10',
@@ -88,13 +88,13 @@ export const chapter6: ChapterData = {
       verse_number: '14',
       sanskrit: 'प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः । मनः संयम्य मच्चित्तो युक्त आसीत मत्परः ॥',
       hindi: 'मन को शांत रखकर, भय से मुक्त होकर, ब्रह्मचर्य के व्रत में स्थित होकर, मन को नियंत्रित करे और मुझे ही लक्ष्य बनाकर ध्यान में स्थित हो।',
-      english: 'With a peaceful mind, free from fear, established in self-discipline, controlling the mind and fixing it on Me as the Supreme goal, one should sit in meditation.'
+      english: 'Keeping the mind calm, free from fear, established in the vow of self-discipline (brahmacharya), one should control the mind and remain focused in meditation, taking Me alone as the supreme goal.'
     },
     {
       verse_number: '15',
       sanskrit: 'युञ्जन्नेवं सदात्मानं योगी नियतमानसः । शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥',
       hindi: 'इस प्रकार निरंतर मन को संयमित करते हुए योग का अभ्यास करने वाला योगी परम शांति और मेरे स्वरूप में स्थित मोक्ष को प्राप्त करता है।',
-      english: 'Thus constantly disciplining the mind in this way, the yogi attains supreme peace and liberation, abiding in Me.'
+      english: 'In this way, the yogi who constantly practices yoga while controlling the mind attains supreme peace and the liberation that is established in My divine nature.'
     },
     {
       verse_number: '16',
@@ -118,37 +118,37 @@ export const chapter6: ChapterData = {
       verse_number: '19',
       sanskrit: 'यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता । योगिनो यतचित्तस्य युञ्जतो योगमात्मनः ॥',
       hindi: 'जैसे बिना हवा के स्थान में दीपक की लौ नहीं डोलती, वैसे ही नियंत्रित चित्त वाला योगी ध्यान में स्थिर रहता है।',
-      english: 'Just as a lamp in a windless place does not flicker, such is the comparison for a yogi whose mind is controlled and absorbed in meditation.'
+      english: 'Just as a lamp’s flame does not flicker in a windless place, in the same way, a yogi with a controlled mind remains steady in meditation.'
     },
     {
       verse_number: '20',
       sanskrit: 'यत्रोपरमते चित्तं निरुद्धं योगसेवया । यत्र चैवात्मनाऽऽत्मानं पश्यन्नात्मनि तुष्यति ॥',
       hindi: 'जब योगाभ्यास द्वारा मन पूर्णतः शांत और नियंत्रित हो जाता है, और साधक आत्मा द्वारा आत्मा को आत्मा में ही देख कर संतुष्ट होता है, तब वह अवस्था प्राप्त होती है।',
-      english: 'When the mind becomes completely still through the practice of Yoga and one sees the Self within the Self and is satisfied in it, that state is attained.'
+      english: 'When, through the practice of yoga, the mind becomes completely calm and controlled, and the seeker, by the Self, sees the Self within the Self and feels satisfied — then that state is attained.'
     },
     {
       verse_number: '21',
       sanskrit: 'सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम् । वेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः ॥',
       hindi: 'उस अवस्था में साधक ऐसा परम और अनन्त सुख अनुभव करता है जो इन्द्रियों से परे है और जिसे शुद्ध बुद्धि ही जान सकती है। उसमें स्थित होकर वह सत्य से कभी विचलित नहीं होता।',
-      english: 'In that state one experiences supreme and infinite happiness, beyond the senses and understood only by pure intellect. Established in it, one never departs from truth.'
+      english: 'In that state, the seeker experiences supreme and endless happiness, which is beyond the senses and can be known only by a pure intellect. Being established in it, one never moves away from the truth.'
     },
     {
       verse_number: '22',
       sanskrit: 'यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः । यस्मिन्स्थितो न दुःखेन गुरुणापि विचाल्यते ॥',
       hindi: 'जिस सुख को प्राप्त कर मनुष्य इससे बड़ा कोई अन्य लाभ नहीं मानता, और जिसमें स्थित होकर वह भारी से भारी दुःख से भी विचलित नहीं होता।',
-      english: 'Having attained that state, one considers no other gain greater, and being established in it, is not shaken even by the greatest sorrow.'
+      english: 'Having attained that state, a person does not consider any other gain to be greater than it; and being established in it, one is not shaken even by the greatest sorrow.'
     },
     {
       verse_number: '23',
       sanskrit: 'तं विद्याद्दुःखसंयोगवियोगं योगसंज्ञितम् । स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा ॥',
       hindi: 'उस अवस्था को दुःखों के संयोग से पूर्ण वियोग कहा जाता है, और वही योग है। उसका अभ्यास दृढ़ निश्चय और बिना निराश हुए करना चाहिए।',
-      english: 'That state is called Yoga — the complete separation from union with sorrow. It must be practiced with firm determination and without discouragement.'
+      english: 'That state is called complete separation from the union with sorrow, and that itself is Yoga. It should be practiced with firm determination and without losing heart.'
     },
     {
       verse_number: '24',
       sanskrit: 'सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः । मनसैवेन्द्रियग्रामं विनियम्य समन्ततः ॥',
       hindi: 'संकल्पों से उत्पन्न सभी इच्छाओं का पूर्ण त्याग करके और मन द्वारा इन्द्रियों को हर दिशा से नियंत्रित करके अभ्यास करना चाहिए।',
-      english: 'Abandoning completely all desires born of imagination, and controlling the senses from every side by the mind, one should practice steadily.'
+      english: 'Completely giving up all desires that arise from mental resolutions, and controlling the senses from every side by the mind, one should practice steadily.'
     },
     {
       verse_number: '25',
@@ -160,7 +160,7 @@ export const chapter6: ChapterData = {
       verse_number: '26',
       sanskrit: 'यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् । ततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ॥',
       hindi: 'यह चंचल और अस्थिर मन जहाँ-जहाँ भटकता है, वहाँ-वहाँ से उसे नियंत्रित करके बार-बार आत्मा में ही स्थिर करना चाहिए।',
-      english: 'Wherever the restless and unsteady mind wanders, one should restrain it and bring it back under the control of the Self.'
+      english: 'Wherever this restless and unsteady mind wanders, from there one should restrain it and repeatedly bring it back, establishing it in the Self alone.'
     },
     {
       verse_number: '27',
@@ -190,19 +190,19 @@ export const chapter6: ChapterData = {
       verse_number: '31',
       sanskrit: 'सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः । सर्वथा वर्तमानोऽपि स योगी मयि वर्तते ॥',
       hindi: 'जो सभी प्राणियों में स्थित मुझे एकत्व भाव से भजता है, वह योगी किसी भी परिस्थिति में रहकर भी मुझमें ही स्थित रहता है।',
-      english: 'The yogi who worships Me as dwelling in all beings and remains established in oneness lives in Me, regardless of his external condition.'
+      english: 'The yogi who worships Me as dwelling in all beings, with a sense of oneness, remains established in Me in every situation.'
     },
     {
       verse_number: '32',
       sanskrit: 'आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन । सुखं वा यदि वा दुःखं स योगी परमो मतः ॥',
-      hindi: 'हे अर्जुन, जो अपने समान सभी में सुख और दुःख को देखता है, वही योगियों में श्रेष्ठ माना जाता है।',
+      hindi: 'हे अर्जुन, जो व्यक्ति सभी प्राणियों के सुख और दुःख को अपने समान देखता है, वह सर्वोच्च योगी माना जाता है।',
       english: 'O Arjuna, the one who sees the joy and sorrow of all beings as his own is considered the highest yogi.'
     },
     {
       verse_number: '33',
       sanskrit: 'अर्जुन उवाच । योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन । एतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् ॥',
       hindi: 'अर्जुन बोले – हे मधुसूदन, आपने जो समत्व योग बताया है, मन की चंचलता के कारण मैं उसकी स्थिर स्थिति को नहीं देख पाता।',
-      english: 'Arjuna said – O Madhusudana, the Yoga of equality which You have described seems difficult for me to maintain because of the restless mind.'
+      english: 'Arjuna said – O Madhusudana, the Yoga of equanimity that You have described — because of the restlessness of the mind, I do not see how it can remain steady.'
     },
     {
       verse_number: '34',
@@ -214,43 +214,43 @@ export const chapter6: ChapterData = {
       verse_number: '35',
       sanskrit: 'श्रीभगवानुवाच । असंशयं महाबाहो मनो दुर्निग्रहं चलम् । अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ॥',
       hindi: 'भगवान बोले – हे महाबाहु, निःसंदेह मन चंचल और कठिन है; परंतु हे कौन्तेय, अभ्यास और वैराग्य से इसे वश में किया जा सकता है।',
-      english: 'The Lord said – O mighty-armed, without doubt the mind is restless and difficult to control; yet, O Kaunteya, it can be restrained by practice and detachment.'
+      english: 'The Lord said – O mighty-armed, without doubt the mind is restless and difficult to control; yet, O Son of Kunti, it can be restrained by practice and detachment.'
     },
     {
       verse_number: '36',
       sanskrit: 'असंयतात्मना योगो दुष्प्राप इति मे मतिः । वश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः ॥',
       hindi: 'जिसका मन असंयमित है, उसके लिए योग प्राप्त करना कठिन है; परंतु जिसने मन को वश में कर लिया है और प्रयास करता है, वह उचित साधनों से उसे प्राप्त कर सकता है।',
-      english: 'For one whose mind is uncontrolled, Yoga is difficult to attain; but for one who has mastered the mind and strives sincerely, it can be achieved through proper means.'
+      english: 'For one whose mind is uncontrolled, Yoga (self-realization) is difficult to attain; but for one who has mastered the mind and strives sincerely, it can be achieved through proper means.'
     },
     {
       verse_number: '37',
       sanskrit: 'अर्जुन उवाच । अयतिः श्रद्धयोपेतो योगाच्चलितमानसः । अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति ॥',
       hindi: 'अर्जुन बोले – जो श्रद्धावान है पर मन को स्थिर न रख सके और योग की सिद्धि प्राप्त किए बिना विचलित हो जाए, हे कृष्ण, उसका क्या परिणाम होता है?',
-      english: 'Arjuna said – O Krishna, what becomes of a faithful person whose mind wanders away from Yoga before attaining perfection?'
+      english: 'Arjuna said - A person who has faith but is unable to steady the mind, and who falls away without attaining perfection in Yoga — O Krishna, what is his fate?'
     },
     {
       verse_number: '38',
       sanskrit: 'कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति । अप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि ॥',
-      hindi: 'हे महाबाहु, क्या वह दोनों मार्गों से विच्युत होकर आकाश में टूटे हुए बादल की तरह नष्ट हो जाता है, ब्रह्ममार्ग में अस्थिर और भ्रमित होकर?',
-      english: 'O mighty-armed, does he not perish like a fragmented cloud, fallen from both paths and confused on the path of Brahman?'
+      hindi: 'हे महाबाहु, क्या वह दोनों मार्गों से विच्युत होकर, ब्रह्ममार्ग में अस्थिर और भ्रमित होकर, आकाश में टूटे हुए बादल की तरह नष्ट हो जाता है?',
+      english: 'O mighty-armed one, having fallen from both paths, becoming unsteady and confused on the path to Brahman, does he perish like a broken cloud scattered in the sky?'
     },
     {
       verse_number: '39',
       sanskrit: 'एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः । त्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते ॥',
       hindi: 'हे कृष्ण, कृपया मेरे इस संशय को पूर्ण रूप से दूर कीजिए, क्योंकि आपके अतिरिक्त कोई और इस संदेह का निवारण नहीं कर सकता।',
-      english: 'O Krishna, please completely remove this doubt of mine, for none other than You can dispel it.'
+      english: 'O Krishna, please completely dispel this doubt of mine, for apart from You, there is no one else who can remove this uncertainty.'
     },
     {
       verse_number: '40',
       sanskrit: 'श्रीभगवानुवाच । पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते । न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति ॥',
       hindi: 'भगवान बोले – हे पार्थ, ऐसा साधक न इस लोक में नष्ट होता है और न परलोक में। हे तात, जो कल्याण करता है, वह कभी दुर्गत को प्राप्त नहीं होता।',
-      english: 'The Lord said – O Partha, such a seeker is not lost either in this world or the next. My dear one, one who does good never comes to a bad end.'
+      english: 'The Lord said - O Partha, such a seeker is not destroyed either in this world or in the next. O dear one, the person who does good never comes to an unfortunate end.'
     },
     {
       verse_number: '41',
       sanskrit: 'प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः । शुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते ॥',
       hindi: 'ऐसा योगभ्रष्ट पहले पुण्य लोकों को प्राप्त करता है और वहाँ लंबे समय तक निवास करने के बाद पवित्र और समृद्ध परिवार में जन्म लेता है।',
-      english: 'The unsuccessful yogi first attains the worlds of the righteous and dwells there for many years; afterward, he is born in a pure and prosperous family.'
+      english: 'Such a fallen yogi first attains the worlds of the righteous and, after dwelling there for a long time, is born again in a pure and prosperous family.'
     },
     {
       verse_number: '42',
@@ -262,19 +262,19 @@ export const chapter6: ChapterData = {
       verse_number: '43',
       sanskrit: 'तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् । यतते च ततो भूयः संसिद्धौ कुरुनन्दन ॥',
       hindi: 'वहाँ वह अपने पूर्व जन्म के संस्कारों और योग-बुद्धि को पुनः प्राप्त करता है और फिर से सिद्धि के लिए प्रयास करता है, हे कुरुनन्दन।',
-      english: 'There he regains the spiritual understanding from his previous life and again strives for perfection, O joy of the Kurus.'
+      english: 'There, he regains the impressions and spiritual wisdom of his previous birth, and once again strives for perfection, O son of the Kuru.'
     },
     {
       verse_number: '44',
       sanskrit: 'पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः । जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते ॥',
       hindi: 'पूर्व जन्म के अभ्यास के प्रभाव से वह अनायास ही योग की ओर आकर्षित होता है, और योग का जिज्ञासु होने पर वह वैदिक कर्मकाण्ड से भी आगे बढ़ जाता है।',
-      english: 'By the force of previous practice, he is naturally drawn toward Yoga, and even the seeker of Yoga rises beyond ritualistic scripture.'
+      english: 'By the force of the practice from previous births, he is naturally drawn toward Yoga; and becoming eager to know Yoga, he goes beyond even the ritualistic portion of the Vedas.'
     },
     {
       verse_number: '45',
       sanskrit: 'प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः । अनेकजन्मसंसिद्धस्ततो याति परां गतिम् ॥',
       hindi: 'निरंतर प्रयास करते हुए और पापों से शुद्ध होकर, अनेक जन्मों के अभ्यास से सिद्ध हुआ योगी अंततः परम लक्ष्य को प्राप्त करता है।',
-      english: 'Striving diligently and purified of sins, the yogi, perfected through many births, ultimately reaches the supreme goal.'
+      english: 'Striving diligently and purified of sins, the yogi—perfected through the practice of many births—ultimately attains the supreme goal.'
     },
     {
       verse_number: '46',
@@ -286,13 +286,13 @@ export const chapter6: ChapterData = {
       verse_number: '47',
       sanskrit: 'योगिनामपि सर्वेषां मद्गतेनान्तरात्मना । श्रद्धावान्भजते यो मां स मे युक्ततमो मतः ॥',
       hindi: 'सभी योगियों में वह श्रेष्ठ है जो श्रद्धा के साथ अपने अंतरात्मा को मुझमें स्थिर करके मेरा भजन करता है; वही मेरे मत में सर्वश्रेष्ठ योगी है।',
-      english: 'Among all yogis, the one who worships Me with faith, whose inner self is absorbed in Me, is considered by Me to be the highest of all.'
+      english: 'Among all yogis, the one who, with faith, fixes the inner self on Me and worships Me with devotion is the highest of all; in My view, such a yogi is the highest of all.'
     },
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे आत्मसंयमयोगो नाम षष्ठोऽध्यायः ॥',
-      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण और अर्जुन के संवाद के “आत्मसंयम योग” नामक छठा अध्याय समाप्त होता है।',
-      english: 'Thus, in the Upanishad-like Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the sixth chapter entitled “The Yoga of Self-Control”.'
+      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “आत्मसंयम का योग” नामक छठा अध्याय समाप्त होता है।',
+      english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the sixth chapter entitled “The Yoga of Self-Control (Dhyana Yoga)”.'
     }
   ]
 };

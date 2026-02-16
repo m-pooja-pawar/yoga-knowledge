@@ -219,8 +219,8 @@ export const chapter13: ChapterData = {
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे क्षेत्रक्षेत्रज्ञविभागयोगो नाम त्रयोदशोऽध्यायः ॥',
-      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण और अर्जुन के संवाद का “क्षेत्र-क्षेत्रज्ञ विभाग योग” नामक तेरहवाँ अध्याय समाप्त होता है।',
-      english: 'Thus, in the Upanishad-like Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the thirteenth chapter entitled “The Yoga of the Distinction between the Field and the Knower of the Field”.'
+      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “क्षेत्र-क्षेत्रज्ञ विभाग योग” नामक तेरहवाँ अध्याय समाप्त होता है।',
+      english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the thirteenth chapter entitled “The Yoga of the Distinction between the Field and the Knower of the Field”.'
     },
   ]
 };

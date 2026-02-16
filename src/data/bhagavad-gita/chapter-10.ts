@@ -261,8 +261,8 @@ export const chapter10: ChapterData = {
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे विभूतियोगो नाम दशमोऽध्यायः ॥',
-      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण और अर्जुन के संवाद का “विभूति योग” नामक दसवाँ अध्याय समाप्त होता है।',
-      english: 'Thus, in the Upanishad-like Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the tenth chapter entitled “The Yoga of Divine Glories”.'
+      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “विभूति योग” नामक दसवाँ अध्याय समाप्त होता है।',
+      english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the tenth chapter entitled “The Yoga of Divine Glories”.'
     }
   ]
 };

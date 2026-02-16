@@ -21,8 +21,8 @@ export const chapter5: ChapterData = {
     {
       verse_number: '3',
       sanskrit: 'ज्ञेयः स नित्यसंन्यासी यो न द्वेष्टि न काङ्क्षति । निर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते ॥',
-      hindi: 'जो व्यक्ति न किसी से द्वेष करता है और न किसी वस्तु की इच्छा करता है, वही सच्चा संन्यासी है। हे अर्जुन! जो सुख-दुःख जैसे द्वंद्वों से मुक्त है, वह आसानी से जन्म-मरण के बंधन से छूट जाता है।',
-      english: 'The person who neither hates anyone nor desires anything is the true renunciate (sannyasi). O Arjuna! The one who is free from dualities such as happiness and sorrow easily becomes free from the bondage of birth and death.'
+      hindi: 'जो व्यक्ति न किसी से द्वेष करता है और न किसी वस्तु की इच्छा करता है, वही सच्चा संन्यासी है। हे महाबाहु! जो सुख-दुःख जैसे द्वंद्वों से मुक्त है, वह आसानी से जन्म-मरण के बंधन से छूट जाता है।',
+      english: 'The person who neither hates anyone nor desires anything is the true renunciate (sannyasi). O mighty-armed! The one who is free from dualities such as happiness and sorrow easily becomes free from the bondage of birth and death.'
     },
     {
       verse_number: '4',
@@ -88,7 +88,7 @@ export const chapter5: ChapterData = {
       verse_number: '15',
       sanskrit: 'नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः । अज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः ॥',
       hindi: 'भगवान न किसी का पाप ग्रहण करते हैं और न पुण्य। मनुष्य का ज्ञान अज्ञान से ढका रहता है, इसलिए वे भ्रमित हो जाते हैं।',
-      english: 'The Lord accepts neither anyone’s sin nor virtue. Knowledge is covered by ignorance, and therefore people become confused.'
+      english: 'The Lord neither accepts anyone’s sin nor their virtue. A person’s knowledge is covered by ignorance, and because of this, they become deluded (confused).'
     },
     {
       verse_number: '16',
@@ -100,37 +100,37 @@ export const chapter5: ChapterData = {
       verse_number: '17',
       sanskrit: 'तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः । गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषाः ॥',
       hindi: 'जिनकी बुद्धि, मन और आत्मा परमात्मा में स्थिर हैं और जो उसी को अपना लक्ष्य मानते हैं, वे ज्ञान से पवित्र होकर पुनर्जन्म से मुक्त हो जाते हैं।',
-      english: 'Those whose intellect, mind, and self are fixed in the Supreme, and who take refuge in Him, become purified by knowledge and are freed from rebirth.'
+      english: 'Those whose intellect, mind, and self are firmly fixed in the Supreme, and who take Him as their highest goal — they become purified by knowledge and are freed from rebirth.'
     },
     {
       verse_number: '18',
       sanskrit: 'विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि । शुनि चैव श्वपाके च पण्डिताः समदर्शिनः ॥',
       hindi: 'सच्चा ज्ञानी व्यक्ति विद्वान ब्राह्मण, गाय, हाथी, कुत्ता और चांडाल — सभी में एक ही आत्मा को देखता है और सबको समान दृष्टि से देखता है।',
-      english: 'The wise person sees with equal vision a learned Brahmin, a cow, an elephant, a dog, and even an outcaste, recognizing the same Self in all.'
+      english: 'A true wise person sees the same Self in a learned Brahmin, a cow, an elephant, a dog, and even in an outcaste — and looks upon all of them with equal vision.'
     },
     {
       verse_number: '19',
       sanskrit: 'इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः । निर्दोषं हि समं ब्रह्म तस्माद्ब्रह्मणि ते स्थिताः ॥',
       hindi: 'जिनका मन समभाव में स्थिर हो चुका है, उन्होंने इसी जीवन में संसार पर विजय पा ली है। क्योंकि ब्रह्म निर्दोष और सम है, इसलिए वे ब्रह्म में स्थित रहते हैं।',
-      english: 'Those whose mind is established in equality have conquered the cycle of worldly life even here. Because Brahman is equal and faultless, they remain established in Brahman.'
+      english: 'Those whose mind is firmly established in equality have conquered the world even in this life. Because Brahman is flawless and equal to all, therefore they remain established in Brahman.'
     },
     {
       verse_number: '20',
       sanskrit: 'न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम् । स्थिरबुद्धिरसम्मूढो ब्रह्मविद्ब्रह्मणि स्थितः ॥',
       hindi: 'जो व्यक्ति प्रिय वस्तु मिलने पर अत्यधिक प्रसन्न नहीं होता और अप्रिय मिलने पर दुखी नहीं होता, जिसकी बुद्धि स्थिर है और जो भ्रम से मुक्त है, वह ब्रह्म को जानने वाला और ब्रह्म में स्थित होता है।',
-      english: 'One who does not rejoice on obtaining what is pleasant nor become disturbed on meeting what is unpleasant, who is steady in wisdom and free from delusion, is established in Brahman.'
+      english: 'A person who does not become overly happy on receiving something pleasant, nor feels distressed on getting something unpleasant, whose intellect is steady and who is free from delusion — such a person is a knower of Brahman and is established in Brahman.'
     },
     {
       verse_number: '21',
       sanskrit: 'बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् । स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते ॥',
       hindi: 'जो व्यक्ति बाहरी इन्द्रिय विषयों में आसक्त नहीं होता, वह अपने भीतर आत्मा में ही सुख पाता है। ऐसा ब्रह्मयोग में स्थित व्यक्ति अक्षय और स्थायी सुख प्राप्त करता है।',
-      english: 'One who is not attached to external sense pleasures finds happiness within the Self. Being united with Brahman, such a person attains eternal and lasting joy.'
+      english: 'A person who is not attached to external sense objects and finds happiness within the Self. Such a person, established in union with Brahman, attains eternal and lasting joy.'
     },
     {
       verse_number: '22',
       sanskrit: 'ये हि संस्पर्शजा भोगा दुःखयोनय एव ते । आद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः ॥',
-      hindi: 'इन्द्रियों के विषयों से उत्पन्न होने वाले भोग वास्तव में दुख का कारण होते हैं। वे आरम्भ और अंत वाले, अर्थात् अस्थायी होते हैं; इसलिए बुद्धिमान व्यक्ति उनमें आसक्ति नहीं रखता।',
-      english: 'Pleasures that arise from contact with the senses are truly sources of sorrow. They have a beginning and an end, so they are temporary; therefore, the wise do not delight in them.'
+      hindi: 'इन्द्रियों के विषयों से उत्पन्न होने वाले भोग वास्तव में दुख का कारण होते हैं। हे कुंती पुत्र, वे आरम्भ और अंत वाले, अर्थात् अस्थायी होते हैं; इसलिए बुद्धिमान व्यक्ति उनमें आसक्ति नहीं रखता।',
+      english: 'Pleasures that arise from contact with the senses are truly sources of sorrow. O son of Kunti, they have a beginning and an end, so they are temporary; therefore, the wise do not delight in them.'
     },
     {
       verse_number: '23',
@@ -154,7 +154,7 @@ export const chapter5: ChapterData = {
       verse_number: '26',
       sanskrit: 'कामक्रोधवियुक्तानां यतीनां यतचेतसाम् । अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् ॥',
       hindi: 'जो साधक काम और क्रोध से मुक्त हैं, जिनका मन संयमित है और जिन्होंने आत्मा को जान लिया है, उनके लिए ब्रह्मनिर्वाण चारों ओर से निकट ही है।',
-      english: 'For those ascetics who are free from desire and anger, who have controlled their minds and realized the Self, liberation in Brahman is ever near.'
+      english: 'For those seekers who are free from desire and anger, whose minds are disciplined, and who have realized the Self — for them, liberation in Brahman is very near on all sides.'
     },
     {
       verse_number: '27',
@@ -172,13 +172,13 @@ export const chapter5: ChapterData = {
       verse_number: '29',
       sanskrit: 'भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् । सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ॥',
       hindi: 'जो व्यक्ति मुझे सभी यज्ञों और तपों का भोक्ता, सभी लोकों का महान स्वामी और सभी प्राणियों का सच्चा मित्र जानता है, वह सच्ची शांति को प्राप्त करता है।',
-      english: 'One who knows Me as the enjoyer of all sacrifices and austerities, the Supreme Lord of all worlds, and the true friend of all beings attains real and lasting peace.'
+      english: 'One who knows Me as the enjoyer of all sacrifices and austerities (penances), the Supreme Lord of all worlds, and the true friend of all beings attains real and lasting peace.'
     },
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे कर्मसंन्यासयोगो नाम पञ्चमोऽध्यायः ॥',
       hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “कर्मों के त्याग का योग” नामक पाँचवाँ अध्याय का समापन होता है।',
-      english: 'Thus, in the Upanishad-like Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the fifth chapter entitled “The Yoga of Renunciation of Action”.'
+      english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the fifth chapter entitled “The Yoga of Renunciation of Action”.'
     }
   ]
 };

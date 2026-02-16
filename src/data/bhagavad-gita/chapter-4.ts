@@ -262,7 +262,7 @@ export const chapter4: ChapterData = {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे ज्ञानकर्मसंन्यासयोगो नाम चतुर्थोऽध्यायः ॥',
       hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “ज्ञान और कर्म के संन्यास का योग” नामक चतुर्थ अध्याय का समापन होता है।',
-      english: 'Thus, in the Upanishad-like Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the fourth chapter entitled “The Yoga of Knowledge and Renunciation (Detachment) of Action”.'
+      english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the fourth chapter entitled “The Yoga of Knowledge and Renunciation (Detachment) of Action”.'
     }
   ]
 };

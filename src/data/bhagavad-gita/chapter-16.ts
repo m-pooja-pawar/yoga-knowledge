@@ -153,8 +153,8 @@ export const chapter16: ChapterData = {
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे दैवासुरसम्पद्विभागयोगो नाम षोडशोऽध्यायः ॥',
-      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण और अर्जुन के संवाद का “दैवी और आसुरी संपत्ति का विभाग योग” नामक सोलहवाँ अध्याय समाप्त होता है।',
-      english: 'Thus, in the Upanishad-like Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the sixteenth chapter entitled “The Yoga of the Division between Divine and Demoniac Qualities”.'
+      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “दैवी और आसुरी संपत्ति का विभाग योग” नामक सोलहवाँ अध्याय समाप्त होता है।',
+      english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the sixteenth chapter entitled “The Yoga of the Division between Divine and Demoniac Qualities”.'
     },
   ]
 };
