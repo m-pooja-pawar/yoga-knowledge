@@ -5,6 +5,7 @@ export const chapter18: ChapterData = {
   title_sanskrit: 'मोक्षसंन्यासयोगः',
   title_hindi: 'मोक्ष और संन्यास का योग',
   title_english: 'The Yoga of Liberation and Renunciation',
+  total_verse: 78,
   verses: [
     {
       verse_number: '1',

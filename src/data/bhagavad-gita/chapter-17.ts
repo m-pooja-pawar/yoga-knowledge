@@ -5,6 +5,7 @@ export const chapter17: ChapterData = {
   title_sanskrit: 'श्रद्धात्रयविभागयोगः',
   title_hindi: 'तीन प्रकार की श्रद्धा का विभाग योग',
   title_english: 'The Yoga of the Threefold Division of Faith',
+  total_verse: 28,
   verses: [
     {
       verse_number: '1',

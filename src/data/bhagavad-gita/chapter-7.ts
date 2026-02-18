@@ -5,6 +5,7 @@ export const chapter7: ChapterData = {
   title_sanskrit: 'ज्ञानविज्ञानयोगः',
   title_hindi: 'ज्ञान और विज्ञान का योग',
   title_english: 'The Yoga of Knowledge and Realization',
+  total_verse: 30,
   verses: [
     {
       verse_number: '1',
@@ -189,7 +190,7 @@ export const chapter7: ChapterData = {
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे ज्ञानविज्ञानयोगो नाम सप्तमोऽध्यायः ॥',
-      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “ज्ञान-विज्ञान योग” नामक सातवाँ अध्याय समाप्त होता है।',
+      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “ज्ञान और विज्ञान का योग” नामक सातवाँ अध्याय समाप्त होता है।',
       english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the seventh chapter entitled “The Yoga of Knowledge and Realization”.'
     }
   ]

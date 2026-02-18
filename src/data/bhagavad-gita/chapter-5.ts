@@ -5,6 +5,7 @@ export const chapter5: ChapterData = {
   title_sanskrit: 'कर्मसंन्यासयोगः',
   title_hindi: 'कर्मों के त्याग का योग',
   title_english: 'The Yoga of Renunciation of Action',
+  total_verse: 29,
   verses: [
     {
       verse_number: '1',

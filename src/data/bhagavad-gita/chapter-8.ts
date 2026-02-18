@@ -5,6 +5,7 @@ export const chapter8: ChapterData = {
   title_sanskrit: 'अक्षरब्रह्मयोगः',
   title_hindi: 'अक्षर ब्रह्म का योग',
   title_english: 'The Yoga of the Imperishable Brahman',
+  total_verse: 28,
   verses: [
     {
       verse_number: '1',
@@ -177,7 +178,7 @@ export const chapter8: ChapterData = {
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे अक्षरब्रह्मयोगो नाम अष्टमोऽध्यायः ॥',
-      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “अक्षर ब्रह्म योग” नामक आठवाँ अध्याय समाप्त होता है।',
+      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “अक्षर ब्रह्म का योग” नामक आठवाँ अध्याय समाप्त होता है।',
       english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the eighth chapter entitled “The Yoga of the Imperishable Brahman”.'
     },
   ]

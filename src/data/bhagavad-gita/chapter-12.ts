@@ -5,6 +5,7 @@ export const chapter12: ChapterData = {
   title_sanskrit: 'भक्तियोगः',
   title_hindi: 'भक्ति का योग',
   title_english: 'The Yoga of Devotion',
+  total_verse: 20,
   verses: [
     {
       verse_number: '1',
@@ -129,7 +130,7 @@ export const chapter12: ChapterData = {
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे भक्तियोगो नाम द्वादशोऽध्यायः ॥',
-      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “भक्ति योग” नामक बारहवाँ अध्याय समाप्त होता है।',
+      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “भक्ति का योग” नामक बारहवाँ अध्याय समाप्त होता है।',
       english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the twelfth chapter entitled “The Yoga of Devotion”.'
     }
   ]

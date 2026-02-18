@@ -5,6 +5,7 @@ export const chapter9: ChapterData = {
   title_sanskrit: 'राजविद्याराजगुह्ययोगः',
   title_hindi: 'राजविद्या और राजगुह्य का योग',
   title_english: 'The Yoga of Royal Knowledge and Royal Secret',
+  total_verse: 34,
   verses: [
     {
       verse_number: '1',
@@ -213,7 +214,7 @@ export const chapter9: ChapterData = {
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे राजविद्याराजगुह्ययोगो नाम नवमोऽध्यायः ॥',
-      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “राजविद्या-राजगुह्य योग” नामक नवाँ अध्याय समाप्त होता है।',
+      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “राजविद्या और राजगुह्य का योग” नामक नवाँ अध्याय समाप्त होता है।',
       english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the ninth chapter entitled “The Yoga of Royal Knowledge and Royal Secret”.'
     },
   ]

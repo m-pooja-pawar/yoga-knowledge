@@ -5,6 +5,7 @@ export const chapter3: ChapterData = {
   title_sanskrit: 'कर्मयोगः',
   title_hindi: 'कर्म का योग',
   title_english: 'The Yoga of Action',
+  total_verse: 43,
   verses: [
     {
       verse_number: '1',
@@ -267,7 +268,7 @@ export const chapter3: ChapterData = {
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे कर्मयोगो नाम तृतीयोऽध्यायः ॥',
-      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या तथा योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “कर्म योग” नामक तृतीय अध्याय का समापन होता है।',
+      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या तथा योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के “कर्म का योग” नामक तृतीय अध्याय का समापन होता है।',
       english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the third chapter entitled "The Yoga of Action".'
     }
   ]

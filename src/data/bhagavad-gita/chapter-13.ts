@@ -5,6 +5,7 @@ export const chapter13: ChapterData = {
   title_sanskrit: 'क्षेत्रक्षेत्रज्ञविभागयोगः',
   title_hindi: 'क्षेत्र और क्षेत्रज्ञ का विवेक योग',
   title_english: 'The Yoga of the Distinction between the Field and the Knower of the Field',
+  total_verse: 35,
   verses: [
     {
       verse_number: '1',

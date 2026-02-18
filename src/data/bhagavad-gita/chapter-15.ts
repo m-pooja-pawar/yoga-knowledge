@@ -5,6 +5,7 @@ export const chapter15: ChapterData = {
   title_sanskrit: 'पुरुषोत्तमयोगः',
   title_hindi: 'पुरुषोत्तम योग',
   title_english: 'The Yoga of the Supreme Person',
+  total_verse: 18,
   verses: [
     {
       verse_number: '1',

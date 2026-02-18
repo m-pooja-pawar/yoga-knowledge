@@ -5,6 +5,7 @@ export const chapter14: ChapterData = {
   title_sanskrit: 'गुणत्रयविभागयोगः',
   title_hindi: 'तीन गुणों का विभाग योग',
   title_english: 'The Yoga of the Division of the Three Gunas',
+  total_verse: 27,
   verses: [
     {
       verse_number: '1',

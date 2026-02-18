@@ -5,6 +5,7 @@ export const chapter2: ChapterData = {
   title_sanskrit: 'सांख्ययोगः',
   title_hindi: 'ज्ञान और विवेक का योग',
   title_english: 'The Yoga of Knowledge and Understanding',
+  total_verse: 72,
   verses: [
     {
       verse_number: '1',

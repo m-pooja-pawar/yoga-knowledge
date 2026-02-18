@@ -10,6 +10,7 @@ export interface ChapterData {
   title_sanskrit: string;
   title_hindi: string;
   title_english: string;
+  total_verse: number;
   verses: Verse[];
 }
 

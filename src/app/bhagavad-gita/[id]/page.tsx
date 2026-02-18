@@ -60,7 +60,7 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
           {chapterData.title_hindi}
         </p>
         <p className="text-gray-500 text-sm mt-4">
-          {chapterData.verses.length - 1} verses
+          {chapterData.total_verse} verses
         </p>
       </header>
 

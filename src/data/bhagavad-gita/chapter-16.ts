@@ -5,6 +5,7 @@ export const chapter16: ChapterData = {
   title_sanskrit: 'दैवासुरसम्पद्विभागयोगः',
   title_hindi: 'दैवी और आसुरी संपत्ति का विभाग योग',
   title_english: 'The Yoga of the Division between Divine and Demoniac Qualities',
+  total_verse: 24,
   verses: [
     {
       verse_number: '1',

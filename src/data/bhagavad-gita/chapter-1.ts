@@ -5,6 +5,7 @@ export const chapter1: ChapterData = {
   title_sanskrit: 'अर्जुनविषादयोगः',
   title_hindi: 'अर्जुन के शोक का योग',
   title_english: 'The Yoga of Arjuna\'s Sorrow',
+  total_verse: 48,
   verses: [
     {
       verse_number: '1',
@@ -285,7 +286,7 @@ export const chapter1: ChapterData = {
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे अर्जुनविषादयोगो नाम प्रथमोध्यायः ॥',
-      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के "अर्जुन विषाद योग" नामक प्रथम अध्याय का समापन होता है।',
+      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के "अर्जुन के शोक का योग" नामक प्रथम अध्याय का समापन होता है।',
       english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the first chapter entitled "The Yoga of Arjuna\'s Sorrow".'
     }
   ]

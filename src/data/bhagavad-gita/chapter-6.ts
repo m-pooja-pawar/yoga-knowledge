@@ -5,10 +5,11 @@ export const chapter6: ChapterData = {
   title_sanskrit: 'आत्मसंयमयोगः',
   title_hindi: 'आत्मसंयम का योग',
   title_english: 'The Yoga of Self-Control (Dhyana Yoga)',
+  total_verse: 47,
   verses: [
     {
       verse_number: '1',
-      sanskrit: 'श्रीभगवानुवाच । अनाश्रितः कर्मफलं कार्यं कर्म करोति यः । स संन्यासी च योगी च न निरग्निर्न चाक्रियः ॥',
+      sanskrit: 'श्रीभगवानुवाच । अनाश्रितः कर्मफलं कार्यं करोति यः । स संन्यासी च योगी च न निरग्निर्न चाक्रियः ॥',
       hindi: 'भगवान बोले – जो व्यक्ति कर्मफल पर आश्रित हुए बिना अपना कर्तव्य कर्म करता है, वही सच्चा संन्यासी और योगी है। केवल अग्नि त्याग देना या कर्म छोड़ देना संन्यास नहीं है।',
       english: 'The Lord said: The person who performs their duty without depending on the fruits of action is the true renunciate and yogi. Merely giving up the sacred fire or abandoning actions does not mean renunciation.'
     },
