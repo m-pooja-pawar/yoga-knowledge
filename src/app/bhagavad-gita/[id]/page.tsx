@@ -44,7 +44,7 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
   const chapterNum = id.split('-')[1];
 
   return (
-    <div className="max-w-3xl mx-auto px-4 py-8 lg:py-12 lg:pl-8">
+    <div className="max-w-3xl mx-auto px-4 pt-20 pb-8 lg:pt-12 lg:pb-12 lg:pl-8">
       {/* Chapter Header */}
       <header className="mb-10 text-center lg:text-left">
         <div className="inline-block bg-sage-100 text-sage-600 text-base font-medium px-3 py-1 rounded-full mb-4">

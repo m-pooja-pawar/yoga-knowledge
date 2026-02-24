@@ -8,7 +8,7 @@ export const metadata = {
 
 export default function BhagavadGitaPage() {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-8 lg:py-12 lg:pl-8">
+    <div className="max-w-4xl mx-auto px-4 pt-20 pb-8 lg:pt-12 lg:pb-12 lg:pl-8">
       {/* Header */}
       <header className="text-center mb-12">
         <h1 className="text-3xl md:text-4xl lg:text-5xl font-serif text-gray-900 mb-3 leading-tight">
