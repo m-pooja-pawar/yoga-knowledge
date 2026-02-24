@@ -21,8 +21,8 @@ export default function TopicNavigation({ currentTopicId }: TopicNavigationProps
             </svg>
           </span>
           <div className="hidden sm:block text-left">
-            <p className="text-xs text-gray-400">Previous</p>
-            <p className="text-sm font-medium">{prev.title}</p>
+            <p className="text-sm text-gray-400">Previous</p>
+            <p className="text-base font-medium">{prev.title}</p>
           </div>
         </Link>
       ) : (
@@ -35,8 +35,8 @@ export default function TopicNavigation({ currentTopicId }: TopicNavigationProps
           className="group flex items-center gap-3 text-gray-600 hover:text-sage-600 transition-colors"
         >
           <div className="hidden sm:block text-right">
-            <p className="text-xs text-gray-400">Next</p>
-            <p className="text-sm font-medium">{next.title}</p>
+            <p className="text-sm text-gray-400">Next</p>
+            <p className="text-base font-medium">{next.title}</p>
           </div>
           <span className="flex items-center justify-center w-10 h-10 rounded-full bg-sage-100 group-hover:bg-sage-200 transition-colors">
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

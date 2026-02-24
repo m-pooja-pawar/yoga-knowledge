@@ -4,7 +4,6 @@ const sections = [
   {
     id: 'bhagavad-gita',
     title: 'Srimad Bhagavad Gita',
-    titleSanskrit: 'श्रीमद् भगवद्गीता',
     description: 'The eternal dialogue between Lord Krishna and Arjuna, containing 18 chapters of timeless wisdom on dharma, karma, and the path to liberation.',
     count: 18,
     countLabel: 'Chapters',
@@ -14,7 +13,6 @@ const sections = [
   {
     id: 'prenatal-yoga',
     title: 'Prenatal Yoga',
-    titleSanskrit: 'गर्भावस्था योग',
     description: 'Complete guide to yoga during pregnancy, covering asanas for each trimester, pranayama, meditation, labor preparation, and postnatal care.',
     count: 27,
     countLabel: 'Topics',
@@ -24,7 +22,6 @@ const sections = [
   {
     id: 'hatha-yoga',
     title: 'Hatha Yoga',
-    titleSanskrit: 'हठ योग',
     description: 'Classical Hatha Yoga teachings including asanas, pranayama, and the foundational practices for physical and spiritual development.',
     count: null,
     countLabel: null,
@@ -35,7 +32,7 @@ const sections = [
 
 export default function Home() {
   return (
-    <>
+    <div className="animate-fadeIn">
       {/* Hero Section */}
       <section className="bg-sage-50">
         <div className="container-custom section-padding">
@@ -43,9 +40,6 @@ export default function Home() {
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif text-gray-900 mb-6 leading-tight">
               Yoga Knowledge Base
             </h1>
-            <p className="font-devanagari text-lg md:text-xl text-gray-600 mb-2">
-              योग ज्ञान कोष
-            </p>
             <p className="text-lg md:text-xl text-gray-600 mb-8 leading-relaxed">
               A comprehensive resource for ancient yoga wisdom, featuring sacred texts
               with Sanskrit verses, Hindi translations, and English explanations.
@@ -124,18 +118,18 @@ export default function Home() {
             <p className="font-devanagari text-gray-600 text-lg mb-2">
               ॐ असतो मा सद्गमय
             </p>
-            <p className="text-gray-600 text-sm">
+            <p className="text-gray-600 text-base">
               Lead me from the unreal to the real
             </p>
           </div>
           <div className="mt-12 pt-8 border-t border-sage-200">
-            <p className="text-center text-sm text-gray-500">
+            <p className="text-center text-base text-gray-500">
               © {new Date().getFullYear()} Yoga Knowledge Base. All rights reserved.
             </p>
           </div>
         </div>
       </footer>
-    </>
+    </div>
   );
 }
 
@@ -158,17 +152,16 @@ function SectionCard({ section }: { section: typeof sections[0] }) {
         </svg>
       </div>
       <h3 className="font-serif text-xl text-gray-900 mb-2">{section.title}</h3>
-      <p className="font-devanagari text-gray-500 text-sm mb-3">{section.titleSanskrit}</p>
-      <p className="text-gray-600 text-sm leading-relaxed">{section.description}</p>
+      <p className="text-gray-600 text-base leading-relaxed">{section.description}</p>
       {section.count && section.countLabel && (
-        <p className="text-gray-500 text-sm mt-3">{section.count} {section.countLabel}</p>
+        <p className="text-gray-500 text-base mt-3">{section.count} {section.countLabel}</p>
       )}
       {section.available ? (
-        <span className="inline-block mt-4 text-sage-600 text-sm font-medium">
+        <span className="inline-block mt-4 text-sage-600 text-base font-medium">
           Explore &rarr;
         </span>
       ) : (
-        <span className="inline-block mt-4 text-gray-400 text-sm">
+        <span className="inline-block mt-4 text-gray-400 text-base">
           Coming Soon
         </span>
       )}

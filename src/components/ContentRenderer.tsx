@@ -86,11 +86,11 @@ export default function ContentRenderer({ sections }: ContentRendererProps) {
                       {/* Benefits */}
                       {row[0] && (
                         <div>
-                          <h4 className="text-sm font-semibold text-sage-700 uppercase tracking-wide mb-2">
+                          <h4 className="text-base font-semibold text-sage-700 uppercase tracking-wide mb-2">
                             Benefits
                           </h4>
                           {shouldBeList(row[0]) ? (
-                            <ul className="space-y-1.5 text-gray-600 text-sm">
+                            <ul className="space-y-1.5 text-gray-600 text-base">
                               {parseToList(row[0]).map((item, i) => (
                                 <li key={i} className="flex items-start gap-2">
                                   <span className="text-sage-400 mt-0.5">•</span>
@@ -99,7 +99,7 @@ export default function ContentRenderer({ sections }: ContentRendererProps) {
                               ))}
                             </ul>
                           ) : (
-                            <p className="text-gray-600 text-sm">{row[0]}</p>
+                            <p className="text-gray-600 text-base">{row[0]}</p>
                           )}
                         </div>
                       )}
@@ -107,11 +107,11 @@ export default function ContentRenderer({ sections }: ContentRendererProps) {
                       {/* Contraindications */}
                       {row[1] && (
                         <div>
-                          <h4 className="text-sm font-semibold text-red-700 uppercase tracking-wide mb-2">
+                          <h4 className="text-base font-semibold text-red-700 uppercase tracking-wide mb-2">
                             Contraindications
                           </h4>
                           {shouldBeList(row[1]) ? (
-                            <ul className="space-y-1.5 text-gray-600 text-sm">
+                            <ul className="space-y-1.5 text-gray-600 text-base">
                               {parseToList(row[1]).map((item, i) => (
                                 <li key={i} className="flex items-start gap-2">
                                   <span className="text-red-300 mt-0.5">•</span>
@@ -120,7 +120,7 @@ export default function ContentRenderer({ sections }: ContentRendererProps) {
                               ))}
                             </ul>
                           ) : (
-                            <p className="text-gray-600 text-sm">{row[1]}</p>
+                            <p className="text-gray-600 text-base">{row[1]}</p>
                           )}
                         </div>
                       )}
@@ -128,10 +128,10 @@ export default function ContentRenderer({ sections }: ContentRendererProps) {
                       {/* Trimester */}
                       {row[2] && (
                         <div>
-                          <h4 className="text-sm font-semibold text-blue-700 uppercase tracking-wide mb-2">
+                          <h4 className="text-base font-semibold text-blue-700 uppercase tracking-wide mb-2">
                             Trimester
                           </h4>
-                          <p className="text-gray-600 text-sm">{row[2]}</p>
+                          <p className="text-gray-600 text-base">{row[2]}</p>
                         </div>
                       )}
                     </div>
@@ -143,7 +143,7 @@ export default function ContentRenderer({ sections }: ContentRendererProps) {
             // Regular table rendering
             return (
               <div key={index} className="overflow-x-auto my-6">
-                <table className="min-w-full border border-sage-200 rounded-lg overflow-hidden text-sm">
+                <table className="min-w-full border border-sage-200 rounded-lg overflow-hidden text-base">
                   {section.headers && (
                     <thead className="bg-sage-50">
                       <tr>
@@ -173,7 +173,7 @@ export default function ContentRenderer({ sections }: ContentRendererProps) {
           case 'note':
             return (
               <div key={index} className="bg-sage-50 border-l-4 border-sage-500 p-4 my-4 rounded-r-lg">
-                <p className="text-gray-700 text-sm leading-relaxed">
+                <p className="text-gray-700 text-base leading-relaxed">
                   <strong className="text-sage-700">Note:</strong> {section.content}
                 </p>
               </div>

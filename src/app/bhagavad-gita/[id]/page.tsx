@@ -47,7 +47,7 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
     <div className="max-w-3xl mx-auto px-4 py-8 lg:py-12 lg:pl-8">
       {/* Chapter Header */}
       <header className="mb-10 text-center lg:text-left">
-        <div className="inline-block bg-sage-100 text-sage-600 text-sm font-medium px-3 py-1 rounded-full mb-4">
+        <div className="inline-block bg-sage-100 text-sage-600 text-base font-medium px-3 py-1 rounded-full mb-4">
           Chapter {chapterNum} of 18
         </div>
         <h1 className="text-2xl md:text-3xl lg:text-4xl font-serif text-gray-900 mb-2 leading-tight">
@@ -56,10 +56,10 @@ export default async function ChapterPage({ params }: ChapterPageProps) {
         <p className="font-devanagari text-xl md:text-2xl text-gray-600 mb-2">
           {chapterData.title_sanskrit}
         </p>
-        <p className="font-devanagari text-gray-500">
+        <p className="font-devanagari text-lg text-gray-500">
           {chapterData.title_hindi}
         </p>
-        <p className="text-gray-500 text-sm mt-4">
+        <p className="text-gray-500 text-base mt-4">
           {chapterData.total_verse} verses
         </p>
       </header>

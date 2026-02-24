@@ -27,7 +27,7 @@ export default function VerseCard({ verse }: VerseCardProps) {
       {/* Verse Number - only show for regular verses */}
       {!isClosingVerse && (
         <div className="mb-4">
-          <span className="inline-block bg-sage-100 text-sage-600 text-sm font-medium px-3 py-1 rounded-full">
+          <span className="inline-block bg-sage-100 text-sage-600 text-base font-medium px-3 py-1 rounded-full">
             Verse {verse.verse_number}
           </span>
         </div>
@@ -35,9 +35,9 @@ export default function VerseCard({ verse }: VerseCardProps) {
 
       {/* Sanskrit Text */}
       <div className="mb-6">
-        <div className="font-devanagari text-xl md:text-2xl text-gray-800 leading-relaxed text-center">
+        <div className="font-devanagari text-gray-800 leading-relaxed text-center">
           {sanskritLines.map((line, index) => (
-            <p key={index} className="mb-1 last:mb-0">
+            <p key={index} className="text-xl md:text-2xl mb-1 last:mb-0">
               {line}
             </p>
           ))}
@@ -46,17 +46,17 @@ export default function VerseCard({ verse }: VerseCardProps) {
 
       {/* Hindi Translation */}
       <div className="mb-4 pb-4 border-b border-sage-100">
-        <p className="text-gray-500 text-xs uppercase tracking-wider mb-2">
+        <p className="text-gray-500 text-sm uppercase tracking-wider mb-2">
           Hindi
         </p>
-        <p className="font-devanagari text-gray-700 leading-relaxed">
+        <p className="font-devanagari text-lg text-gray-600 leading-relaxed">
           {verse.hindi}
         </p>
       </div>
 
       {/* English Translation */}
       <div>
-        <p className="text-gray-500 text-xs uppercase tracking-wider mb-2">
+        <p className="text-gray-500 text-sm uppercase tracking-wider mb-2">
           English
         </p>
         <p className="text-gray-600 leading-relaxed">

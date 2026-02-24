@@ -65,13 +65,13 @@ export default function PrenatalSidebar() {
             <h2 className="font-serif text-xl text-gray-900">
               Prenatal Yoga
             </h2>
-            <p className="text-gray-500 text-sm mt-1">
+            <p className="text-gray-500 text-base mt-1">
               Complete Guide
             </p>
           </Link>
           <Link
             href="/"
-            className="text-gray-500 text-sm mt-3 inline-block hover:text-sage-600 transition-colors"
+            className="text-gray-500 text-base mt-3 inline-block hover:text-sage-600 transition-colors"
           >
             ← Back to Home
           </Link>
@@ -79,7 +79,7 @@ export default function PrenatalSidebar() {
 
         {/* Topic List */}
         <nav className="p-4" aria-label="Topic navigation">
-          <p className="text-gray-500 text-xs uppercase tracking-wider mb-3 px-2">
+          <p className="text-gray-500 text-sm uppercase tracking-wider mb-3 px-2">
             Topics
           </p>
           <ul className="space-y-1">
@@ -94,10 +94,10 @@ export default function PrenatalSidebar() {
                       isActive ? 'bg-sage-100 text-gray-900 font-medium' : ''
                     }`}
                   >
-                    <span className="flex-shrink-0 w-6 h-6 rounded-full bg-sage-100 text-sage-600 text-xs flex items-center justify-center font-medium">
+                    <span className="flex-shrink-0 w-6 h-6 rounded-full bg-sage-100 text-sage-600 text-sm flex items-center justify-center font-medium">
                       {topic.order}
                     </span>
-                    <span className="text-gray-700 text-sm leading-tight">
+                    <span className="text-gray-700 text-base leading-tight">
                       {topic.title}
                     </span>
                   </Link>

@@ -7,7 +7,7 @@ export const metadata = {
 
 export default function HathaYogaPage() {
   return (
-    <>
+    <div className="animate-fadeIn">
       {/* Hero Section */}
       <section className="bg-sage-50">
         <div className="container-custom section-padding">
@@ -49,7 +49,7 @@ export default function HathaYogaPage() {
                 Hatha Yoga content including classical asanas, pranayama techniques,
                 and traditional teachings.
               </p>
-              <p className="text-gray-500 text-sm mb-8">
+              <p className="text-gray-500 text-base mb-8">
                 Check back soon for updates!
               </p>
               <Link href="/" className="btn-secondary inline-flex items-center gap-2">
@@ -62,6 +62,6 @@ export default function HathaYogaPage() {
           </div>
         </div>
       </section>
-    </>
+    </div>
   );
 }

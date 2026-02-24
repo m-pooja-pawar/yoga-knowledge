@@ -58,14 +58,14 @@ export default function BhagavadGitaPage() {
                 className="card block hover:shadow-md transition-all duration-200"
               >
                 <div className="flex items-start gap-3">
-                  <span className="flex-shrink-0 w-8 h-8 rounded-full bg-sage-100 text-sage-600 text-sm flex items-center justify-center font-medium">
+                  <span className="flex-shrink-0 w-8 h-8 rounded-full bg-sage-100 text-sage-600 text-base flex items-center justify-center font-medium">
                     {chapterNum}
                   </span>
                   <div className="min-w-0">
-                    <p className="font-devanagari text-gray-800 leading-tight">
+                    <p className="font-devanagari text-lg text-gray-800 leading-tight">
                       {chapter.title_sanskrit}
                     </p>
-                    <p className="text-gray-500 text-sm mt-1">
+                    <p className="text-gray-500 text-base mt-1">
                       {chapter.title_english}
                     </p>
                   </div>
