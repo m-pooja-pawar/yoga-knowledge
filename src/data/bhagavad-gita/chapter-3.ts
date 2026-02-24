@@ -23,25 +23,25 @@ export const chapter3: ChapterData = {
       verse_number: '3',
       sanskrit: 'श्रीभगवानुवाच । लोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ । ज्ञानयोगेन सांख्यानां कर्मयोगेन योगिनाम् ॥',
       hindi: 'भगवान बोले — हे निष्पाप, इस संसार में दो प्रकार की निष्ठा कही गई है — ज्ञानयोग सांख्य के लिए और कर्मयोग योगियों के लिए।',
-      english: 'The Lord said — O sinless one, in this world two paths have been taught: the path of knowledge for the contemplative and the path of action for the yogis.'
+      english: 'The Lord said — O sinless one, in this world two paths have been taught: the path of knowledge (Sankhya) for the seekers of knowledge and the path of action (Karma Yoga) for the yogis.'
     },
     {
       verse_number: '4',
       sanskrit: 'न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते । न च संन्यसनादेव सिद्धिं समधिगच्छति ॥',
       hindi: 'कर्म का आरंभ न करने से मनुष्य कर्मरहित अवस्था को प्राप्त नहीं होता और केवल संन्यास से सिद्धि नहीं मिलती।',
-      english: 'A person does not attain freedom from action by avoiding action, nor does one reach perfection merely by renunciation.'
+      english: 'A person does not attain freedom from action by avoiding action, nor does one reach perfection merely by detachment.'
     },
     {
       verse_number: '5',
       sanskrit: 'न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् । कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ॥',
       hindi: 'कोई भी व्यक्ति क्षणभर भी बिना कर्म किए नहीं रह सकता; प्रकृति के गुणों से सभी अनिवार्य रूप से कर्म करते हैं।',
-      english: 'No one can remain even for a moment without performing action; everyone is compelled to act by the qualities of nature.'
+      english: 'No one can remain even for a moment without performing action; everyone is forced to act by the qualities of nature.'
     },
     {
       verse_number: '6',
       sanskrit: 'कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् । इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ॥',
       hindi: 'जो व्यक्ति कर्मेन्द्रियों को रोककर मन में विषयों का चिंतन करता है, वह मोहग्रस्त और कपटी कहलाता है।',
-      english: 'One who restrains the organs of action but mentally dwells on sense objects is deluded and called a hypocrite.'
+      english: 'One who restrains the organs of action but mentally dwells on sense objects is confused and called a hypocrite (pretender).'
     },
     {
       verse_number: '7',
@@ -71,19 +71,19 @@ export const chapter3: ChapterData = {
       verse_number: '11',
       sanskrit: 'देवान्भावयतानेन ते देवा भावयन्तु वः । परस्परं भावयन्तः श्रेयः परमवाप्स्यथ ॥',
       hindi: 'इस यज्ञ से देवताओं को संतुष्ट करो और वे देवता तुम्हें संतुष्ट करेंगे; इस प्रकार परस्पर सहयोग से तुम परम कल्याण प्राप्त करोगे।',
-      english: 'By this sacrifice nourish the gods and they will nourish you; thus supporting one another, you will attain the highest good.'
+      english: 'By this sacrifice nourish the demigods and they will nourish you; thus supporting one another, you will attain the highest good.'
     },
     {
       verse_number: '12',
       sanskrit: 'इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः । तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ॥',
       hindi: 'यज्ञ से संतुष्ट देवता तुम्हें इच्छित भोग देंगे; परंतु जो उनके दिए बिना ही उपभोग करता है, वह चोर कहलाता है।',
-      english: 'The gods, satisfied by sacrifice, will grant desired enjoyments; one who enjoys without offering in return is called a thief.'
+      english: 'The demigods, satisfied by sacrifice, will grant desired enjoyments; one who enjoys without offering in return is called a thief.'
     },
     {
       verse_number: '13',
       sanskrit: 'यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः । भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ॥',
       hindi: 'यज्ञ का अवशेष ग्रहण करने वाले संत पापों से मुक्त हो जाते हैं; परंतु जो केवल अपने लिए पकाते हैं, वे पाप ही भोगते हैं।',
-      english: 'The righteous who partake of the remnants of sacrifice are freed from sin, but those who cook for themselves alone eat sin.'
+      english: 'The righteous who consumes remains after sacrifice are freed from sin, but those who cook for themselves alone eat sin.'
     },
     {
       verse_number: '14',
@@ -95,19 +95,19 @@ export const chapter3: ChapterData = {
       verse_number: '15',
       sanskrit: 'कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् । तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ॥',
       hindi: 'कर्म ब्रह्म से उत्पन्न है और ब्रह्म अविनाशी से उत्पन्न है; इसलिए सर्वव्यापी ब्रह्म सदा यज्ञ में स्थित है।',
-      english: 'Know that action arises from Brahman and Brahman from the imperishable; therefore the all-pervading Brahman is ever established in sacrifice.'
+      english: 'Know that action arises from Brahman, and Brahman from the Imperishable; therefore, Brahman, present everywhere, is ever established in sacrifice.'
     },
     {
       verse_number: '16',
       sanskrit: 'एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः । अघायुरिन्द्रियारामो मोघं पार्थ स जीवति ॥',
       hindi: 'जो इस यज्ञचक्र का पालन नहीं करता और केवल इन्द्रियों में आसक्त रहता है, वह पापमय जीवन व्यर्थ जीता है।',
-      english: 'One who does not follow this cycle and lives only for sense pleasure lives in vain and sinful life.'
+      english: 'One who does not follow this cycle and lives only for sense pleasure lives in vain (pointless) and sinful life.'
     },
     {
       verse_number: '17',
       sanskrit: 'यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः । आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते ॥',
       hindi: 'परंतु जो आत्मा में ही आनंदित, आत्मा में तृप्त और आत्मा में संतुष्ट रहता है, उसके लिए कोई कर्तव्य शेष नहीं रहता।',
-      english: 'But one who delights in the Self, is satisfied in the Self, and content in the Self alone has no duty to perform.'
+      english: 'But one who takes pleasure in the Self, is satisfied in the Self, and content in the Self alone has no duty to perform.'
     },
     {
       verse_number: '18',
@@ -149,7 +149,7 @@ export const chapter3: ChapterData = {
       verse_number: '24',
       sanskrit: 'उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् । सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ॥',
       hindi: 'यदि मैं कर्म न करूँ तो ये लोक नष्ट हो जाएँगे, वर्णसंकर उत्पन्न होगा और मैं इन प्रजाओं के नाश का कारण बनूँगा।',
-      english: 'If I did not act, these worlds would perish, confusion would arise, and I would be the cause of destruction.'
+      english: 'If I did not perform action, these worlds would perish; social disorder would arise, and I would be the cause of the destruction of these beings.'
     },
     {
       verse_number: '25',
@@ -167,25 +167,25 @@ export const chapter3: ChapterData = {
       verse_number: '27',
       sanskrit: 'प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः । अहङ्कारविमूढात्मा कर्ताहमिति मन्यते ॥',
       hindi: 'प्रकृति के गुणों द्वारा सभी कर्म होते हैं, परंतु अहंकार से मोहित व्यक्ति स्वयं को कर्ता मानता है।',
-      english: 'All actions are performed by the qualities of nature, but one deluded by ego thinks, “I am the doer.”'
+      english: 'All actions are performed by the qualities of nature, but one confused by ego thinks, “I am the doer.”'
     },
     {
       verse_number: '28',
       sanskrit: 'तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः । गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ॥',
       hindi: 'हे महाबाहो, तत्त्वज्ञ व्यक्ति यह जानकर कि गुण ही गुणों में क्रिया कर रहे हैं, आसक्त नहीं होता।',
-      english: 'O mighty-armed, the knower of truth understands that the gunas act upon the gunas and therefore remains unattached.'
+      english: 'O mighty-armed one, the knower of truth, understanding that the qualities alone act upon the qualities, does not become attached.'
     },
     {
       verse_number: '29',
       sanskrit: 'प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु । तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ॥',
       hindi: 'प्रकृति के गुणों से मोहित लोग कर्मों में आसक्त रहते हैं; पूर्ण ज्ञानी को ऐसे अल्पज्ञ लोगों को विचलित नहीं करना चाहिए।',
-      english: 'Those deluded by the gunas become attached to actions; the wise should not unsettle such ignorant people.'
+      english: 'Those who are confused by the qualities of nature remain attached to actions; the fully wise should not unsettle such people of limited understanding'
     },
     {
       verse_number: '30',
       sanskrit: 'मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा । निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥',
       hindi: 'सभी कर्म मुझे अर्पित करके, आत्मभाव से, आशा और ममता त्यागकर और मानसिक अशांति से मुक्त होकर युद्ध करो।',
-      english: 'Surrendering all actions to Me, with spiritual awareness, free from expectation and possessiveness, fight without inner agitation.'
+      english: 'Surrendering all actions to Me, with spiritual awareness, free from expectation and possessiveness, fight without mental disturbance.'
     },
     {
       verse_number: '31',
@@ -197,7 +197,7 @@ export const chapter3: ChapterData = {
       verse_number: '32',
       sanskrit: 'ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् । सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः ॥',
       hindi: 'परंतु जो लोग दोष निकालते हुए इस उपदेश का पालन नहीं करते, उन्हें ज्ञान से भ्रमित और पतित समझो।',
-      english: 'But those who criticize and do not follow this teaching are deluded in knowledge and considered lost.'
+      english: 'But those who criticize and do not follow this teaching are confused in knowledge and considered lost.'
     },
     {
       verse_number: '33',
@@ -209,7 +209,7 @@ export const chapter3: ChapterData = {
       verse_number: '34',
       sanskrit: 'इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ । तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ ॥',
       hindi: 'इन्द्रियों और विषयों में राग और द्वेष रहते हैं; मनुष्य को उनके वश में नहीं होना चाहिए, क्योंकि वे बाधक हैं।',
-      english: 'Attachment and aversion reside in the senses and their objects; one should not come under their control, for they are obstacles.'
+      english: 'Attachment and dislike reside in the senses and their objects; one should not come under their control, for they are obstacles.'
     },
     {
       verse_number: '35',
@@ -221,13 +221,13 @@ export const chapter3: ChapterData = {
       verse_number: '36',
       sanskrit: 'अर्जुन उवाच । अथ केन प्रयुक्तोऽयं पापं चरति पुरुषः । अनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः ॥',
       hindi: 'अर्जुन बोले — हे वार्ष्णेय, मनुष्य इच्छा न होते हुए भी मानो बलपूर्वक पाप क्यों करता है?',
-      english: 'Arjuna said — O Varshneya, why does a person commit sin even unwillingly, as if compelled by force?'
+      english: 'Arjuna said — O Varshneya, why does a person commit sin even unwillingly, as if engaged by force?'
     },
     {
       verse_number: '37',
       sanskrit: 'श्रीभगवानुवाच । काम एष क्रोध एष रजोगुणसमुद्भवः । महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ॥',
       hindi: 'भगवान बोले — यह काम और क्रोध रजोगुण से उत्पन्न होते हैं; यह सबको निगलने वाला और महान पापी है, इसे ही अपना शत्रु जानो।',
-      english: 'The Lord said — Desire and anger arise from the mode of passion; they are all-devouring and sinful, know them as your enemy.'
+      english: 'The Lord said — Desire and anger arise from the mode of passion; they are all-consuming and sinful, know them as your enemy.'
     },
     {
       verse_number: '38',
@@ -239,13 +239,13 @@ export const chapter3: ChapterData = {
       verse_number: '39',
       sanskrit: 'आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा । कामरूपेण कौन्तेय दुष्पूरेणानलेन च ॥',
       hindi: 'हे कौन्तेय, यह कभी न तृप्त होने वाली अग्नि रूप काम ज्ञान को ढककर ज्ञानी का भी शत्रु बन जाता है।',
-      english: 'O Kaunteya, this insatiable fire of desire covers knowledge and becomes the constant enemy of even the wise.'
+      english: 'O Kaunteya, this endless fire of desire covers knowledge and becomes the constant enemy of even the wise.'
     },
     {
       verse_number: '40',
       sanskrit: 'इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते । एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ॥',
       hindi: 'इन्द्रियाँ, मन और बुद्धि काम के निवास स्थान हैं; इनके द्वारा वह ज्ञान को ढककर जीव को भ्रमित करता है।',
-      english: 'The senses, mind, and intellect are said to be its seat; through them desire deludes the soul by covering knowledge.'
+      english: 'The senses, the mind, and the intellect are said to be the dwelling places of desire; through these, it covers knowledge and confuses the living being.'
     },
     {
       verse_number: '41',

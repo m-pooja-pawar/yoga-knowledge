@@ -23,7 +23,7 @@ export const chapter1: ChapterData = {
       verse_number: '3',
       sanskrit: 'पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥',
       hindi: 'हे आचार्य, पाण्डु पुत्रों की इस विशाल सेना को देखिए, जिसे आपके बुद्धिमान शिष्य द्रुपद पुत्र ने व्यवस्थित किया है।',
-      english: 'O teacher, behold this mighty army of the sons of Pandu, expertly arranged by your intelligent disciple, the son of Drupada.'
+      english: 'O teacher, see this mighty army of the sons of Pandu, expertly arranged by your intelligent disciple, the son of Drupada.'
     },
     {
       verse_number: '4',
@@ -35,13 +35,13 @@ export const chapter1: ChapterData = {
       verse_number: '5',
       sanskrit: 'धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ॥',
       hindi: 'धृष्टकेतु, चेकितान, पराक्रमी काशी राजा, पुरुजित, कुन्तिभोज और श्रेष्ठ पुरुष शैब्य भी हैं।',
-      english: 'There are also Dhrishtaketu, Chekitana, the valiant king of Kashi, Purujit, Kuntibhoja, and the noble Shaibya.'
+      english: 'There are also Dhrishtaketu, Chekitana, the valiant (brave) king of Kashi, Purujit, Kuntibhoja, and the noble Shaibya.'
     },
     {
       verse_number: '6',
       sanskrit: 'युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥',
       hindi: 'पराक्रमी युधामन्यु, वीर उत्तमौजा, सुभद्रा पुत्र अभिमन्यु और द्रौपदी के पुत्र — ये सभी महारथी हैं।',
-      english: 'The brave Yudhamanyu, the valiant Uttamauja, the son of Subhadra (Abhimanyu), and the sons of Draupadi — all are great warriors.'
+      english: 'The brave Yudhamanyu, the valiant (brave) Uttamauja, the son of Subhadra (Abhimanyu), and the sons of Draupadi — all are great warriors.'
     },
     {
       verse_number: '7',
@@ -117,7 +117,7 @@ export const chapter1: ChapterData = {
     },
     {
       verse_number: '19',
-      sanskrit: 'स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् । नभश्च पृथिवीं चैव तुमुलो व्यनुनादयन् ॥',
+      sanskrit: 'स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् । नभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन् ॥',
       hindi: 'उस भयंकर ध्वनि ने धृतराष्ट्र के पुत्रों के हृदय को कंपा दिया और आकाश तथा पृथ्वी दोनों को गुंजा दिया।',
       english: 'That terrible sound shook the hearts of the sons of Dhritarashtra and echoed through the sky and the earth.'
     },
@@ -142,20 +142,20 @@ export const chapter1: ChapterData = {
     {
       verse_number: '23',
       sanskrit: 'योत्स्यमानानवेक्षेऽहं ये एतेऽत्र समागताः । धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ॥',
-      hindi: 'मैं उन लोगों को देखना चाहता हूँ जो धृतराष्ट्र के पुत्र दुर्योधन को प्रसन्न करने के लिए यहाँ युद्ध करने आए हैं।',
-      english: 'I wish to see those gathered here to fight who desire to please the misguided son of Dhritarashtra.'
+      hindi: 'मैं उन लोगों को देखना चाहता हूँ जो धृतराष्ट्र के दुष्टबुद्धि पुत्र को प्रसन्न करने के लिए यहाँ युद्ध करने आए हैं।',
+      english: 'I wish to see those gathered here to fight who desire to please the evil-minded son of Dhritarashtra.'
     },
     {
       verse_number: '24',
       sanskrit: 'संजय उवाच । एवमुक्तो हृषीकेशो गुडाकेशेन भारत । सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ॥',
       hindi: 'संजय बोले — हे भारत, अर्जुन के ऐसा कहने पर हृषीकेश ने श्रेष्ठ रथ को दोनों सेनाओं के बीच में खड़ा कर दिया।',
-      english: 'Sanjaya said — O Bharata, thus addressed by Arjuna, Hrishikesha placed the splendid chariot between the two armies.'
+      english: 'Sanjaya said — O Bharata, thus addressed by Arjuna, Hrishikesha placed the fine chariot between the two armies.'
     },
     {
       verse_number: '25',
       sanskrit: 'भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् । उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ॥',
       hindi: 'भीष्म, द्रोण और अन्य राजाओं के सामने रथ खड़ा करके उन्होंने कहा — हे पार्थ, इन एकत्र हुए कुरुओं को देखो।',
-      english: 'Placing the chariot before Bhishma, Drona, and the rulers, He said — O Partha, behold these assembled Kurus.'
+      english: 'Placing the chariot before Bhishma, Drona, and the rulers, He said — O Partha, see these assembled Kurus.'
     },
     {
       verse_number: '26',
@@ -167,7 +167,7 @@ export const chapter1: ChapterData = {
       verse_number: '27',
       sanskrit: 'श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि । तान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ॥',
       hindi: 'उन्होंने दोनों सेनाओं में ससुर और शुभचिंतकों को भी देखा; उन सभी संबंधियों को देखकर कौन्तेय अर्जुन करुणा से भर गए।',
-      english: 'He also saw fathers-in-law and well-wishers in both armies; seeing all these relatives, Arjuna was filled with compassion.'
+      english: 'He also saw fathers-in-law and well-wishers in both armies; seeing all these relatives, Arjuna was filled with compassion (empathy).'
     },
     {
       verse_number: '28',
@@ -245,19 +245,19 @@ export const chapter1: ChapterData = {
       verse_number: '40',
       sanskrit: 'कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः । धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ॥',
       hindi: 'कुल के नाश होने पर सनातन कुलधर्म नष्ट हो जाते हैं और धर्म के नष्ट होने पर पूरा कुल अधर्म से भर जाता है।',
-      english: 'With the destruction of the family, the eternal family traditions perish, and when dharma is lost, the whole family is overcome by unrighteousness.'
+      english: 'With the destruction of the family, the eternal family traditions are lost, and when dharma is lost, the whole family is overcome by unrighteousness (adharma).'
     },
     {
       verse_number: '41',
       sanskrit: 'अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः । स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ॥',
       hindi: 'हे कृष्ण, अधर्म बढ़ने से कुल की स्त्रियाँ दूषित हो जाती हैं और इससे वर्णसंकर उत्पन्न होता है।',
-      english: 'O Krishna, when unrighteousness prevails, the women of the family become corrupted, and from this arises unwanted mixture of classes.'
+      english: 'O Krishna, when unrighteousness prevails, the women of the family become corrupted, and this leads to the corruption of future generations.'
     },
     {
       verse_number: '42',
       sanskrit: 'सङ्करो नरकायैव कुलघ्नानां कुलस्य च । पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ॥',
       hindi: 'यह वर्णसंकर कुल का नाश करने वालों और कुल दोनों को नरक में ले जाता है और पिण्ड-जल की क्रिया न होने से पितर भी पतित हो जाते हैं।',
-      english: 'Such mixture leads both the destroyers of the family and the family to hell, and deprived of offerings, the ancestors also fall.'
+      english: 'Such corrupted generation leads both the destroyers of the family and the family to hell, and deprived of offerings, the ancestors also fall.'
     },
     {
       verse_number: '43',

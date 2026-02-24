@@ -17,7 +17,7 @@ export const chapter4: ChapterData = {
       verse_number: '2',
       sanskrit: 'एवं परम्पराप्राप्तमिमं राजर्षयो विदुः । स कालेनेह महता योगो नष्टः परन्तप ॥',
       hindi: 'इस प्रकार परंपरा से राजर्षियों ने इस योग को जाना, परंतु काल के प्रभाव से यह योग लुप्त हो गया।',
-      english: 'Thus received through succession, the royal sages understood this Yoga, but over time it was lost.'
+      english: 'Thus received through spiritual tradition, the royal sages understood this Yoga, but over time it was lost.'
     },
     {
       verse_number: '3',
@@ -53,7 +53,7 @@ export const chapter4: ChapterData = {
       verse_number: '8',
       sanskrit: 'परित्राणाय साधूनां विनाशाय च दुष्कृताम् । धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥',
       hindi: 'साधुओं की रक्षा, दुष्टों के विनाश और धर्म की स्थापना के लिए मैं युग-युग में प्रकट होता हूँ।',
-      english: 'To protect the righteous, destroy the wicked, and establish dharma, I appear age after age.'
+      english: 'To protect the righteous, destroy the evil, and establish dharma, I appear age after age.'
     },
     {
       verse_number: '9',
@@ -77,7 +77,7 @@ export const chapter4: ChapterData = {
       verse_number: '12',
       sanskrit: 'काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः । क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ॥',
       hindi: 'जो लोग कर्मों की सिद्धि चाहते हैं, वे देवताओं की पूजा करते हैं, क्योंकि मनुष्य लोक में कर्म से प्राप्त फल शीघ्र मिलते हैं।',
-      english: 'Those who desire success in actions worship the gods, for in this world results of action are quickly obtained.'
+      english: 'Those who desire success in actions worship the demigods, for in this world results of action are quickly obtained.'
     },
     {
       verse_number: '13',
@@ -149,19 +149,19 @@ export const chapter4: ChapterData = {
       verse_number: '24',
       sanskrit: 'ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् । ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ॥',
       hindi: 'अर्पण ब्रह्म है, आहुति ब्रह्म है, ब्रह्म अग्नि में ब्रह्म द्वारा आहुति दी जाती है; ब्रह्म में स्थित होकर वह ब्रह्म को ही प्राप्त होता है।',
-      english: 'The offering is Brahman, the oblation is Brahman, offered by Brahman into the fire of Brahman; one absorbed in Brahman attains Brahman.'
+      english: 'The offering is Brahman, the fire offering is Brahman, offered by Brahman into the fire of Brahman; one absorbed in Brahman attains Brahman.'
     },
     {
       verse_number: '25',
       sanskrit: 'दैवमेवापरे यज्ञं योगिनः पर्युपासते । ब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति ॥',
       hindi: 'कुछ योगी देवताओं की उपासना रूप यज्ञ करते हैं, जबकि अन्य ब्रह्माग्नि में आत्मयज्ञ करते हैं।',
-      english: 'Some yogis perform sacrifice to the gods, while others offer the self as sacrifice into the fire of Brahman.'
+      english: 'Some yogis perform sacrifice to the demigods, while others offer the self as sacrifice into the fire of Brahman.'
     },
     {
       verse_number: '26',
       sanskrit: 'श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति । शब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति ॥',
       hindi: 'कुछ लोग इन्द्रियों को संयम की अग्नि में अर्पित करते हैं और कुछ लोग विषयों को इन्द्रियों की अग्नि में अर्पित करते हैं।',
-      english: 'Some offer the senses into the fire of restraint, while others offer sense objects into the fire of the senses.'
+      english: 'Some offer the senses into the fire of self-control, while others offer sense objects into the fire of the senses.'
     },
     {
       verse_number: '27',
@@ -173,13 +173,13 @@ export const chapter4: ChapterData = {
       verse_number: '28',
       sanskrit: 'द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे । स्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः ॥',
       hindi: 'कुछ लोग द्रव्ययज्ञ, तपयज्ञ, योगयज्ञ और स्वाध्याय तथा ज्ञानयज्ञ करते हैं।',
-      english: 'Some perform sacrifice through charity, austerity, yoga, and others through study and knowledge.'
+      english: 'Some perform sacrifice through charity, penance (tap), yoga, and others through study and knowledge.'
     },
     {
       verse_number: '29',
       sanskrit: 'अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे । प्राणापानगती रुद्ध्वा प्राणायामपरायणाः ॥',
       hindi: 'कुछ लोग प्राण को अपान में और अपान को प्राण में अर्पित करते हैं तथा प्राणायाम द्वारा श्वास को नियंत्रित करते हैं।',
-      english: 'Some offer the outgoing breath into the incoming and vice versa, practicing breath control through pranayama.'
+      english: 'Some offer the outgoing breath into the incoming breath, and the incoming breath into the outgoing breath, practicing breath control through pranayama.'
     },
     {
       verse_number: '30',
@@ -191,7 +191,7 @@ export const chapter4: ChapterData = {
       verse_number: '31',
       sanskrit: 'यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् । नायं लोकोऽस्त्ययज्ञस्य कुतोऽन्यः कुरुसत्तम ॥',
       hindi: 'यज्ञ के अवशेष अमृत को ग्रहण करने वाले सनातन ब्रह्म को प्राप्त होते हैं; हे कुरुश्रेष्ठ, यज्ञ न करने वाले के लिए यह लोक भी नहीं, तो परलोक कैसे होगा?',
-      english: 'Those who partake of the nectar of sacrifice attain the eternal Brahman; O best of Kurus, one who performs no sacrifice has neither this world nor the next.'
+      english: 'Those who consume the nectar of sacrifice attain the eternal Brahman; O best of Kurus, one who performs no sacrifice has neither this world nor the next.'
     },
     {
       verse_number: '32',
@@ -203,7 +203,7 @@ export const chapter4: ChapterData = {
       verse_number: '33',
       sanskrit: 'श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप । सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते ॥',
       hindi: 'हे परन्तप, द्रव्ययज्ञ से ज्ञानयज्ञ श्रेष्ठ है, क्योंकि हे पार्थ, सभी कर्म अंततः ज्ञान में समाप्त हो जाते हैं।',
-      english: 'O conqueror of foes, sacrifice of knowledge is superior to material sacrifice, for all actions culminate in knowledge.'
+      english: 'O conqueror of enemies, the sacrifice of knowledge is superior to the sacrifice of material offerings; for, O Partha, all actions ultimately conclude in knowledge.'
     },
     {
       verse_number: '34',
@@ -215,7 +215,7 @@ export const chapter4: ChapterData = {
       verse_number: '35',
       sanskrit: 'यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव । येन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि ॥',
       hindi: 'हे पाण्डव, उस ज्ञान को जानकर तुम फिर मोह में नहीं पड़ोगे और सभी प्राणियों को अपने में तथा मुझमें देखोगे।',
-      english: 'O Pandava, knowing this you will not fall into delusion again and will see all beings in yourself and in Me.'
+      english: 'O Pandava, knowing this you will not fall into confusion again and will see all beings in yourself and in Me.'
     },
     {
       verse_number: '36',
@@ -251,13 +251,13 @@ export const chapter4: ChapterData = {
       verse_number: '41',
       sanskrit: 'योगसंन्यस्तकर्माणं ज्ञानसंछिन्नसंशयम् । आत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय ॥',
       hindi: 'हे धनंजय, जिसने योग द्वारा कर्म त्याग दिए और ज्ञान से संशय नष्ट कर दिए, ऐसे आत्मस्थित व्यक्ति को कर्म नहीं बांधते।',
-      english: 'O Dhananjaya, one who renounces actions through Yoga and cuts doubt with knowledge is not bound by action.'
+      english: 'O Dhananjaya, one who detaches actions through Yoga and cuts doubt with knowledge is not bound by action.'
     },
     {
       verse_number: '42',
       sanskrit: 'तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मनः । छित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत ॥',
       hindi: 'इसलिए हृदय में स्थित अज्ञानजनित संशय को ज्ञानरूपी तलवार से काटकर योग में स्थित हो जाओ और उठो, हे भारत।',
-      english: 'Therefore, cut the doubt born of ignorance in your heart with the sword of knowledge, establish yourself in Yoga, and arise, O Bharata.'
+      english: 'Therefore, cut the doubt born of confusion in your heart with the sword of knowledge, establish yourself in Yoga, and arise, O Bharata.'
     },
     {
       verse_number: 'closing',

@@ -17,13 +17,13 @@ export const chapter2: ChapterData = {
       verse_number: '2',
       sanskrit: 'श्रीभगवानुवाच । कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् । अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन ॥',
       hindi: 'भगवान बोले — हे अर्जुन, इस कठिन समय में यह मोह तुम्हें कहाँ से आ गया? यह श्रेष्ठ पुरुषों के योग्य नहीं, न स्वर्ग देने वाला है और न कीर्ति देने वाला।',
-      english: 'The Lord said — O Arjuna, how has this delusion come upon you in this critical moment? It is not worthy of noble persons, nor does it lead to heaven or honor.'
+      english: 'The Lord said — O Arjuna, how has this confusion come upon you in this critical moment? It is not worthy of noble persons, nor does it lead to heaven or honor.'
     },
     {
       verse_number: '3',
       sanskrit: 'क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते । क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ॥',
       hindi: 'हे पार्थ, यह कायरता मत अपनाओ; यह तुम्हारे योग्य नहीं है। हृदय की दुर्बलता छोड़कर खड़े हो जाओ, हे शत्रु-दमन करने वाले।',
-      english: 'O Partha, do not yield to weakness; it does not befit you. Cast off this petty weakness of heart and arise, O conqueror of foes.'
+      english: 'O Partha, do not yield to weakness; it does not befit you. Cast off this petty weakness of heart and arise, O conqueror of enemies.'
     },
     {
       verse_number: '4',
@@ -35,7 +35,7 @@ export const chapter2: ChapterData = {
       verse_number: '5',
       sanskrit: 'गुरूनहत्वा हि महानुभावान् श्रेयो भोक्तुं भैक्ष्यमपीह लोके । हत्वार्थकामांस्तु गुरूनिहैव भुञ्जीय भोगान् रुधिरप्रदिग्धान् ॥',
       hindi: 'महान गुरुओं को मारने से अच्छा है कि इस संसार में भिक्षा से जीवन बिताऊँ; क्योंकि उन्हें मारकर प्राप्त भोग रक्त से सने होंगे।',
-      english: 'It would be better to live on alms than to kill these great teachers; for by killing them, the pleasures we enjoy would be stained with blood.'
+      english: 'It would be better to live on alms (bhiksha) than to kill these great teachers; for by killing them, the pleasures we enjoy would be stained with blood.'
     },
     {
       verse_number: '6',
@@ -47,19 +47,19 @@ export const chapter2: ChapterData = {
       verse_number: '7',
       sanskrit: 'कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः । यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥',
       hindi: 'दया से दुर्बल होकर और धर्म के विषय में भ्रमित होकर मैं आपसे पूछता हूँ — जो मेरे लिए निश्चित रूप से कल्याणकारी हो, वह बताइए; मैं आपका शिष्य हूँ और आपकी शरण में हूँ।',
-      english: 'My nature is weakened by pity and my mind is confused about duty; I ask You to tell me what is truly good for me. I am Your disciple and take refuge in You.'
+      english: 'My nature is weakened by pity and my mind is confused about duty; I ask You to tell me what is truly good for me. I am Your disciple and take shelter in You.'
     },
     {
       verse_number: '8',
       sanskrit: 'न हि प्रपश्यामि ममापनुद्याद् यच्छोकमुच्छोषणमिन्द्रियाणाम् । अवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम् ॥',
       hindi: 'मैं ऐसा कोई उपाय नहीं देखता जो मेरे इन्द्रियों को सुखा देने वाले इस शोक को दूर कर सके, चाहे मुझे पृथ्वी का समृद्ध राज्य या देवताओं का राज्य ही क्यों न मिल जाए।',
-      english: 'I do not see anything that can remove this sorrow that dries my senses, even if I gain a prosperous kingdom on earth or sovereignty over the gods.'
+      english: 'I do not see anything that can remove this sorrow that dries my senses, even if I gain a prosperous kingdom on earth or supremacy over the gods.'
     },
     {
       verse_number: '9',
       sanskrit: 'संजय उवाच । एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप । न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह ॥',
-      hindi: 'संजय बोले — ऐसा कहकर अर्जुन ने हृषीकेश से कहा कि मैं युद्ध नहीं करूँगा, और फिर वे मौन हो गए।',
-      english: 'Sanjaya said — Having spoken thus to Hrishikesha, Arjuna said that he would not fight and then became silent.'
+      hindi: 'संजय बोले — ऐसा कहकर गुडाकेश अर्जुन ने हृषीकेश से कहा, “हे गोविन्द, मैं युद्ध नहीं करूँगा,” और फिर वे मौन हो गए।',
+      english: 'Sanjaya said — Having spoken thus, Gudakesha Arjuna said to Hrishikesha, ‘O Govinda, I shall not fight,’ and then he fell silent.'
     },
     {
       verse_number: '10',
@@ -77,37 +77,37 @@ export const chapter2: ChapterData = {
       verse_number: '12',
       sanskrit: 'न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः । न चैव न भविष्यामः सर्वे वयमतः परम् ॥',
       hindi: 'ऐसा कभी नहीं था कि मैं नहीं था, तुम नहीं थे या ये राजा नहीं थे; और आगे भी ऐसा नहीं होगा कि हम सब अस्तित्व में न रहें।',
-      english: 'There was never a time when I did not exist, nor you, nor these kings; nor will there be a time when we all cease to exist.'
+      english: 'There was never a time when I did not exist, nor you, nor these kings; nor will there be a time when we all cease (stop) to exist.'
     },
     {
       verse_number: '13',
       sanskrit: 'देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा । तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ॥',
       hindi: 'जैसे इस शरीर में बाल्यावस्था, युवावस्था और वृद्धावस्था आती है, वैसे ही आत्मा दूसरे शरीर को प्राप्त होती है; धीर पुरुष इसमें भ्रमित नहीं होता।',
-      english: 'Just as childhood, youth, and old age come to the body, so the soul attains another body; the wise are not deluded by this.'
+      english: 'Just as childhood, youth, and old age come to the body, so the soul attains another body; the wise are not confused by this.'
     },
     {
       verse_number: '14',
       sanskrit: 'मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः । आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ॥',
       hindi: 'हे कौन्तेय, इन्द्रियों के विषयों का संपर्क ही शीत-उष्ण और सुख-दुःख देता है; वे आते-जाते और अनित्य हैं, इसलिए उन्हें सहन करो।',
-      english: 'O Kaunteya, contact with sense objects gives cold and heat, pleasure and pain; they are temporary and come and go, so endure them.'
+      english: 'O Kaunteya, contact with sense objects gives cold and heat, pleasure and pain; they are temporary and come and go, so tolerate them.'
     },
     {
       verse_number: '15',
       sanskrit: 'यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ । समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ॥',
       hindi: 'हे श्रेष्ठ पुरुष, जिसे सुख और दुःख विचलित नहीं करते और जो समान रहता है, वह अमरत्व के योग्य हो जाता है।',
-      english: 'O best of men, one who is not disturbed by pleasure and pain and remains steady becomes fit for immortality.'
+      english: 'O best of men, one who is not disturbed by pleasure and pain and remains steady becomes fit for liberation.'
     },
     {
       verse_number: '16',
       sanskrit: 'नासतो विद्यते भावो नाभावो विद्यते सतः । उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः ॥',
       hindi: 'असत् का अस्तित्व नहीं होता और सत् का अभाव नहीं होता; सत्यदर्शी ऋषियों ने इन दोनों का तत्त्व जान लिया है।',
-      english: 'The unreal has no existence and the real never ceases to be; the seers of truth have understood the nature of both.'
+      english: 'The unreal has no existence and the real never comes to en end; the seers of truth have understood the nature of both.'
     },
     {
       verse_number: '17',
       sanskrit: 'अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् । विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ॥',
       hindi: 'जिससे यह समस्त जगत व्याप्त है, उसे अविनाशी जानो; उस अविनाशी का नाश कोई नहीं कर सकता।',
-      english: 'Know that which pervades all to be indestructible; no one can bring about the destruction of this imperishable reality.'
+      english: 'Understand that which spreads throughout the whole universe to be undying; none can cause the destruction of that everlasting reality.'
     },
     {
       verse_number: '18',
@@ -149,13 +149,13 @@ export const chapter2: ChapterData = {
       verse_number: '24',
       sanskrit: 'अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च । नित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः ॥',
       hindi: 'यह आत्मा न काटी जा सकती है, न जलाई जा सकती है, न भिगोई जा सकती है और न सुखाई जा सकती है; यह नित्य, सर्वव्यापी, स्थिर और सनातन है।',
-      english: 'The soul cannot be cut, burned, wetted, or dried; it is eternal, all-pervading, stable, immovable, and everlasting.'
+      english: 'The soul cannot be cut, burned, wetted, or dried; it is eternal, present everywhere, stable, immovable, and everlasting.'
     },
     {
       verse_number: '25',
       sanskrit: 'अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते । तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि ॥',
       hindi: 'यह आत्मा अव्यक्त, अचिन्त्य और अविकार है; इसलिए इसे इस प्रकार जानकर तुम्हें शोक नहीं करना चाहिए।',
-      english: 'The soul is unmanifest, inconceivable, and unchangeable; therefore, knowing this, you should not grieve.'
+      english: 'The soul is invisible, inconceivable, and unchangeable; therefore, knowing this, you should not grieve.'
     },
     {
       verse_number: '26',
@@ -179,7 +179,7 @@ export const chapter2: ChapterData = {
       verse_number: '29',
       sanskrit: 'आश्चर्यवत्पश्यति कश्चिदेनमाश्चर्यवद्वदति तथैव चान्यः । आश्चर्यवच्चैनमन्यः शृणोति श्रुत्वाऽप्येनं वेद न चैव कश्चित् ॥',
       hindi: 'कोई आत्मा को आश्चर्य की तरह देखता है, कोई आश्चर्य की तरह वर्णन करता है, कोई आश्चर्य की तरह सुनता है और सुनकर भी कोई उसे नहीं जान पाता।',
-      english: 'Some see the soul as a wonder, some speak of it as a wonder, some hear of it as a wonder, and even after hearing, few truly understand it.'
+      english: 'Some see the soul as a wonder, some speak of it as a wonder, some hear of it as a wonder, and even after hearing, none truly understand it.'
     },
     {
       verse_number: '30',
@@ -191,13 +191,13 @@ export const chapter2: ChapterData = {
       verse_number: '31',
       sanskrit: 'स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि । धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते ॥',
       hindi: 'अपने क्षत्रिय धर्म को देखकर भी तुम्हें विचलित नहीं होना चाहिए, क्योंकि धर्मयुक्त युद्ध से बढ़कर क्षत्रिय के लिए कोई कर्तव्य नहीं है।',
-      english: 'Considering your duty as a warrior, you should not waver, for there is nothing higher for a Kshatriya than a righteous battle.'
+      english: 'Considering your duty as a Kshatriya, you should not hesitate, for there is nothing higher for a Kshatriya than a righteous battle.'
     },
     {
       verse_number: '32',
       sanskrit: 'यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् । सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम् ॥',
       hindi: 'हे पार्थ, ऐसा युद्ध अपने आप प्राप्त होकर स्वर्ग के द्वार खोल देता है; ऐसे युद्ध को पाकर क्षत्रिय धन्य होते हैं।',
-      english: 'O Partha, such a battle comes unsought and opens the gates of heaven; fortunate are the warriors who obtain such an opportunity.'
+      english: 'O Partha, such a battle comes arising on its own opens the gates of heaven; fortunate are the Kshatriya who obtain such an opportunity.'
     },
     {
       verse_number: '33',
@@ -227,7 +227,7 @@ export const chapter2: ChapterData = {
       verse_number: '37',
       sanskrit: 'हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम् । तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः ॥',
       hindi: 'यदि मारे गए तो स्वर्ग प्राप्त करोगे और यदि विजयी हुए तो पृथ्वी का राज्य भोगोगे; इसलिए हे कौन्तेय, दृढ़ निश्चय करके उठो और युद्ध करो।',
-      english: 'If slain, you will attain heaven, and if victorious, you will enjoy the earth; therefore, O Kaunteya, arise and fight with determination.'
+      english: 'If killed, you will attain heaven, and if victorious, you will enjoy the earth; therefore, O Kaunteya, arise and fight with determination.'
     },
     {
       verse_number: '38',
@@ -239,7 +239,7 @@ export const chapter2: ChapterData = {
       verse_number: '39',
       sanskrit: 'एषा तेऽभिहिता सांख्ये बुद्धिर्योगे त्विमां शृणु । बुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि ॥',
       hindi: 'अब तक यह ज्ञान सांख्य के रूप में कहा गया; अब योग के विषय में सुनो, जिससे बुद्धि से युक्त होकर तुम कर्मबंधनों से मुक्त हो जाओगे।',
-      english: 'So far this knowledge has been explained from the perspective of Sankhya; now hear about Yoga, by which, endowed with wisdom, you will be freed from the bondage of action.'
+      english: 'So far this knowledge has been explained from the perspective of Sankhya (analytical knowledge); now hear about Yoga, by which, blessed with wisdom, you will be freed from the bondage of action.'
     },
     {
       verse_number: '40',
@@ -251,7 +251,7 @@ export const chapter2: ChapterData = {
       verse_number: '41',
       sanskrit: 'व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन । बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ॥',
       hindi: 'हे कुरुनन्दन, इस मार्ग में दृढ़ निश्चय वाली बुद्धि एक ही होती है; परंतु अस्थिर लोगों की बुद्धि अनेक शाखाओं में भटकती रहती है।',
-      english: 'O Kurunandana, in this path the resolute intellect is single-pointed, whereas the minds of the irresolute wander in many branches.'
+      english: 'O Kurunandana, in this path the steady mind is single-pointed, whereas the minds of the unsteady wander in many branches.'
     },
     {
       verse_number: '42',
@@ -269,7 +269,7 @@ export const chapter2: ChapterData = {
       verse_number: '44',
       sanskrit: 'भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम् । व्यवसायात्मिका बुद्धिः समाधौ न विधीयते ॥',
       hindi: 'भोग और ऐश्वर्य में आसक्त तथा जिनकी बुद्धि उनसे मोहित है, उनमें एकाग्र और स्थिर बुद्धि उत्पन्न नहीं होती।',
-      english: 'For those attached to pleasure and wealth, whose minds are distracted by them, resolute and steady intellect does not arise.'
+      english: 'Those who are attached to pleasure and wealth, and whose minds are confused by them, cannot possess a steady and one-pointed mind.'
     },
     {
       verse_number: '45',
@@ -299,31 +299,31 @@ export const chapter2: ChapterData = {
       verse_number: '49',
       sanskrit: 'दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय । बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः ॥',
       hindi: 'हे धनंजय, फल की इच्छा से किया गया कर्म बुद्धियोग से बहुत ही निम्न है; इसलिए बुद्धि में शरण लो, क्योंकि फल की इच्छा वाले कृपण होते हैं।',
-      english: 'O Dhananjaya, action done with desire for results is far inferior to action with wisdom; therefore seek refuge in wisdom, for those driven by fruits are miserable.'
+      english: 'O Dhananjaya, action done with desire for results is far inferior to action with wisdom; therefore seek shelter in wisdom, for those driven by fruits are miserable.'
     },
     {
       verse_number: '50',
       sanskrit: 'बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते । तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम् ॥',
       hindi: 'बुद्धि से युक्त व्यक्ति इस जीवन में ही पाप और पुण्य दोनों को त्याग देता है; इसलिए योग में लगो, क्योंकि योग कर्मों में कुशलता है।',
-      english: 'A person endowed with wisdom abandons both good and bad results in this life; therefore engage in Yoga, for Yoga is skill in action.'
+      english: 'A person blessed with wisdom abandons both good and bad results in this life; therefore engage in Yoga, for Yoga is skill in action.'
     },
     {
       verse_number: '51',
       sanskrit: 'कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः । जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम् ॥',
       hindi: 'बुद्धि से युक्त ज्ञानी कर्मफल त्यागकर जन्म-मरण के बंधन से मुक्त होकर दुखरहित अवस्था को प्राप्त करते हैं।',
-      english: 'The wise, endowed with understanding and abandoning the fruits of action, become free from the cycle of birth and attain a state beyond sorrow.'
+      english: 'The wise, blessed with understanding and abandoning the fruits of action, become free from the cycle of birth and attain a state beyond sorrow.'
     },
     {
       verse_number: '52',
       sanskrit: 'यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति । तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ॥',
       hindi: 'जब तुम्हारी बुद्धि मोह के अंधकार को पार कर जाएगी, तब तुम सुने और सुनने योग्य विषयों से विरक्त हो जाओगे।',
-      english: 'When your intellect crosses beyond the confusion of delusion, you will become indifferent to what has been heard and what is yet to be heard.'
+      english: 'When your mind crosses beyond the darkness of confusion, you will become indifferent to what has been heard and what is yet to be heard.'
     },
     {
       verse_number: '53',
       sanskrit: 'श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला । समाधावचला बुद्धिस्तदा योगमवाप्स्यसि ॥',
       hindi: 'जब शास्त्रों की विभिन्न बातों से विचलित तुम्हारी बुद्धि स्थिर होकर समाधि में अचल हो जाएगी, तब तुम योग को प्राप्त करोगे।',
-      english: 'When your intellect, confused by various teachings, becomes steady and firmly established in meditation, then you will attain Yoga.'
+      english: 'When your mind, confused by various teachings, becomes steady and firmly established in meditation, then you will attain Yoga.'
     },
     {
       verse_number: '54',
@@ -365,43 +365,43 @@ export const chapter2: ChapterData = {
       verse_number: '60',
       sanskrit: 'यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः । इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः ॥',
       hindi: 'हे कौन्तेय, प्रयास करने वाले ज्ञानी का मन भी चंचल इन्द्रियाँ बलपूर्वक खींच लेती हैं।',
-      english: 'O Kaunteya, even the mind of a wise person striving for control is carried away by the turbulent senses.'
+      english: 'O Kaunteya, even the mind of a wise person striving for control is carried away by the restless senses.'
     },
     {
       verse_number: '61',
       sanskrit: 'तानि सर्वाणि संयम्य युक्त आसीत मत्परः । वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता ॥',
       hindi: 'इसलिए इन्द्रियों को वश में करके और मुझमें स्थित होकर रहो; जिसके इन्द्रियाँ नियंत्रित हैं, उसकी बुद्धि स्थिर होती है।',
-      english: 'Therefore, controlling the senses and remaining devoted to Me, one whose senses are restrained has steady wisdom.'
+      english: 'Therefore, controlling the senses and remaining devoted to Me, one whose senses are controlled has steady wisdom.'
     },
     {
       verse_number: '62',
       sanskrit: 'ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते । सङ्गात्संजायते कामः कामात्क्रोधोऽभिजायते ॥',
       hindi: 'विषयों का चिंतन करने से आसक्ति होती है, आसक्ति से इच्छा और इच्छा से क्रोध उत्पन्न होता है।',
-      english: 'Contemplating sense objects leads to attachment, attachment leads to desire, and desire leads to anger.'
+      english: 'Dwelling on sense objects leads to attachment, attachment leads to desire (lust), and desire (lust) leads to anger.'
     },
     {
       verse_number: '63',
       sanskrit: 'क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः । स्मृतिभ्रंशाद्बुद्धिनाशो बुद्धिनाशात्प्रणश्यति ॥',
       hindi: 'क्रोध से मोह होता है, मोह से स्मृति भ्रमित होती है, स्मृति के नष्ट होने से बुद्धि नष्ट होती है और बुद्धि के नाश से मनुष्य पतित हो जाता है।',
-      english: 'From anger arises delusion, from delusion memory is confused, from loss of memory intellect is destroyed, and with destroyed intellect one falls.'
+      english: 'From anger arises confusion; from confusion, memory becomes disturbed; when memory is lost, the mind is destroyed, and with the destruction of the mind, one falls down.'
     },
     {
       verse_number: '64',
       sanskrit: 'रागद्वेषविमुक्तैस्तु विषयानिन्द्रियैश्चरन् । आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति ॥',
       hindi: 'जो व्यक्ति राग-द्वेष से मुक्त होकर नियंत्रित इन्द्रियों से विषयों का उपयोग करता है, वह मन की शांति प्राप्त करता है।',
-      english: 'One who moves among sense objects free from attachment and aversion, with controlled senses, attains peace of mind.'
+      english: 'One who is free from attachment and dislike, and who uses the senses under control, attains peace of mind.'
     },
     {
       verse_number: '65',
       sanskrit: 'प्रसादे सर्वदुःखानां हानिरस्योपजायते । प्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते ॥',
       hindi: 'मन की शांति से सभी दुःख समाप्त हो जाते हैं और प्रसन्न चित्त वाले की बुद्धि शीघ्र स्थिर हो जाती है।',
-      english: 'From inner peace all sorrows end, and the intellect of a peaceful person soon becomes steady.'
+      english: 'With peace of mind, all sorrows come to an end, and the mind of one with a peaceful heart soon becomes steady.'
     },
     {
       verse_number: '66',
       sanskrit: 'नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना । न चाभावयतः शान्तिरशान्तस्य कुतः सुखम् ॥',
       hindi: 'असंयमी व्यक्ति की बुद्धि स्थिर नहीं होती, न उसे ध्यान मिलता है; बिना शांति के सुख कैसे हो सकता है?',
-      english: 'For the uncontrolled there is no steady intellect or meditation; without peace, how can there be happiness?'
+      english: 'For the uncontrolled there is no steady mind or meditation; without peace, how can there be happiness?'
     },
     {
       verse_number: '67',
@@ -413,13 +413,13 @@ export const chapter2: ChapterData = {
       verse_number: '68',
       sanskrit: 'तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः । इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ॥',
       hindi: 'हे महाबाहो, जिसकी इन्द्रियाँ विषयों से पूरी तरह नियंत्रित हैं, उसकी बुद्धि स्थिर होती है।',
-      english: 'O mighty-armed, one whose senses are completely restrained from objects has steady wisdom.'
+      english: 'O mighty-armed, one whose senses are completely controlled from their objects has steady wisdom.'
     },
     {
       verse_number: '69',
       sanskrit: 'या निशा सर्वभूतानां तस्यां जागर्ति संयमी । यस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः ॥',
       hindi: 'जो सभी प्राणियों के लिए रात्रि है, उसमें संयमी जागता है; और जिसमें प्राणी जागते हैं, वह ज्ञानी के लिए रात्रि के समान है।',
-      english: 'What is night for all beings is the time of wakefulness for the self-controlled, and what is wakefulness for others is night for the sage.'
+      english: 'What is night for all beings is the time of awakening for the self-controlled, and what is awakening for others is night for the sage.'
     },
     {
       verse_number: '70',
@@ -437,7 +437,7 @@ export const chapter2: ChapterData = {
       verse_number: '72',
       sanskrit: 'एषा ब्राह्मी स्थिति: पार्थ नैनां प्राप्य विमुह्यति । स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति ॥',
       hindi: 'हे पार्थ, यह ब्रह्मी स्थिति है; इसे प्राप्त होकर मनुष्य मोह में नहीं पड़ता और अंत समय में भी ब्रह्म निर्वाण को प्राप्त करता है।',
-      english: 'O Partha, this is the state of Brahman; attaining it, one is not deluded and even at the end of life attains liberation.'
+      english: 'O Partha, this is the state of Brahman; attaining it, one is not confused and even at the end of life attains liberation.'
     },
     {
       verse_number: 'closing',
