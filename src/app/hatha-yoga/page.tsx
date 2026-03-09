@@ -1,66 +1,92 @@
 import Link from 'next/link';
+import { hathaTopics, hathaGroups } from '@/lib/hathaTopics';
 
 export const metadata = {
-  title: 'Hatha Yoga - Yoga Knowledge Base',
-  description: 'Hatha Yoga section coming soon',
+  title: 'Hatha Yoga - Complete Guide',
+  description: 'Complete guide to Hatha Yoga covering yogic philosophy, psychology, classical yoga, and practical techniques',
 };
 
 export default function HathaYogaPage() {
   return (
-    <div className="animate-fadeIn">
-      {/* Hero Section */}
-      <section className="bg-sage-50">
-        <div className="container-custom section-padding">
-          <div className="max-w-3xl mx-auto text-center">
-            <div className="w-20 h-20 mx-auto mb-6 bg-sage-100 rounded-full flex items-center justify-center">
-              <svg
-                className="w-10 h-10 text-sage-600"
-                fill="none"
-                stroke="currentColor"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                  strokeWidth={1.5}
-                  d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
-                />
-              </svg>
-            </div>
+    <div className="max-w-4xl mx-auto px-4 pt-20 pb-8 lg:pt-12 lg:pb-12 lg:pl-8">
+      {/* Header */}
+      <header className="text-center mb-12">
+        <h1 className="text-3xl md:text-4xl lg:text-5xl font-serif text-gray-900 mb-3 leading-tight">
+          Hatha Yoga
+        </h1>
+        <p className="text-gray-600 max-w-2xl mx-auto leading-relaxed">
+          A comprehensive guide to Hatha Yoga covering yogic philosophy, psychology,
+          classical teachings, and practical techniques including asana, pranayama,
+          mudras, bandhas, and meditation.
+        </p>
+      </header>
 
-            <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif text-gray-900 mb-6 leading-tight">
-              Hatha Yoga
-            </h1>
-            <p className="font-devanagari text-lg md:text-xl text-gray-600 mb-8">
-              हठ योग
-            </p>
-          </div>
+      {/* Introduction */}
+      <section className="mb-12">
+        <div className="card">
+          <h2 className="font-serif text-xl text-gray-900 mb-4">
+            About This Guide
+          </h2>
+          <p className="text-gray-600 leading-relaxed mb-4">
+            This guide covers the complete foundation of Hatha Yoga — from its historical
+            roots and philosophical underpinnings to the practical techniques that form
+            the core of yogic practice.
+          </p>
+          <p className="text-gray-600 leading-relaxed">
+            Explore the Samkhya philosophy, understand the nature of the mind through
+            yogic psychology, study Patanjali&apos;s Yoga Sutras, and learn the classical
+            Hatha Yoga practices including asana, pranayama, mudras, bandhas, shatkarma,
+            and meditation.
+          </p>
         </div>
       </section>
 
-      {/* Coming Soon Section */}
-      <section className="section-padding">
-        <div className="container-custom">
-          <div className="max-w-2xl mx-auto text-center">
-            <div className="card">
-              <h2 className="section-title">Coming Soon</h2>
-              <p className="text-gray-600 mb-6">
-                This section is currently under development. We are preparing detailed
-                Hatha Yoga content including classical asanas, pranayama techniques,
-                and traditional teachings.
-              </p>
-              <p className="text-gray-500 text-base mb-8">
-                Check back soon for updates!
-              </p>
-              <Link href="/" className="btn-secondary inline-flex items-center gap-2">
-                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
-                </svg>
-                Back to Home
-              </Link>
+      {/* Topic Grid by Group */}
+      {hathaGroups.map((group) => {
+        const groupTopics = hathaTopics.filter(t => t.group === group);
+        return (
+          <section key={group} className="mb-10">
+            <h2 className="section-title mb-6">
+              {group}
+            </h2>
+            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+              {groupTopics.map((topic) => (
+                <Link
+                  key={topic.id}
+                  href={`/hatha-yoga/${topic.id}`}
+                  className="card block hover:shadow-md transition-all duration-200"
+                >
+                  <div className="flex items-start gap-3">
+                    <span className="flex-shrink-0 w-8 h-8 rounded-full bg-sage-100 text-sage-600 text-base flex items-center justify-center font-medium">
+                      {topic.order}
+                    </span>
+                    <div className="min-w-0">
+                      <p className="text-gray-800 leading-tight font-medium">
+                        {topic.title}
+                      </p>
+                      <p className="text-gray-400 text-sm mt-0.5">
+                        {topic.subtitle}
+                      </p>
+                    </div>
+                  </div>
+                </Link>
+              ))}
             </div>
-          </div>
-        </div>
+          </section>
+        );
+      })}
+
+      {/* Start Reading CTA */}
+      <section className="mt-12 text-center">
+        <Link
+          href="/hatha-yoga/introduction-to-yoga"
+          className="btn-primary inline-flex items-center gap-2"
+        >
+          Start Reading
+          <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+          </svg>
+        </Link>
       </section>
     </div>
   );

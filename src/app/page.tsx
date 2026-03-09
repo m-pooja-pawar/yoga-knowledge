@@ -22,11 +22,11 @@ const sections = [
   {
     id: 'hatha-yoga',
     title: 'Hatha Yoga',
-    description: 'Detailed Hatha Yoga teachings covering classical asanas, pranayama techniques, and traditional practices. Coming soon.',
-    count: null,
-    countLabel: null,
+    description: 'A 25-topic guide covering yogic philosophy, Samkhya, gunas, chakras, doshas, yogic psychology, Patanjali Yoga Sutras, asana, pranayama, mudras, bandhas, and meditation.',
+    count: 25,
+    countLabel: 'Topics',
     href: '/hatha-yoga',
-    available: false,
+    available: true,
   },
 ];
 
