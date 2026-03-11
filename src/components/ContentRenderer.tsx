@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import { ContentSection } from '@/lib/prenatalTypes';
 import ImageLightbox from './ImageLightbox';
 
@@ -176,6 +177,18 @@ export default function ContentRenderer({ sections }: ContentRendererProps) {
                 <p className="text-gray-700 text-base leading-relaxed">
                   <strong className="text-sage-700">Note:</strong> {section.content}
                 </p>
+              </div>
+            );
+
+          case 'cards':
+            return (
+              <div key={index} className="grid grid-cols-1 sm:grid-cols-2 gap-4 my-4">
+                {section.cardItems?.map((card, i) => (
+                  <Link key={i} href={card.href} className="block bg-sage-50/50 hover:bg-sage-100/70 border border-sage-200 rounded-lg p-5 transition-colors">
+                    <h4 className="text-base font-semibold text-gray-900 mb-1">{card.title}</h4>
+                    <p className="text-sm text-gray-500">{card.subtitle}</p>
+                  </Link>
+                ))}
               </div>
             );
 

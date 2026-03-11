@@ -12,7 +12,7 @@ export default function HathaTopicNavigation({ currentTopicId }: HathaTopicNavig
     <nav className="flex justify-between items-center py-8 border-t border-sage-200 mt-12" aria-label="Topic navigation">
       {prev ? (
         <Link
-          href={`/hatha-yoga/${prev.id}`}
+          href={prev.href ?? `/hatha-yoga/${prev.id}`}
           className="group flex items-center gap-3 text-gray-600 hover:text-sage-600 transition-colors"
         >
           <span className="flex items-center justify-center w-10 h-10 rounded-full bg-sage-100 group-hover:bg-sage-200 transition-colors">
@@ -31,7 +31,7 @@ export default function HathaTopicNavigation({ currentTopicId }: HathaTopicNavig
 
       {next ? (
         <Link
-          href={`/hatha-yoga/${next.id}`}
+          href={next.href ?? `/hatha-yoga/${next.id}`}
           className="group flex items-center gap-3 text-gray-600 hover:text-sage-600 transition-colors"
         >
           <div className="hidden sm:block text-right">

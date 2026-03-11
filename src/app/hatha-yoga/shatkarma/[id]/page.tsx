@@ -27,11 +27,11 @@ export async function generateMetadata({ params }: TopicPageProps): Promise<Meta
 
 export async function generateStaticParams() {
   return hathaTopics
-    .filter((topic) => !topic.parentId)
+    .filter((topic) => topic.parentId === 'shatkarma')
     .map((topic) => ({ id: topic.id }));
 }
 
-export default async function TopicPage({ params }: TopicPageProps) {
+export default async function ShatkarmaSubTopicPage({ params }: TopicPageProps) {
   const resolvedParams = await params;
   const topicId = resolvedParams.id;
 
@@ -50,7 +50,7 @@ export default async function TopicPage({ params }: TopicPageProps) {
       {/* Topic Header */}
       <header className="mb-10 text-center lg:text-left">
         <div className="inline-block bg-sage-100 text-sage-600 text-base font-medium px-3 py-1 rounded-full mb-4">
-          Topic {topic.order} of {hathaTopics.length}
+          Shatkarma {topic.subOrder} of {hathaTopics.filter(t => t.parentId === 'shatkarma').length}
         </div>
         <h1 className="text-2xl md:text-3xl lg:text-4xl font-serif text-gray-900 leading-tight">
           {content.title}

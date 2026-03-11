@@ -24,6 +24,13 @@ import { bandhas } from './bandhas';
 import { shatkarma } from './shatkarma';
 import { meditation } from './meditation';
 import { samadhi } from './samadhi';
+import { hathaYogaOverview } from './hatha-yoga-overview';
+import { dhauti } from './dhauti';
+import { basti } from './basti';
+import { neti } from './neti';
+import { trataka } from './trataka';
+import { nauli } from './nauli';
+import { kapalbhati } from './kapalbhati';
 
 export const hathaContent: Record<string, TopicContent> = {
   'introduction-to-yoga': introductionToYoga,
@@ -51,6 +58,13 @@ export const hathaContent: Record<string, TopicContent> = {
   'shatkarma': shatkarma,
   'meditation': meditation,
   'samadhi': samadhi,
+  'hatha-yoga-overview': hathaYogaOverview,
+  'dhauti': dhauti,
+  'basti': basti,
+  'neti': neti,
+  'trataka': trataka,
+  'nauli': nauli,
+  'kapalbhati': kapalbhati,
 };
 
 export function getHathaTopicContent(id: string): TopicContent | undefined {
