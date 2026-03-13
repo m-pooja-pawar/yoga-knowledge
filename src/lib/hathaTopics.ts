@@ -43,6 +43,10 @@ export const hathaTopics: HathaTopic[] = [
   { id: 'trataka', title: 'Trataka', subtitle: 'Steady Gazing Practice', order: 30, subOrder: 4, group: 'Hatha Yoga Practices', parentId: 'shatkarma', href: '/hatha-yoga/shatkarma/trataka' },
   { id: 'nauli', title: 'Nauli', subtitle: 'Abdominal Cleansing', order: 31, subOrder: 5, group: 'Hatha Yoga Practices', parentId: 'shatkarma', href: '/hatha-yoga/shatkarma/nauli' },
   { id: 'kapalbhati', title: 'Kapalbhati', subtitle: 'Cleansing Breath Technique', order: 32, subOrder: 6, group: 'Hatha Yoga Practices', parentId: 'shatkarma', href: '/hatha-yoga/shatkarma/kapalbhati' },
+  { id: 'jalandhara-bandha', title: 'Jalandhara Bandha', subtitle: 'Throat Lock', order: 33, subOrder: 1, group: 'Hatha Yoga Practices', parentId: 'bandhas', href: '/hatha-yoga/bandhas/jalandhara-bandha' },
+  { id: 'uddiyana-bandha', title: 'Uddiyana Bandha', subtitle: 'Abdominal Lock', order: 34, subOrder: 2, group: 'Hatha Yoga Practices', parentId: 'bandhas', href: '/hatha-yoga/bandhas/uddiyana-bandha' },
+  { id: 'mula-bandha', title: 'Mula Bandha', subtitle: 'Root Lock', order: 35, subOrder: 3, group: 'Hatha Yoga Practices', parentId: 'bandhas', href: '/hatha-yoga/bandhas/mula-bandha' },
+  { id: 'maha-bandha', title: 'Maha Bandha', subtitle: 'Great Lock', order: 36, subOrder: 4, group: 'Hatha Yoga Practices', parentId: 'bandhas', href: '/hatha-yoga/bandhas/maha-bandha' },
 ];
 
 export function getHathaTopicById(id: string): HathaTopic | undefined {
