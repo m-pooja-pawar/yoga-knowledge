@@ -2,14 +2,19 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { useState } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { chapters } from '@/lib/bhagavadGitaChapters';
 
 export default function BhagavadGitaSidebar() {
   const pathname = usePathname();
   const [isOpen, setIsOpen] = useState(false);
+  const activeRef = useRef<HTMLAnchorElement>(null);
 
   const currentChapterId = pathname.match(/\/bhagavad-gita\/(chapter-\d+)/)?.[1];
+
+  useEffect(() => {
+    activeRef.current?.scrollIntoView({ block: 'nearest' });
+  }, [pathname]);
 
   return (
     <>
@@ -112,6 +117,7 @@ export default function BhagavadGitaSidebar() {
                 <li key={chapter.id}>
                   <Link
                     href={`/bhagavad-gita/${chapter.id}`}
+                    ref={isActive ? activeRef : undefined}
                     onClick={() => setIsOpen(false)}
                     className={`block px-4 py-3 rounded-lg transition-all duration-200 hover:bg-sage-50 flex items-start gap-3 ${
                       isActive ? 'bg-sage-100 text-gray-900 font-medium' : ''
