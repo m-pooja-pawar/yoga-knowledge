@@ -7,12 +7,12 @@ export const chakras: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'In yogic philosophy, Chakras are subtle energy centers within the body through which prana (vital life energy) flows and is regulated. The word Chakra comes from Sanskrit and means \u201Cwheel\u201D or \u201Cdisc.\u201D These energy centers are often described as spinning wheels of energy that influence both physical and psychological functions.',
+        'In yogic philosophy, Chakras are subtle energy centers within the body through which [prana](/hatha-yoga/prana-system) (vital life energy) flows and is regulated. The word Chakra comes from Sanskrit and means \u201Cwheel\u201D or \u201Cdisc.\u201D These energy centers are often described as spinning wheels of energy that influence both physical and psychological functions.',
     },
     {
       type: 'paragraph',
       content:
-        'Chakras are located along the central energy channel known as Sushumna Nadi, which runs through the spine from its base to the crown of the head. Each chakra is associated with specific physical regions, psychological qualities, and levels of consciousness.',
+        'Chakras are located along the central energy channel known as [Sushumna Nadi](/hatha-yoga/nadis), which runs through the spine from its base to the crown of the head. Each chakra is associated with specific physical regions, psychological qualities, and levels of consciousness.',
     },
     {
       type: 'paragraph',

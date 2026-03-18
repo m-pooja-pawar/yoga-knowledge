@@ -7,7 +7,7 @@ export const bandhas: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'Bandhas are important practices in Hatha Yoga used to control and direct the flow of prana (vital energy) within the body. The Sanskrit word Bandha means lock, bind, or seal.',
+        'Bandhas are important practices in Hatha Yoga used to control and direct the flow of [prana (vital energy)](/hatha-yoga/prana-system) within the body. The Sanskrit word Bandha means lock, bind, or seal.',
     },
     {
       type: 'paragraph',
@@ -49,7 +49,7 @@ export const bandhas: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'In the Hatha Yoga tradition, the flow of prana moves through subtle channels known as nadis. Bandhas influence this flow by applying controlled muscular locks that redirect the movement of energy.',
+        'In the Hatha Yoga tradition, the flow of prana moves through [subtle channels known as nadis](/hatha-yoga/nadis). Bandhas influence this flow by applying controlled muscular locks that redirect the movement of energy.',
     },
     {
       type: 'paragraph',

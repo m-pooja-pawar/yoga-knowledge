@@ -229,7 +229,7 @@ export const samkhyaPhilosophy: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'The interaction of these three gunas creates the diversity of nature and shapes human behavior and mental states.',
+        'The interaction of these [three gunas](/hatha-yoga/three-gunas) creates the diversity of nature and shapes human behavior and mental states.',
     },
 
     { type: 'heading', content: 'Bondage and Liberation' },

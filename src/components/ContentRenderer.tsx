@@ -8,6 +8,38 @@ interface ContentRendererProps {
   sections: ContentSection[];
 }
 
+// Helper function to render inline markdown links [text](url)
+function renderInlineLinks(text: string): React.ReactNode {
+  const pattern = /\[([^\]]+)\]\(([^)]+)\)/g;
+  const parts: React.ReactNode[] = [];
+  let lastIndex = 0;
+  let match: RegExpExecArray | null;
+
+  while ((match = pattern.exec(text)) !== null) {
+    if (match.index > lastIndex) {
+      parts.push(text.slice(lastIndex, match.index));
+    }
+    parts.push(
+      <a
+        key={match.index}
+        href={match[2]}
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-sage-600 hover:text-sage-800 underline underline-offset-2 transition-colors"
+      >
+        {match[1]}
+      </a>
+    );
+    lastIndex = match.index + match[0].length;
+  }
+
+  if (lastIndex < text.length) {
+    parts.push(text.slice(lastIndex));
+  }
+
+  return parts.length > 0 ? parts : text;
+}
+
 // Helper function to parse cell content into list items
 function parseToList(text: string): string[] {
   // Split by common delimiters: periods followed by space and capital, commas, or explicit list markers
@@ -47,7 +79,7 @@ export default function ContentRenderer({ sections }: ContentRendererProps) {
           case 'paragraph':
             return (
               <p key={index} className="text-gray-600 leading-relaxed">
-                {section.content}
+                {renderInlineLinks(section.content ?? '')}
               </p>
             );
 
@@ -57,7 +89,7 @@ export default function ContentRenderer({ sections }: ContentRendererProps) {
                 {section.items?.map((item, i) => (
                   <li key={i} className="flex items-start gap-3">
                     <span className="text-sage-500 mt-1.5">•</span>
-                    <span className="leading-relaxed">{item}</span>
+                    <span className="leading-relaxed">{renderInlineLinks(item)}</span>
                   </li>
                 ))}
               </ul>

@@ -7,7 +7,7 @@ export const mahaBandha: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'Maha Bandha is an advanced yogic practice that combines the three primary bandhas: Jalandhara Bandha, Uddiyana Bandha, and Mula Bandha. The word Maha means great, and Bandha means lock. Together, the term refers to the great lock.',
+        'Maha Bandha is an advanced yogic practice that combines the three primary bandhas: [Jalandhara Bandha](/hatha-yoga/bandhas/jalandhara-bandha), [Uddiyana Bandha](/hatha-yoga/bandhas/uddiyana-bandha), and [Mula Bandha](/hatha-yoga/bandhas/mula-bandha). The word Maha means great, and Bandha means lock. Together, the term refers to the great lock.',
     },
     {
       type: 'paragraph',
@@ -51,7 +51,7 @@ export const mahaBandha: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'Maha Bandha is the combined application of Jalandhara Bandha, Uddiyana Bandha, and Mula Bandha. It is usually practiced in a seated meditative posture.',
+        'Maha Bandha is the combined application of [Jalandhara Bandha](/hatha-yoga/bandhas/jalandhara-bandha), [Uddiyana Bandha](/hatha-yoga/bandhas/uddiyana-bandha), and [Mula Bandha](/hatha-yoga/bandhas/mula-bandha). It is usually practiced in a seated meditative posture.',
     },
     { type: 'subheading', content: 'Steps' },
     {
@@ -61,9 +61,9 @@ export const mahaBandha: TopicContent = {
         'Place the hands on the knees and relax the shoulders.',
         'Take a deep breath in and then exhale completely.',
         'After exhaling, hold the breath out.',
-        'Apply Jalandhara Bandha by gently lowering the chin toward the chest.',
-        'Engage Mula Bandha by contracting the muscles of the pelvic floor.',
-        'Apply Uddiyana Bandha by drawing the abdomen inward and upward under the rib cage.',
+        'Apply [Jalandhara Bandha](/hatha-yoga/bandhas/jalandhara-bandha) by gently lowering the chin toward the chest.',
+        'Engage [Mula Bandha](/hatha-yoga/bandhas/mula-bandha) by contracting the muscles of the pelvic floor.',
+        'Apply [Uddiyana Bandha](/hatha-yoga/bandhas/uddiyana-bandha) by drawing the abdomen inward and upward under the rib cage.',
         'Hold the three locks together comfortably for a few seconds.',
         'To release, first relax the abdomen, then release the pelvic floor contraction, and finally raise the head back to a neutral position.',
         'Inhale slowly and relax the body.',

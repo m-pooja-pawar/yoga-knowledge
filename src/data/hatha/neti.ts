@@ -7,7 +7,7 @@ export const neti: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'Neti is one of the six cleansing techniques of Hatha Yoga known as the Shatkarmas. The word Neti refers to cleansing of the nasal passages.',
+        'Neti is one of the six cleansing techniques of Hatha Yoga known as the [Shatkarmas](/hatha-yoga/shatkarma). The word Neti refers to cleansing of the nasal passages.',
     },
     {
       type: 'paragraph',

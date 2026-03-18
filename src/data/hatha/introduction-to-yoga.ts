@@ -66,7 +66,7 @@ export const introductionToYoga: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'One of the most well-known definitions appears in the Yoga Sutras:',
+        'One of the most well-known definitions appears in the [Yoga Sutras of Patanjali](/patanjali-yoga-sutras):',
     },
     {
       type: 'list',
@@ -84,7 +84,7 @@ export const introductionToYoga: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'The Bhagavad Gita presents yoga from multiple perspectives and emphasizes balance in life. Two important teachings are:',
+        'The [Bhagavad Gita](/bhagavad-gita) presents yoga from multiple perspectives and emphasizes balance in life. Two important teachings are:',
     },
     {
       type: 'list',

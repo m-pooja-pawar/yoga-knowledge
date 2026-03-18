@@ -7,7 +7,7 @@ export const dhauti: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'Dhauti is one of the six cleansing techniques of Hatha Yoga known as the Shatkarmas. The word Dhauti comes from the Sanskrit root dhau, meaning to wash, cleanse, or purify.',
+        'Dhauti is one of the six cleansing techniques of Hatha Yoga known as the [Shatkarmas](/hatha-yoga/shatkarma). The word Dhauti comes from the Sanskrit root dhau, meaning to wash, cleanse, or purify.',
     },
     {
       type: 'paragraph',

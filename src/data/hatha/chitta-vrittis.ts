@@ -17,7 +17,7 @@ export const chittaVrittis: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'The famous definition of yoga from the Yoga Sutras states:',
+        'The famous definition of yoga from the [Yoga Sutras](/hatha-yoga/patanjali-yoga-sutras) states:',
     },
     {
       type: 'list',
@@ -40,7 +40,7 @@ export const chittaVrittis: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'The Yoga Sutras describe five types of mental modifications that occur in the mind. These vrittis may be either helpful or harmful depending on how they influence the mind.',
+        'The [Yoga Sutras](/hatha-yoga/patanjali-yoga-sutras) describe five types of mental modifications that occur in the mind. These vrittis may be either helpful or harmful depending on how they influence the mind.',
     },
     {
       type: 'paragraph',

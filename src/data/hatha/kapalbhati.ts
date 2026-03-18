@@ -7,7 +7,7 @@ export const kapalbhati: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'Kapalbhati is one of the six cleansing techniques of Hatha Yoga known as the Shatkarmas. The word Kapalbhati is composed of two Sanskrit words: kapala, meaning skull or forehead, and bhati, meaning to shine or illuminate.',
+        'Kapalbhati is one of the six cleansing techniques of Hatha Yoga known as the [Shatkarmas](/hatha-yoga/shatkarma). The word Kapalbhati is composed of two Sanskrit words: kapala, meaning skull or forehead, and bhati, meaning to shine or illuminate.',
     },
     {
       type: 'paragraph',

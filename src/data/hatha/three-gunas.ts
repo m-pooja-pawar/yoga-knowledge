@@ -7,12 +7,12 @@ export const threeGunas: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'In Samkhya philosophy, all of nature is composed of three fundamental qualities known as Gunas. These gunas are the basic forces that govern the behavior of matter, energy, and the mind.',
+        'In [Samkhya philosophy](/hatha-yoga/samkhya-philosophy), all of nature is composed of three fundamental qualities known as Gunas. These gunas are the basic forces that govern the behavior of matter, energy, and the mind.',
     },
     {
       type: 'paragraph',
       content:
-        'The word Guna means quality, attribute, or tendency. According to Samkhya, the entire universe, including the human body and mind, is influenced by the interaction of these three gunas.',
+        'The word Guna means quality, attribute, or tendency. According to [Samkhya](/hatha-yoga/samkhya-philosophy), the entire universe, including the human body and mind, is influenced by the interaction of these three gunas.',
     },
     {
       type: 'paragraph',

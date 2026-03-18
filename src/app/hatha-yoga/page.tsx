@@ -43,34 +43,63 @@ export default function HathaYogaPage() {
 
       {/* Topic Grid by Group */}
       {hathaGroups.map((group) => {
-        const groupTopics = hathaTopics.filter(t => t.group === group);
+        const groupTopics = hathaTopics.filter(t => t.group === group && !t.parentId);
         return (
           <section key={group} className="mb-10">
             <h2 className="section-title mb-6">
               {group}
             </h2>
-            <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
-              {groupTopics.map((topic) => (
-                <Link
-                  key={topic.id}
-                  href={`/hatha-yoga/${topic.id}`}
-                  className="card block hover:shadow-md transition-all duration-200"
-                >
-                  <div className="flex items-start gap-3">
-                    <span className="flex-shrink-0 w-8 h-8 rounded-full bg-sage-100 text-sage-600 text-base flex items-center justify-center font-medium">
-                      {topic.order}
-                    </span>
-                    <div className="min-w-0">
-                      <p className="text-gray-800 leading-tight font-medium">
-                        {topic.title}
-                      </p>
-                      <p className="text-gray-400 text-sm mt-0.5">
-                        {topic.subtitle}
-                      </p>
-                    </div>
+            <div className="space-y-3">
+              {groupTopics.map((topic) => {
+                const subTopics = hathaTopics.filter(t => t.parentId === topic.id);
+                return (
+                  <div key={topic.id}>
+                    <Link
+                      href={topic.href ?? `/hatha-yoga/${topic.id}`}
+                      className="card block hover:shadow-md transition-all duration-200"
+                    >
+                      <div className="flex items-start gap-3">
+                        <span className="flex-shrink-0 w-8 h-8 rounded-full bg-sage-100 text-sage-600 text-base flex items-center justify-center font-medium">
+                          {topic.order}
+                        </span>
+                        <div className="min-w-0">
+                          <p className="text-gray-800 leading-tight font-medium">
+                            {topic.title}
+                          </p>
+                          <p className="text-gray-400 text-sm mt-0.5">
+                            {topic.subtitle}
+                          </p>
+                        </div>
+                      </div>
+                    </Link>
+                    {subTopics.length > 0 && (
+                      <div className="ml-6 mt-2 pl-3 border-l border-sage-100 grid sm:grid-cols-2 lg:grid-cols-3 gap-2">
+                        {subTopics.map((sub) => (
+                          <Link
+                            key={sub.id}
+                            href={sub.href ?? `/hatha-yoga/${sub.id}`}
+                            className="card block hover:shadow-md transition-all duration-200 py-2 px-3"
+                          >
+                            <div className="flex items-start gap-2">
+                              <span className="flex-shrink-0 w-6 h-6 rounded-full bg-sage-50 text-sage-500 text-xs flex items-center justify-center font-medium">
+                                {sub.subOrder}
+                              </span>
+                              <div className="min-w-0">
+                                <p className="text-gray-800 text-sm leading-tight font-medium">
+                                  {sub.title}
+                                </p>
+                                <p className="text-gray-400 text-xs mt-0.5">
+                                  {sub.subtitle}
+                                </p>
+                              </div>
+                            </div>
+                          </Link>
+                        ))}
+                      </div>
+                    )}
                   </div>
-                </Link>
-              ))}
+                );
+              })}
             </div>
           </section>
         );

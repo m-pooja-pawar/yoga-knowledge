@@ -12,12 +12,12 @@ export const kleshas: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'According to the teachings of the Yoga Sutras, these afflictions disturb the mind and prevent a person from perceiving reality clearly. They influence thoughts, emotions, actions, and behavior, creating patterns that lead to suffering.',
+        'According to the teachings of the [Yoga Sutras](/hatha-yoga/patanjali-yoga-sutras), these afflictions disturb the mind and prevent a person from perceiving reality clearly. They influence thoughts, emotions, actions, and behavior, creating patterns that lead to suffering.',
     },
     {
       type: 'paragraph',
       content:
-        'The Yoga Sutras identify five primary Kleshas that affect the mind and bind individuals to cycles of attachment and dissatisfaction.',
+        'The [Yoga Sutras](/hatha-yoga/patanjali-yoga-sutras) identify five primary Kleshas that affect the mind and bind individuals to cycles of attachment and dissatisfaction.',
     },
 
     { type: 'heading', content: 'The Five Kleshas' },

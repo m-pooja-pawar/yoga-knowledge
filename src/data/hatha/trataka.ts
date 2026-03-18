@@ -7,7 +7,7 @@ export const trataka: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'Trataka is one of the six cleansing techniques of Hatha Yoga known as the Shatkarmas. The word Trataka means steady or focused gazing.',
+        'Trataka is one of the six cleansing techniques of Hatha Yoga known as the [Shatkarmas](/hatha-yoga/shatkarma). The word Trataka means steady or focused gazing.',
     },
     {
       type: 'paragraph',

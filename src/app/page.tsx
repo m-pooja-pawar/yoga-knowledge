@@ -2,30 +2,31 @@ import Link from 'next/link';
 
 const sections = [
   {
+    id: 'hatha-yoga',
+    title: 'Hatha Yoga',
+    description: 'A complete guide covering yogic philosophy, Samkhya, gunas, prana system, nadis, chakras, doshas, yogic psychology, and Hatha Yoga practices — including shatkarma, asana, pranayama, mudras, bandhas, and meditation.',
+    href: '/hatha-yoga',
+    available: true,
+  },
+  {
+    id: 'patanjali-yoga-sutras',
+    title: 'Patanjali Yoga Sutras',
+    description: 'A structured guide to the Yoga Sutras of Patanjali — covering the four padas, ashtanga yoga, the nature of mind, and the path to samadhi.',
+    href: '/patanjali-yoga-sutras',
+    available: false,
+  },
+  {
     id: 'bhagavad-gita',
     title: 'Srimad Bhagavad Gita',
     description: 'Read all 700 verses across 18 chapters — each verse presented in original Sanskrit with Hindi and English translations. From Arjuna\'s dilemma to the path of moksha.',
-    count: 18,
-    countLabel: 'Chapters',
     href: '/bhagavad-gita',
     available: true,
   },
   {
     id: 'prenatal-yoga',
     title: 'Prenatal Yoga',
-    description: 'A 27-topic guide covering trimester-wise asanas, pranayama, mudras, pelvic floor exercises, garbhsanskar, yoga nidra, labor preparation, breastfeeding, and postnatal recovery.',
-    count: 27,
-    countLabel: 'Topics',
+    description: 'A guide covering trimester-wise asanas, pranayama, mudras, pelvic floor exercises, garbhsanskar, yoga nidra, labor preparation, breastfeeding, and postnatal recovery.',
     href: '/prenatal-yoga',
-    available: true,
-  },
-  {
-    id: 'hatha-yoga',
-    title: 'Hatha Yoga',
-    description: 'A 25-topic guide covering yogic philosophy, Samkhya, gunas, chakras, doshas, yogic psychology, Patanjali Yoga Sutras, asana, pranayama, mudras, bandhas, and meditation.',
-    count: 25,
-    countLabel: 'Topics',
-    href: '/hatha-yoga',
     available: true,
   },
 ];
@@ -41,8 +42,7 @@ export default function Home() {
               Yoga Knowledge Base
             </h1>
             <p className="text-lg md:text-xl text-gray-600 mb-8 leading-relaxed">
-              Explore the Srimad Bhagavad Gita with 700 verses in Sanskrit, Hindi, and English
-              — alongside a complete prenatal yoga guide with 27 detailed topics.
+              Explore our growing yoga knowledge base — covering Hatha Yoga, the Bhagavad Gita, Prenatal Yoga, and more.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="#collections" className="btn-primary">
@@ -62,14 +62,19 @@ export default function Home() {
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="section-title">What You Will Find Here</h2>
             <p className="text-gray-600 leading-relaxed mb-6">
+              A complete Hatha Yoga guide — covering yogic philosophy, Samkhya, gunas, prana system,
+              nadis, chakras, doshas, yogic psychology, and classical Hatha Yoga practices including
+              shatkarma, asana, pranayama, mudras, bandhas, and meditation.
+            </p>
+            <p className="text-gray-600 leading-relaxed mb-6">
               The complete Srimad Bhagavad Gita — all 18 chapters and 700 verses with original
               Sanskrit text, Hindi translation, and English meaning. Follow the dialogue between
               Lord Krishna and Arjuna on dharma, karma, devotion, and the path to liberation.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              A detailed prenatal yoga guide spanning 27 topics — from trimester-specific asanas
-              and pranayama to mudras, garbhsanskar, yoga nidra, labor preparation, breastfeeding,
-              and postnatal recovery. Designed for practitioners and teachers alike.
+              A detailed prenatal yoga guide — from trimester-specific asanas and pranayama to
+              mudras, garbhsanskar, yoga nidra, labor preparation, breastfeeding, and postnatal
+              recovery. Designed for practitioners and teachers alike.
             </p>
           </div>
         </div>
@@ -84,7 +89,7 @@ export default function Home() {
               Browse through our growing library of yoga texts and teachings
             </p>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {sections.map((section) => (
               <SectionCard key={section.id} section={section} />
             ))}
@@ -137,10 +142,7 @@ function SectionCard({ section }: { section: typeof sections[0] }) {
       </div>
       <h3 className="font-serif text-xl text-gray-900 mb-2">{section.title}</h3>
       <p className="text-gray-600 text-base leading-relaxed">{section.description}</p>
-      {section.count && section.countLabel && (
-        <p className="text-gray-500 text-base mt-3">{section.count} {section.countLabel}</p>
-      )}
-      {section.available ? (
+{section.available ? (
         <span className="inline-block mt-4 text-sage-600 text-base font-medium">
           Explore &rarr;
         </span>

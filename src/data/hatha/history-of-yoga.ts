@@ -7,7 +7,7 @@ export const historyOfYoga: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'Yoga has developed over thousands of years as a system of philosophy and spiritual practice. Its roots can be traced through many ancient Indian texts and traditions, including the Vedas, Upanishads, Puranas, Bhagavad Gita, and the Yoga Sutras of Patanjali. Over time these teachings evolved and eventually gave rise to the practical traditions of Hatha Yoga.',
+        'Yoga has developed over thousands of years as a system of philosophy and spiritual practice. Its roots can be traced through many ancient Indian texts and traditions, including the Vedas, Upanishads, Puranas, [Bhagavad Gita](/bhagavad-gita), and the [Yoga Sutras of Patanjali](/patanjali-yoga-sutras). Over time these teachings evolved and eventually gave rise to the practical traditions of Hatha Yoga.',
     },
     {
       type: 'paragraph',
@@ -101,7 +101,7 @@ export const historyOfYoga: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'The Bhagavad Gita, one of the most influential spiritual texts in India, presents yoga as a path to spiritual realization while living an active life.',
+        'The [Bhagavad Gita](/bhagavad-gita), one of the most influential spiritual texts in India, presents yoga as a path to spiritual realization while living an active life.',
     },
     {
       type: 'paragraph',
@@ -111,9 +111,9 @@ export const historyOfYoga: TopicContent = {
     {
       type: 'list',
       items: [
-        'Karma Yoga \u2014 the path of selfless action',
-        'Bhakti Yoga \u2014 the path of devotion',
-        'Jnana Yoga \u2014 the path of knowledge',
+        '[Karma Yoga](/bhagavad-gita/chapter-3) \u2014 the path of selfless action',
+        '[Bhakti Yoga](/bhagavad-gita/chapter-12) \u2014 the path of devotion',
+        '[Jnana Yoga](/bhagavad-gita/chapter-2) \u2014 the path of knowledge',
       ],
     },
     {
@@ -126,7 +126,7 @@ export const historyOfYoga: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'Around the early centuries of the Common Era, the sage Patanjali compiled the teachings of yoga into a systematic philosophical text known as the Yoga Sutras.',
+        'Around the early centuries of the Common Era, the sage Patanjali compiled the teachings of yoga into a systematic philosophical text known as the [Yoga Sutras](/patanjali-yoga-sutras).',
     },
     {
       type: 'paragraph',
@@ -202,8 +202,8 @@ export const historyOfYoga: TopicContent = {
         'Vedas introduced early spiritual concepts and discipline.',
         'Upanishads explored meditation and the nature of the self.',
         'Puranas spread yogic ideas through stories and teachings.',
-        'Bhagavad Gita presented different paths of yoga.',
-        'Patanjali\u2019s Yoga Sutras systematized yoga philosophy.',
+        '[Bhagavad Gita](/bhagavad-gita) presented different paths of yoga.',
+        'Patanjali\u2019s [Yoga Sutras](/patanjali-yoga-sutras) systematized yoga philosophy.',
         'Hatha Yoga texts developed practical techniques for body, breath, and energy.',
       ],
     },

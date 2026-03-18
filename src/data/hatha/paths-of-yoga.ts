@@ -22,7 +22,7 @@ export const pathsOfYoga: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'The most commonly described paths of yoga are Karma Yoga, Bhakti Yoga, Jnana Yoga, Raja Yoga, and Hatha Yoga.',
+        'The most commonly described paths of yoga are [Karma Yoga](/bhagavad-gita/chapter-3), [Bhakti Yoga](/bhagavad-gita/chapter-12), [Jnana Yoga](/bhagavad-gita/chapter-2), Raja Yoga, and Hatha Yoga.',
     },
 
     { type: 'heading', content: 'Karma Yoga' },
@@ -120,7 +120,7 @@ export const pathsOfYoga: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'This path is closely associated with the teachings of Patanjali\u2019s Yoga Sutras, which describe the Eightfold Path of Yoga (Ashtanga Yoga).',
+        'This path is closely associated with the teachings of [Patanjali\u2019s Yoga Sutras](/hatha-yoga/patanjali-yoga-sutras), which describe the Eightfold Path of Yoga (Ashtanga Yoga).',
     },
     {
       type: 'paragraph',
@@ -149,7 +149,7 @@ export const pathsOfYoga: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'Hatha Yoga is the path of physical and energetic discipline. It emphasizes practices that purify and strengthen the body while regulating the flow of prana (vital energy).',
+        'Hatha Yoga is the path of physical and energetic discipline. It emphasizes practices that purify and strengthen the body while regulating the flow of [prana](/hatha-yoga/prana-system) (vital energy).',
     },
     {
       type: 'paragraph',
@@ -189,9 +189,9 @@ export const pathsOfYoga: TopicContent = {
     {
       type: 'list',
       items: [
-        'Perform selfless service (Karma Yoga)',
-        'Cultivate devotion (Bhakti Yoga)',
-        'Study and reflect on spiritual teachings (Jnana Yoga)',
+        'Perform selfless service ([Karma Yoga](/bhagavad-gita/chapter-3))',
+        'Cultivate devotion ([Bhakti Yoga](/bhagavad-gita/chapter-12))',
+        'Study and reflect on spiritual teachings ([Jnana Yoga](/bhagavad-gita/chapter-2))',
         'Practice meditation and discipline of mind (Raja Yoga)',
         'Follow physical and energetic practices (Hatha Yoga)',
       ],

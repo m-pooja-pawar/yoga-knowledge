@@ -7,7 +7,7 @@ export const basti: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'Basti is one of the six cleansing techniques of Hatha Yoga known as the Shatkarmas. The word Basti refers to cleansing or purification of the large intestine.',
+        'Basti is one of the six cleansing techniques of Hatha Yoga known as the [Shatkarmas](/hatha-yoga/shatkarma). The word Basti refers to cleansing or purification of the large intestine.',
     },
     {
       type: 'paragraph',

@@ -151,7 +151,7 @@ export const nadis: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'The nadis are closely connected with the chakra system, the major energy centers of the body. The central channel, Sushumna, passes through the chakras along the spine.',
+        'The nadis are closely connected with the [chakra system](/hatha-yoga/chakras), the major energy centers of the body. The central channel, Sushumna, passes through the [chakras](/hatha-yoga/chakras) along the spine.',
     },
     {
       type: 'paragraph',

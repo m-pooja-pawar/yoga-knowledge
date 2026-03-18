@@ -7,7 +7,7 @@ export const nauli: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'Nauli is one of the six cleansing techniques of Hatha Yoga known as the Shatkarmas. The word Nauli refers to the rolling or churning movement of the abdominal muscles.',
+        'Nauli is one of the six cleansing techniques of Hatha Yoga known as the [Shatkarmas](/hatha-yoga/shatkarma). The word Nauli refers to the rolling or churning movement of the abdominal muscles.',
     },
     {
       type: 'paragraph',
@@ -137,7 +137,7 @@ export const nauli: TopicContent = {
     {
       type: 'paragraph',
       content:
-        'Before attempting Nauli, practitioners are usually advised to develop control of the abdominal muscles through preparatory practices such as Uddiyana Bandha and Agnisara.',
+        'Before attempting Nauli, practitioners are usually advised to develop control of the abdominal muscles through preparatory practices such as [Uddiyana Bandha](/hatha-yoga/bandhas/uddiyana-bandha) and Agnisara.',
     },
     {
       type: 'paragraph',
