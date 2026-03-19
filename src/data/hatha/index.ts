@@ -35,6 +35,20 @@ import { jalandharaBandha } from './jalandhara-bandha';
 import { uddiiyanaBandha } from './uddiyana-bandha';
 import { mulaBandha } from './mula-bandha';
 import { mahaBandha } from './maha-bandha';
+import { chinMudra } from './chin-mudra';
+import { jnanaMudra } from './jnana-mudra';
+import { chinmayaMudra } from './chinmaya-mudra';
+import { adiMudra } from './adi-mudra';
+import { brahmaMudra } from './brahma-mudra';
+import { yoniMudra } from './yoni-mudra';
+import { pranaMudra } from './prana-mudra';
+import { apanaMudra } from './apana-mudra';
+import { vayuMudra } from './vayu-mudra';
+import { shunyaMudra } from './shunya-mudra';
+import { prithviMudra } from './prithvi-mudra';
+import { varunaMudra } from './varuna-mudra';
+import { suryaMudra } from './surya-mudra';
+import { jalaMudra } from './jala-mudra';
 
 export const hathaContent: Record<string, TopicContent> = {
   'introduction-to-yoga': introductionToYoga,
@@ -73,6 +87,20 @@ export const hathaContent: Record<string, TopicContent> = {
   'uddiyana-bandha': uddiiyanaBandha,
   'mula-bandha': mulaBandha,
   'maha-bandha': mahaBandha,
+  'chin-mudra': chinMudra,
+  'jnana-mudra': jnanaMudra,
+  'chinmaya-mudra': chinmayaMudra,
+  'adi-mudra': adiMudra,
+  'brahma-mudra': brahmaMudra,
+  'yoni-mudra': yoniMudra,
+  'prana-mudra': pranaMudra,
+  'apana-mudra': apanaMudra,
+  'vayu-mudra': vayuMudra,
+  'shunya-mudra': shunyaMudra,
+  'prithvi-mudra': prithviMudra,
+  'varuna-mudra': varunaMudra,
+  'surya-mudra': suryaMudra,
+  'jala-mudra': jalaMudra,
 };
 
 export function getHathaTopicContent(id: string): TopicContent | undefined {

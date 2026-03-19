@@ -14,14 +14,6 @@ export const mahaBandha: TopicContent = {
       content:
         'By applying all three bandhas simultaneously, Maha Bandha helps regulate and direct the flow of prana throughout the body. This combined lock is considered a powerful practice in Hatha Yoga and is often used in conjunction with pranayama and meditation.',
     },
-
-    {
-      type: 'image',
-      src: '/images/hatha-yoga/bandhas/maha-bandha.png',
-      alt: 'Maha Bandha - The Great Lock',
-      caption: 'Maha Bandha (The Great Lock)',
-    },
-
     { type: 'heading', content: 'Purpose of Maha Bandha' },
     {
       type: 'paragraph',
@@ -48,6 +40,12 @@ export const mahaBandha: TopicContent = {
     },
 
     { type: 'heading', content: 'How to Perform Maha Bandha' },
+    {
+      type: 'image',
+      src: '/images/hatha-yoga/bandhas/maha-bandha.png',
+      alt: 'Maha Bandha - The Great Lock',
+      caption: 'Maha Bandha (The Great Lock)',
+    },
     {
       type: 'paragraph',
       content:

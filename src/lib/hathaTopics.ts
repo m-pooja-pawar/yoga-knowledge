@@ -47,6 +47,20 @@ export const hathaTopics: HathaTopic[] = [
   { id: 'uddiyana-bandha', title: 'Uddiyana Bandha', subtitle: 'Abdominal Lock', order: 34, subOrder: 2, group: 'Hatha Yoga Practices', parentId: 'bandhas', href: '/hatha-yoga/bandhas/uddiyana-bandha' },
   { id: 'mula-bandha', title: 'Mula Bandha', subtitle: 'Root Lock', order: 35, subOrder: 3, group: 'Hatha Yoga Practices', parentId: 'bandhas', href: '/hatha-yoga/bandhas/mula-bandha' },
   { id: 'maha-bandha', title: 'Maha Bandha', subtitle: 'Great Lock', order: 36, subOrder: 4, group: 'Hatha Yoga Practices', parentId: 'bandhas', href: '/hatha-yoga/bandhas/maha-bandha' },
+  { id: 'chin-mudra', title: 'Chin Mudra', subtitle: 'Gesture of Consciousness', order: 37, subOrder: 1, group: 'Hatha Yoga Practices', parentId: 'mudras', href: '/hatha-yoga/mudras/chin-mudra' },
+  { id: 'jnana-mudra', title: 'Jnana Mudra', subtitle: 'Gesture of Knowledge', order: 38, subOrder: 2, group: 'Hatha Yoga Practices', parentId: 'mudras', href: '/hatha-yoga/mudras/jnana-mudra' },
+  { id: 'chinmaya-mudra', title: 'Chinmaya Mudra', subtitle: 'Gesture of Manifested Consciousness', order: 39, subOrder: 3, group: 'Hatha Yoga Practices', parentId: 'mudras', href: '/hatha-yoga/mudras/chinmaya-mudra' },
+  { id: 'adi-mudra', title: 'Adi Mudra', subtitle: 'First or Primal Gesture', order: 40, subOrder: 4, group: 'Hatha Yoga Practices', parentId: 'mudras', href: '/hatha-yoga/mudras/adi-mudra' },
+  { id: 'brahma-mudra', title: 'Brahma Mudra', subtitle: 'Gesture of Brahma', order: 41, subOrder: 5, group: 'Hatha Yoga Practices', parentId: 'mudras', href: '/hatha-yoga/mudras/brahma-mudra' },
+  { id: 'yoni-mudra', title: 'Yoni Mudra', subtitle: 'Gesture of the Source', order: 42, subOrder: 6, group: 'Hatha Yoga Practices', parentId: 'mudras', href: '/hatha-yoga/mudras/yoni-mudra' },
+  { id: 'prana-mudra', title: 'Prana Mudra', subtitle: 'Gesture of Vital Energy', order: 43, subOrder: 7, group: 'Hatha Yoga Practices', parentId: 'mudras', href: '/hatha-yoga/mudras/prana-mudra' },
+  { id: 'apana-mudra', title: 'Apana Mudra', subtitle: 'Gesture of Downward Energy', order: 44, subOrder: 8, group: 'Hatha Yoga Practices', parentId: 'mudras', href: '/hatha-yoga/mudras/apana-mudra' },
+  { id: 'vayu-mudra', title: 'Vayu Mudra', subtitle: 'Gesture of Air', order: 45, subOrder: 9, group: 'Hatha Yoga Practices', parentId: 'mudras', href: '/hatha-yoga/mudras/vayu-mudra' },
+  { id: 'shunya-mudra', title: 'Shunya Mudra', subtitle: 'Gesture of Space', order: 46, subOrder: 10, group: 'Hatha Yoga Practices', parentId: 'mudras', href: '/hatha-yoga/mudras/shunya-mudra' },
+  { id: 'prithvi-mudra', title: 'Prithvi Mudra', subtitle: 'Gesture of Earth', order: 47, subOrder: 11, group: 'Hatha Yoga Practices', parentId: 'mudras', href: '/hatha-yoga/mudras/prithvi-mudra' },
+  { id: 'varuna-mudra', title: 'Varuna Mudra', subtitle: 'Gesture of Water', order: 48, subOrder: 12, group: 'Hatha Yoga Practices', parentId: 'mudras', href: '/hatha-yoga/mudras/varuna-mudra' },
+  { id: 'surya-mudra', title: 'Surya Mudra', subtitle: 'Gesture of Fire', order: 49, subOrder: 13, group: 'Hatha Yoga Practices', parentId: 'mudras', href: '/hatha-yoga/mudras/surya-mudra' },
+  { id: 'jala-mudra', title: 'Jala Mudra', subtitle: 'Gesture of Water (variation)', order: 50, subOrder: 14, group: 'Hatha Yoga Practices', parentId: 'mudras', href: '/hatha-yoga/mudras/jala-mudra' },
 ];
 
 export function getHathaTopicById(id: string): HathaTopic | undefined {

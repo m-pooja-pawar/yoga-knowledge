@@ -19,14 +19,6 @@ export const mulaBandha: TopicContent = {
       content:
         'In yogic philosophy, the root of the subtle energy system is associated with the base of the spine, and Mula Bandha is believed to influence this region.',
     },
-
-    {
-      type: 'image',
-      src: '/images/hatha-yoga/bandhas/mula-bandha.png',
-      alt: 'Mula Bandha - Root Lock',
-      caption: 'Mula Bandha (Root Lock)',
-    },
-
     { type: 'heading', content: 'Purpose of Mula Bandha' },
     {
       type: 'paragraph',
@@ -54,6 +46,12 @@ export const mulaBandha: TopicContent = {
     },
 
     { type: 'heading', content: 'How to Perform Mula Bandha' },
+    {
+      type: 'image',
+      src: '/images/hatha-yoga/bandhas/mula-bandha.png',
+      alt: 'Mula Bandha - Root Lock',
+      caption: 'Mula Bandha (Root Lock)',
+    },
     {
       type: 'paragraph',
       content:

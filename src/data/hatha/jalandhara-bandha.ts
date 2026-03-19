@@ -19,14 +19,6 @@ export const jalandharaBandha: TopicContent = {
       content:
         'Jalandhara Bandha is commonly practiced during pranayama and meditation, where it helps stabilize the breath and regulate internal pressure.',
     },
-
-    {
-      type: 'image',
-      src: '/images/hatha-yoga/bandhas/jalandhara-bandha.png',
-      alt: 'Jalandhara Bandha - Chin Lock',
-      caption: 'Jalandhara Bandha (Chin Lock)',
-    },
-
     { type: 'heading', content: 'Purpose of Jalandhara Bandha' },
     {
       type: 'paragraph',
@@ -53,6 +45,12 @@ export const jalandharaBandha: TopicContent = {
     },
 
     { type: 'heading', content: 'How to Perform Jalandhara Bandha' },
+    {
+      type: 'image',
+      src: '/images/hatha-yoga/bandhas/jalandhara-bandha.png',
+      alt: 'Jalandhara Bandha - Chin Lock',
+      caption: 'Jalandhara Bandha (Chin Lock)',
+    },
     {
       type: 'paragraph',
       content:

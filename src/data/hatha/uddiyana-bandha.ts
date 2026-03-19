@@ -19,14 +19,6 @@ export const uddiiyanaBandha: TopicContent = {
       content:
         'In yogic practice, Uddiyana Bandha is believed to help direct the flow of prana upward through the central energy channel, supporting deeper practices such as pranayama and meditation.',
     },
-
-    {
-      type: 'image',
-      src: '/images/hatha-yoga/bandhas/uddiyana-bandha.png',
-      alt: 'Uddiyana Bandha - Abdominal Lock',
-      caption: 'Uddiyana Bandha (Abdominal Lock)',
-    },
-
     { type: 'heading', content: 'Purpose of Uddiyana Bandha' },
     {
       type: 'paragraph',
@@ -54,6 +46,12 @@ export const uddiiyanaBandha: TopicContent = {
     },
 
     { type: 'heading', content: 'How to Perform Uddiyana Bandha' },
+    {
+      type: 'image',
+      src: '/images/hatha-yoga/bandhas/uddiyana-bandha.png',
+      alt: 'Uddiyana Bandha - Abdominal Lock',
+      caption: 'Uddiyana Bandha (Abdominal Lock)',
+    },
     {
       type: 'paragraph',
       content:
