@@ -27,20 +27,6 @@ export const trataka: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Cleanse and strengthen the eyes',
-        'Improve concentration and mental focus',
-        'Calm the mind',
-        'Reduce restlessness of the eyes and mind',
-        'Prepare the mind for meditation',
-      ],
-    },
-    {
-      type: 'paragraph',
       content: 'Through steady gazing, the mind gradually becomes more stable and attentive.',
     },
 

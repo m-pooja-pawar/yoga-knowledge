@@ -24,19 +24,6 @@ export const prithviMudra: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Promote grounding and steadiness',
-        'Support physical strength and stability',
-        'Balance the earth element',
-        'Improve overall balance in the body',
-      ],
-    },
-    {
-      type: 'paragraph',
       content: 'Prithvi Mudra is often used when the body or mind feels weak, unstable, or ungrounded.',
     },
     {

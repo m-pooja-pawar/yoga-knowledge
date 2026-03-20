@@ -27,20 +27,6 @@ export const nauli: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Strengthen the abdominal muscles',
-        'Stimulate digestive organs',
-        'Improve digestion and elimination',
-        'Regulate the digestive system',
-        'Support internal cleansing',
-      ],
-    },
-    {
-      type: 'paragraph',
       content:
         'Through the rhythmic contraction and movement of the abdominal muscles, Nauli helps activate the digestive system and maintain balance within the body.',
     },

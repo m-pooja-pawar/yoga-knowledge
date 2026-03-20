@@ -24,19 +24,6 @@ export const vayuMudra: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Regulate internal movement and circulation',
-        'Support joint and muscular function',
-        'Promote stability in the body',
-        'Balance the air element',
-      ],
-    },
-    {
-      type: 'paragraph',
       content: 'Vayu Mudra is often used to bring steadiness where there is excess movement or restlessness.',
     },
     {

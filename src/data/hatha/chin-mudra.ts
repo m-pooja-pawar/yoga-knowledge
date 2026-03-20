@@ -24,19 +24,6 @@ export const chinMudra: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Promote mental calmness',
-        'Improve focus and awareness',
-        'Support meditation practices',
-        'Balance the flow of [prana](/hatha-yoga/prana-system)',
-      ],
-    },
-    {
-      type: 'paragraph',
       content: 'Chin Mudra is widely used because it is simple and effective.',
     },
     {

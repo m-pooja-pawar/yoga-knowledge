@@ -27,20 +27,6 @@ export const uddiiyanaBandha: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Stimulate the digestive organs',
-        'Strengthen abdominal muscles',
-        'Regulate the flow of prana',
-        'Support pranayama practices',
-        'Prepare the body for advanced yogic techniques',
-      ],
-    },
-    {
-      type: 'paragraph',
       content:
         'Through the upward movement created in the abdomen, Uddiyana Bandha helps influence the internal energy system.',
     },

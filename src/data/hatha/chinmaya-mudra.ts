@@ -24,19 +24,6 @@ export const chinmayaMudra: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Improve concentration',
-        'Increase awareness of breathing',
-        'Support pranayama practices',
-        'Promote calmness and stability',
-      ],
-    },
-    {
-      type: 'paragraph',
       content: 'Chinmaya Mudra is especially useful when practicing breathing techniques.',
     },
     {

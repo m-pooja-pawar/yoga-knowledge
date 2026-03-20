@@ -27,20 +27,6 @@ export const dhauti: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'These practices help:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Remove impurities from the digestive tract',
-        'Improve digestive function',
-        'Reduce excess mucus and toxins',
-        'Stimulate abdominal organs',
-        'Support overall physical health',
-      ],
-    },
-    {
-      type: 'paragraph',
       content:
         'Since digestion plays a central role in maintaining health, yogic traditions emphasize the importance of keeping the digestive system balanced and clean.',
     },

@@ -25,19 +25,6 @@ export const apanaMudra: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Regulate the downward flow of energy',
-        'Support digestion and elimination',
-        'Promote internal cleansing',
-        'Create a grounding effect',
-      ],
-    },
-    {
-      type: 'paragraph',
       content: 'Apana Mudra is often used to bring stability and balance to the body.',
     },
     {

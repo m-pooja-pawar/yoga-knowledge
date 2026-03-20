@@ -24,19 +24,6 @@ export const brahmaMudra: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Improve awareness of the breath',
-        'Support pranayama practices',
-        'Promote calmness and stability',
-        'Encourage balanced energy flow',
-      ],
-    },
-    {
-      type: 'paragraph',
       content:
         'Brahma Mudra is often used in breathing practices where attention is brought to the movement of the breath in the abdomen.',
     },

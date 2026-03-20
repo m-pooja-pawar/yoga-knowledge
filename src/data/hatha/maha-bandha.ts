@@ -22,19 +22,6 @@ export const mahaBandha: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Direct prana through the central energy channel',
-        'Stabilize the breath during pranayama',
-        'Improve control over the subtle energy system',
-        'Deepen concentration during yogic practices',
-      ],
-    },
-    {
-      type: 'paragraph',
       content:
         'By combining the three bandhas, the practitioner creates a unified energetic lock that influences the entire body.',
     },

@@ -24,19 +24,6 @@ export const adiMudra: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Promote relaxation',
-        'Reduce mental restlessness',
-        'Support slow and deep breathing',
-        'Prepare the mind for meditation',
-      ],
-    },
-    {
-      type: 'paragraph',
       content:
         'Adi Mudra is often used at the beginning of practice to bring the body and mind into a relaxed state.',
     },

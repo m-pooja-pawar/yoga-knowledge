@@ -27,20 +27,6 @@ export const mulaBandha: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Strengthen the pelvic floor muscles',
-        'Support the upward movement of prana',
-        'Stabilize the body during meditation',
-        'Improve awareness of the lower body',
-        'Assist in pranayama practices',
-      ],
-    },
-    {
-      type: 'paragraph',
       content:
         'By activating the base of the body, Mula Bandha helps create stability and balance within the energy system.',
     },

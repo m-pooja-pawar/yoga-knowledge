@@ -24,19 +24,6 @@ export const varunaMudra: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Support fluid balance',
-        'Promote smooth functioning of bodily systems',
-        'Enhance adaptability and flexibility',
-        'Balance the water element',
-      ],
-    },
-    {
-      type: 'paragraph',
       content: 'Varuna Mudra is often used to bring harmony and balance to the body.',
     },
     {

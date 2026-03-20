@@ -29,19 +29,6 @@ export const jnanaMudra: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Improve focus and mental clarity',
-        'Promote a calm and steady mind',
-        'Support meditation practices',
-        'Encourage awareness and understanding',
-      ],
-    },
-    {
-      type: 'paragraph',
       content: 'Jnana Mudra is often used when the goal is to deepen inner observation and knowledge.',
     },
     {

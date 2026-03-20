@@ -27,20 +27,6 @@ export const neti: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'These practices help:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Remove dust, mucus, and impurities from the nasal cavity',
-        'Improve airflow through the nostrils',
-        'Support healthy breathing',
-        'Reduce nasal congestion',
-        'Prepare the body for pranayama practices',
-      ],
-    },
-    {
-      type: 'paragraph',
       content:
         'Clear nasal passages allow the breath to flow more freely, which is essential for many yogic breathing techniques.',
     },

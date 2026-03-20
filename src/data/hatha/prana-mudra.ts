@@ -24,19 +24,6 @@ export const pranaMudra: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Enhance energy levels',
-        'Support overall vitality',
-        'Balance the internal energy system',
-        'Support meditation and pranayama practices',
-      ],
-    },
-    {
-      type: 'paragraph',
       content: 'Prana Mudra is often used when the body feels low in energy or needs activation.',
     },
     {

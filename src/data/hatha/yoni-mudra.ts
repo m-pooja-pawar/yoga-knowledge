@@ -24,19 +24,6 @@ export const yoniMudra: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Reduce external distractions',
-        'Promote inner awareness',
-        'Support meditation practices',
-        'Calm the mind and nervous system',
-      ],
-    },
-    {
-      type: 'paragraph',
       content:
         'Yoni Mudra is especially useful when practicing techniques that require deep concentration and introspection.',
     },

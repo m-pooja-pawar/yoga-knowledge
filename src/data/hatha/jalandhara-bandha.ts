@@ -27,19 +27,6 @@ export const jalandharaBandha: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Regulate the flow of energy between the head and torso',
-        'Stabilize the breath during pranayama',
-        'Maintain proper pressure in the throat and chest region',
-        'Support concentration during meditation',
-      ],
-    },
-    {
-      type: 'paragraph',
       content:
         'By applying this lock, the practitioner can maintain steadiness of breath and energy during yogic practices.',
     },

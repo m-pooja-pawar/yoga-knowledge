@@ -27,20 +27,6 @@ export const kapalbhati: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Remove mucus from the respiratory passages',
-        'Improve lung capacity',
-        'Stimulate abdominal organs',
-        'Increase circulation of prana',
-        'Prepare the body for pranayama',
-      ],
-    },
-    {
-      type: 'paragraph',
       content:
         'Through rhythmic breathing and abdominal movement, Kapalbhati helps maintain both respiratory health and energetic balance.',
     },

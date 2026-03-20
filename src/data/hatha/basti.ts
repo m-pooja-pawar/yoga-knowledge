@@ -27,20 +27,6 @@ export const basti: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Remove accumulated waste from the colon',
-        'Support healthy bowel function',
-        'Improve digestion and elimination',
-        'Balance the digestive system',
-        'Support overall physical well-being',
-      ],
-    },
-    {
-      type: 'paragraph',
       content:
         'In the yogic system, maintaining cleanliness of the digestive tract is considered essential for both physical health and effective yogic practice.',
     },

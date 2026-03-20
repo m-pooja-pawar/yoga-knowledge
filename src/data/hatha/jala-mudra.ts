@@ -29,19 +29,6 @@ export const jalaMudra: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Support hydration and fluid balance',
-        'Promote smooth functioning of bodily systems',
-        'Enhance adaptability and flexibility',
-        'Maintain internal harmony',
-      ],
-    },
-    {
-      type: 'paragraph',
       content: 'Jala Mudra is often used to bring balance when there is dryness or imbalance in the body.',
     },
     {

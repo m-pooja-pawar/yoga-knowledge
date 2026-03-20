@@ -25,19 +25,6 @@ export const suryaMudra: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Enhance internal heat and energy',
-        'Support metabolism',
-        'Improve digestion',
-        'Promote alertness and activity',
-      ],
-    },
-    {
-      type: 'paragraph',
       content: 'Surya Mudra is often used when the body feels sluggish or low in energy.',
     },
     {

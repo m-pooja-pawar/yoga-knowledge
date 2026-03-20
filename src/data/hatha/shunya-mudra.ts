@@ -24,19 +24,6 @@ export const shunyaMudra: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'This practice helps:',
-    },
-    {
-      type: 'list',
-      items: [
-        'Regulate the sense of space and lightness',
-        'Support balance and coordination',
-        'Promote internal awareness',
-        'Stabilize subtle energy flow',
-      ],
-    },
-    {
-      type: 'paragraph',
       content: 'Shunya Mudra is often used to create a sense of inner balance and calmness.',
     },
     {
