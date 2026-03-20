@@ -251,7 +251,7 @@ export const chapter2: ChapterData = {
       verse_number: '41',
       sanskrit: 'व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन । बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ॥',
       hindi: 'हे कुरुनन्दन, इस मार्ग में दृढ़ निश्चय वाली बुद्धि एक ही होती है। लेकिन अस्थिर मन वाले लोगों की बुद्धि कई दिशाओं में भटकती रहती है।',
-      english: 'O son of Kuru, those who are determined have a steady and focused mind. But the minds of the indecisive wander in many directions.'
+      english: 'O son of Kuru, those who are determined have a steady and focused mind. But the minds of the unsteady wander in many directions.'
     },
     {
       verse_number: '42',
@@ -442,8 +442,8 @@ export const chapter2: ChapterData = {
     {
       verse_number: 'closing',
       sanskrit: '॥ इति श्रीमद्भगवद्गीतासु उपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे साङ्ख्ययोगो नाम द्वितीयोऽध्यायः ॥',
-      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के "ज्ञान और विवेक का योग" नामक द्वितीय अध्याय का समापन होता है।',
-      english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the second chapter entitled "The Yoga of Knowledge and Understanding".'
+      hindi: 'इस प्रकार उपनिषदों के समान श्रीमद्भगवद्गीता के ब्रह्मविद्या और योगशास्त्र में श्रीकृष्ण-अर्जुन संवाद के "आत्मज्ञान का योग" नामक द्वितीय अध्याय का समापन होता है।',
+      english: 'Thus, in the Upanishad-like Srimad Bhagavad Gita, the scripture of Brahman-knowledge and Yoga, in the dialogue between Sri Krishna and Arjuna, ends the second chapter entitled "The Yoga of Self-Knowledge".'
     }
   ]
 };
