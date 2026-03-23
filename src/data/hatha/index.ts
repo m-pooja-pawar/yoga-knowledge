@@ -50,6 +50,21 @@ import { varunaMudra } from './varuna-mudra';
 import { suryaMudra } from './surya-mudra';
 import { hridayaMudra } from './hridaya-mudra';
 import { ashwiniMudra } from './ashwini-mudra';
+import { naturalBreathing } from './natural-breathing';
+import { abdominalBreathing } from './abdominal-breathing';
+import { chestBreathing } from './chest-breathing';
+import { yogicBreathing } from './yogic-breathing';
+import { kapalbhatiPranayama } from './kapalbhati-pranayama';
+import { bhastrika } from './bhastrika';
+import { bhramari } from './bhramari';
+import { sheetali } from './sheetali';
+import { sheetakari } from './sheetakari';
+import { ujjayi } from './ujjayi';
+import { anulomVilom } from './anulom-vilom';
+import { preparationForPranayama } from './preparation-for-pranayama';
+import { kumbhaka } from './kumbhaka';
+import { pranayamaBenefits } from './pranayama-benefits';
+import { pranayamaContraindications } from './pranayama-contraindications';
 
 export const hathaContent: Record<string, TopicContent> = {
   'introduction-to-yoga': introductionToYoga,
@@ -103,6 +118,21 @@ export const hathaContent: Record<string, TopicContent> = {
   'surya-mudra': suryaMudra,
   'hridaya-mudra': hridayaMudra,
   'ashwini-mudra': ashwiniMudra,
+  'natural-breathing': naturalBreathing,
+  'abdominal-breathing': abdominalBreathing,
+  'chest-breathing': chestBreathing,
+  'yogic-breathing': yogicBreathing,
+  'kapalbhati-pranayama': kapalbhatiPranayama,
+  'bhastrika': bhastrika,
+  'bhramari': bhramari,
+  'sheetali': sheetali,
+  'sheetakari': sheetakari,
+  'ujjayi': ujjayi,
+  'anulom-vilom': anulomVilom,
+  'preparation-for-pranayama': preparationForPranayama,
+  'kumbhaka': kumbhaka,
+  'pranayama-benefits': pranayamaBenefits,
+  'pranayama-contraindications': pranayamaContraindications,
 };
 
 export function getHathaTopicContent(id: string): TopicContent | undefined {
