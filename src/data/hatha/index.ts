@@ -48,7 +48,8 @@ import { shunyaMudra } from './shunya-mudra';
 import { prithviMudra } from './prithvi-mudra';
 import { varunaMudra } from './varuna-mudra';
 import { suryaMudra } from './surya-mudra';
-import { jalaMudra } from './jala-mudra';
+import { hridayaMudra } from './hridaya-mudra';
+import { ashwiniMudra } from './ashwini-mudra';
 
 export const hathaContent: Record<string, TopicContent> = {
   'introduction-to-yoga': introductionToYoga,
@@ -100,7 +101,8 @@ export const hathaContent: Record<string, TopicContent> = {
   'prithvi-mudra': prithviMudra,
   'varuna-mudra': varunaMudra,
   'surya-mudra': suryaMudra,
-  'jala-mudra': jalaMudra,
+  'hridaya-mudra': hridayaMudra,
+  'ashwini-mudra': ashwiniMudra,
 };
 
 export function getHathaTopicContent(id: string): TopicContent | undefined {

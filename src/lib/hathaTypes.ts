@@ -7,4 +7,5 @@ export interface HathaTopic {
   parentId?: string;
   href?: string;
   subOrder?: number;
+  subGroup?: string;
 }

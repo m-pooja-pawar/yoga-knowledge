@@ -139,37 +139,81 @@ export default function HathaSidebar() {
                             </p>
                           </div>
                         </Link>
-                        {subTopics.length > 0 && (
-                          <ul className="ml-4 mt-1 space-y-1 border-l border-sage-100 pl-3">
-                            {subTopics.map((sub) => {
-                              const isSubActive = currentTopicId === sub.id;
-                              return (
-                                <li key={sub.id}>
-                                  <Link
-                                    href={sub.href ?? `/hatha-yoga/${sub.id}`}
-                                    ref={isSubActive ? activeRef : undefined}
-                                    onClick={() => setIsOpen(false)}
-                                    className={`block px-3 py-2 rounded-lg transition-all duration-200 hover:bg-sage-50 flex items-start gap-2 ${
-                                      isSubActive ? 'bg-sage-100 text-gray-900 font-medium' : ''
-                                    }`}
-                                  >
-                                    <span className="flex-shrink-0 w-5 h-5 rounded-full bg-sage-50 text-sage-500 text-xs flex items-center justify-center font-medium">
-                                      {sub.subOrder ?? sub.order}
-                                    </span>
-                                    <div className="min-w-0">
-                                      <p className="text-gray-700 text-sm leading-tight">
-                                        {sub.title}
-                                      </p>
-                                      <p className="text-gray-400 text-xs mt-0.5 truncate">
-                                        {sub.subtitle}
-                                      </p>
-                                    </div>
-                                  </Link>
-                                </li>
-                              );
-                            })}
-                          </ul>
-                        )}
+                        {subTopics.length > 0 && (() => {
+                          const hasSubGroups = subTopics.some(t => t.subGroup);
+                          if (hasSubGroups) {
+                            const groups = [...new Set(subTopics.map(t => t.subGroup))];
+                            return (
+                              <ul className="ml-4 mt-1 border-l border-sage-100 pl-3">
+                                {groups.map((group) => (
+                                  <li key={group}>
+                                    <p className="text-xs text-gray-400 uppercase tracking-wider px-3 pt-3 pb-1">{group}</p>
+                                    <ul className="space-y-1">
+                                      {subTopics.filter(t => t.subGroup === group).map((sub) => {
+                                        const isSubActive = currentTopicId === sub.id;
+                                        return (
+                                          <li key={sub.id}>
+                                            <Link
+                                              href={sub.href ?? `/hatha-yoga/${sub.id}`}
+                                              ref={isSubActive ? activeRef : undefined}
+                                              onClick={() => setIsOpen(false)}
+                                              className={`block px-3 py-2 rounded-lg transition-all duration-200 hover:bg-sage-50 flex items-start gap-2 ${
+                                                isSubActive ? 'bg-sage-100 text-gray-900 font-medium' : ''
+                                              }`}
+                                            >
+                                              <span className="flex-shrink-0 w-5 h-5 rounded-full bg-sage-50 text-sage-500 text-xs flex items-center justify-center font-medium">
+                                                {sub.subOrder ?? sub.order}
+                                              </span>
+                                              <div className="min-w-0">
+                                                <p className="text-gray-700 text-sm leading-tight">
+                                                  {sub.title}
+                                                </p>
+                                                <p className="text-gray-400 text-xs mt-0.5 truncate">
+                                                  {sub.subtitle}
+                                                </p>
+                                              </div>
+                                            </Link>
+                                          </li>
+                                        );
+                                      })}
+                                    </ul>
+                                  </li>
+                                ))}
+                              </ul>
+                            );
+                          }
+                          return (
+                            <ul className="ml-4 mt-1 space-y-1 border-l border-sage-100 pl-3">
+                              {subTopics.map((sub) => {
+                                const isSubActive = currentTopicId === sub.id;
+                                return (
+                                  <li key={sub.id}>
+                                    <Link
+                                      href={sub.href ?? `/hatha-yoga/${sub.id}`}
+                                      ref={isSubActive ? activeRef : undefined}
+                                      onClick={() => setIsOpen(false)}
+                                      className={`block px-3 py-2 rounded-lg transition-all duration-200 hover:bg-sage-50 flex items-start gap-2 ${
+                                        isSubActive ? 'bg-sage-100 text-gray-900 font-medium' : ''
+                                      }`}
+                                    >
+                                      <span className="flex-shrink-0 w-5 h-5 rounded-full bg-sage-50 text-sage-500 text-xs flex items-center justify-center font-medium">
+                                        {sub.subOrder ?? sub.order}
+                                      </span>
+                                      <div className="min-w-0">
+                                        <p className="text-gray-700 text-sm leading-tight">
+                                          {sub.title}
+                                        </p>
+                                        <p className="text-gray-400 text-xs mt-0.5 truncate">
+                                          {sub.subtitle}
+                                        </p>
+                                      </div>
+                                    </Link>
+                                  </li>
+                                );
+                              })}
+                            </ul>
+                          );
+                        })()}
                       </li>
                     );
                   })}

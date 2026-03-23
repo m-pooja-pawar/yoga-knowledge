@@ -70,7 +70,7 @@ export const mudras: TopicContent = {
     },
     {
       type: 'paragraph',
-      content: 'Hand Mudras (Hasta Mudras) are grouped by purpose: Meditation Mudras, Pranic Mudras, and Element Mudras.',
+      content: 'Hand Mudras (Hasta Mudras) are grouped by purpose: Meditation Mudras, Pranic Mudras, Element Mudras, and Body Mudras.',
     },
     {
       type: 'subheading',
@@ -104,6 +104,7 @@ export const mudras: TopicContent = {
       cardItems: [
         { title: 'Prana Mudra', subtitle: 'Gesture of Vital Energy', href: '/hatha-yoga/mudras/prana-mudra' },
         { title: 'Apana Mudra', subtitle: 'Gesture of Downward Energy', href: '/hatha-yoga/mudras/apana-mudra' },
+        { title: 'Hridaya Mudra', subtitle: 'Gesture of the Heart', href: '/hatha-yoga/mudras/hridaya-mudra' },
       ],
     },
     {
@@ -122,7 +123,20 @@ export const mudras: TopicContent = {
         { title: 'Prithvi Mudra', subtitle: 'Gesture of Earth', href: '/hatha-yoga/mudras/prithvi-mudra' },
         { title: 'Varuna Mudra', subtitle: 'Gesture of Water', href: '/hatha-yoga/mudras/varuna-mudra' },
         { title: 'Surya Mudra', subtitle: 'Gesture of Fire', href: '/hatha-yoga/mudras/surya-mudra' },
-        { title: 'Jala Mudra', subtitle: 'Gesture of Water (variation)', href: '/hatha-yoga/mudras/jala-mudra' },
+      ],
+    },
+    {
+      type: 'subheading',
+      content: 'Body Mudras',
+    },
+    {
+      type: 'paragraph',
+      content: 'Mudras involving the whole body or specific muscle groups to influence the flow of energy.',
+    },
+    {
+      type: 'cards',
+      cardItems: [
+        { title: 'Ashwini Mudra', subtitle: 'Horse Gesture', href: '/hatha-yoga/mudras/ashwini-mudra' },
       ],
     },
     {
