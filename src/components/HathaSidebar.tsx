@@ -142,7 +142,7 @@ export default function HathaSidebar() {
                         {subTopics.length > 0 && (() => {
                           const hasSubGroups = subTopics.some(t => t.subGroup);
                           if (hasSubGroups) {
-                            const groups = [...new Set(subTopics.map(t => t.subGroup))];
+                            const groups = Array.from(new Set(subTopics.map(t => t.subGroup)));
                             return (
                               <ul className="ml-4 mt-1 border-l border-sage-100 pl-3">
                                 {groups.map((group) => (
